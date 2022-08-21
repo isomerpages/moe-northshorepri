@@ -8,5 +8,7 @@ links:
     collection: moe-kindergarten
   - title: Calendar
     url: /Calendar/
+  - title: Information
+    collection: information
   - title: Contact Us
     url: /contact-us/
