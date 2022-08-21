@@ -22,3 +22,6 @@ MT Fortnight activity (Chinese): forming the Chinese character “吉” using 
 
 ![](/images/MT_chinese_pic04.jpg)
 MT Fortnight activity (Chinese): learning to present mandarin oranges with both hands.
+
+![](/images/MT_chinese_pic05.jpg)
+MT Fortnight activity (Chinese): making of red lanterns while retelling the Story of Nian.
