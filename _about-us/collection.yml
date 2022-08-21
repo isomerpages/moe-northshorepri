@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
+      - example-subfolder/.keep
+      - example-subfolder/subfolder-page.md
       - Organisation Chart.md
       - Teaching Staff.md
       - Non Teaching Staff.md
       - School Advisory Committee.md
       - Newsletter.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
