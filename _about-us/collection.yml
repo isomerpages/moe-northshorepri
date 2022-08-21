@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - example-subfolder/School Facilities.md
-      - example-subfolder/School Leaders.md
-      - example-subfolder/.keep
-      - example-subfolder/Our Curriculum.md
+      - Introduction/School Facilities.md
+      - Introduction/School Leaders.md
+      - Introduction/.keep
+      - Introduction/Our Curriculum.md
       - Organisation Chart.md
       - Teaching Staff.md
       - Non Teaching Staff.md
