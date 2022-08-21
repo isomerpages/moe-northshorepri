@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Advisory Committee.md
       - Newsletter.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
