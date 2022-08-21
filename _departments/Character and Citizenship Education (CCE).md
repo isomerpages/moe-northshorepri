@@ -40,3 +40,6 @@ Discovering Northshore's flora and fauna.
 
 ![](/images/2022-Cce_Pic04.jpg)
 Interactive exploration of the school.
+
+![](/images/2022-Cce_Pic05.jpg)
+P2 seniors welcoming their P1 juniors with a message from the heart.
