@@ -13,14 +13,11 @@ description: ""
 
 Our operating hours are:
 
-MK: 8 am to 5 pm
-
+MK: 8 am to 5 pm   
 KCare: 7 am to 7 pm
 
-  
 
-From 2021: K1, KCare
-
+From 2021: K1, KCare   
 From 2022: K1, K2, KCare
 
   
