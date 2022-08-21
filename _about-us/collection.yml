@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Introduction/School Vision.md
       - Introduction/School Values.md
       - Introduction/School Facilities.md
       - Introduction/School Leaders.md
