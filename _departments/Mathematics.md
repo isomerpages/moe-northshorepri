@@ -26,3 +26,11 @@ Concrete-Pictorial-Abstract (CPA) approach is a key curriculum approach in the t
 ![](/images/math.jpg)
 
 Students were engaged in activity-based learning to compare numbers up to 10, using manipulatives like snap link cubes and paper cut-outs.
+
+![](/images/math%201.jpg)
+
+Students learnt to use Mathematical language; more than, fewer than and the same number, to compare the numbers of the different-coloured cubes.
+
+![](/images/Pic_m_ipad.jpg)
+
+Students are engaged in activity-based learning using iPad.
