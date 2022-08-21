@@ -22,6 +22,6 @@ From 2022: K1, K2, KCare
 
   
 
-#### For more information on MOE Kindergartens
+### For more information on MOE Kindergartens
 
 Please visit the MOE website at [https://moe.gov.sg/preschool/moe-kindergarten](https://moe.gov.sg/preschool/moe-kindergarten)
