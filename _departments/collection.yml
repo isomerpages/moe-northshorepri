@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mathematics.md
       - PE & Aesthetics/PE & Health Education.md
       - PE & Aesthetics/Art.md
       - PE & Aesthetics/Music.md
