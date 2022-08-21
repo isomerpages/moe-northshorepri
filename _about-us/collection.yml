@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - example-subfolder/School Facilities.md
       - example-subfolder/School Leaders.md
       - example-subfolder/.keep
       - example-subfolder/Our Curriculum.md
