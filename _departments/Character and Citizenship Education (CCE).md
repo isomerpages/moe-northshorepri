@@ -61,3 +61,12 @@ Celebrating Total Defence Day
 
 ![](/images/2022-Cce_Pic09.jpg)
 Never too young to put values into action
+
+![](/images/2022-Cce_Pic10.jpg)
+Partnering Food From The Heart
+
+![](/images/2022-Cce_Pic11.jpeg)
+Students participating in International Friendship Day activities.
+
+![](/images/2022-Cce_Pic12.jpg)
+Weaving our hearts together for Racial Harmony Day
