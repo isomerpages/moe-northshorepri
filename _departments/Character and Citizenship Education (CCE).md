@@ -50,3 +50,5 @@ An appreciation day with the following objectives:
 1.    To strengthen teacher-student relationships, peer support and relationships.
 2.    To consolidate the learning experiences and milestones of Northshoreans.
 
+![](/images/2022-Cce_Pic06.jpg)
+Appreciating our grandparents
