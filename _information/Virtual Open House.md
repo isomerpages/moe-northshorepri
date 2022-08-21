@@ -13,4 +13,4 @@ To know more about the beliefs of the school, the programme and students’ expe
 
 The school has wonderful facilities to support our students’ learning. View these facilities here - file exceeds 5MB.  
   
-If you want to know more about our students’ experiences and school events in Semester 1 (2022), read our inaugural issue of the newsletter. Click [here](https://northshorepri.moe.edu.sg/about-us/newsletters) to read !!
+If you want to know more about our students’ experiences and school events in Semester 1 (2022), read our inaugural issue of the newsletter. Click [here](https://northshorepri.moe.edu.sg/about-us/newsletters) to read!!
