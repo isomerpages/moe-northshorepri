@@ -23,3 +23,9 @@ c) Provide the basis to develop an informed and life-long involvement in music
 | **Music Assembly** 	| Students are exposed to different music forms and music instruments from various cultures once per semester. Through music, songs, instruments, costumes and props, students can get a better understanding of the music style and culture. 	|
 | **Mass Music and Movement** 	| Music and movement during celebratory events encourage active participation, community integration and expression of feelings. 	|
 | **Musical Show** 	| The musical show is a platform for students to showcase a musical item as a class to their level. This provides a chance for all students to perform collaboratively as a class and celebrate their musical success of the year.  	|
+
+![](/images/Music%20Pic01.jpg)
+Music and movement through the use of ribbons. Dancing to Chinese new year song as a cultural exposure.
+	
+![](/images/Music%20Pic02.jpg)
+Peer-learning in the music classroom.
