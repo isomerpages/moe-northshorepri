@@ -34,3 +34,9 @@ MT Fortnight activity (Malay): making Hari Raya greeting card
 
 ![](/images/MTF%20activityMalay_HariRaya_GreenPacket.jpg)
 MT Fortnight activity (Malay): making Hari Raya green packets
+
+**I am a little Tour Guide**
+![](/images/Little%20Tour%20Guide%20poster.jpg)
+Click the link in each letter below to explore more:
+
+[**A**](https://www.thinglink.com/card/1601590443823333379) \- Level 1, [**B**](https://www.thinglink.com/card/1601590550530621443) \- Level 2, [**C**](https://www.thinglink.com/card/1601590664309506051) \- Level 4, [**D**](https://www.thinglink.com/card/1603704273437196291) \- Level 5, [**E**](https://www.thinglink.com/card/1601590849827766275) \- Level 7
