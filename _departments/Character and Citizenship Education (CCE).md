@@ -37,3 +37,6 @@ Discovering Northshore's facilities.
 
 ![](/images/2022-Cce_Pic03.jpg)
 Discovering Northshore's flora and fauna.
+
+![](/images/2022-Cce_Pic04.jpg)
+Interactive exploration of the school.
