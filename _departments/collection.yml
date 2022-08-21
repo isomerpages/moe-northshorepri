@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - PE & Aesthetics/Music.md
       - PE & Aesthetics/.keep
       - Character and Citizenship Education (CCE).md
