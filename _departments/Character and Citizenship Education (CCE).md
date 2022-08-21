@@ -55,3 +55,9 @@ Appreciating our grandparents
 
 ![](/images/2022-Cce_Pic07.jpg)
 Celebrating National Day with gratefulness
+
+![](/images/2022-Cce_Pic08.jpg)
+Celebrating Total Defence Day
+
+![](/images/2022-Cce_Pic09.jpg)
+Never too young to put values into action
