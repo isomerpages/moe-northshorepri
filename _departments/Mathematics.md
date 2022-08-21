@@ -51,3 +51,7 @@ Math@Play programmes, a unique feature of the Mathematics curriculum at Northsho
 * Project Help our Explorers Learn Math – Project H.E.L.M. (Home-School Partnership)
 * Terrific Thursday
 * Math Week
+
+![](/images/math%202.jpg)
+
+Students are provided with opportunities to demonstrate their creativity by creating and playing games through the activities in Project H.E.L.M.
