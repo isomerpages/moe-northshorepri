@@ -25,3 +25,12 @@ MT Fortnight activity (Chinese): learning to present mandarin oranges with both 
 
 ![](/images/MT_chinese_pic05.jpg)
 MT Fortnight activity (Chinese): making of red lanterns while retelling the Story of Nian.
+
+![](/images/MTF%20activityTamil_Pongal%20card.jpg)
+MT Fortnight activity (Tamil): making the Pongal greeting card
+
+![](/images/MTF%20activityMalay_HariRaya_GreetingCart.jpg)
+MT Fortnight activity (Malay): making Hari Raya greeting card
+
+![](/images/MTF%20activityMalay_HariRaya_GreenPacket.jpg)
+MT Fortnight activity (Malay): making Hari Raya green packets
