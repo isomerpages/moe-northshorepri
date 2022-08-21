@@ -10,9 +10,9 @@ Our Primary 1 English syllabus is developed based on the MOE English Syllabus 20
   
 STELLAR is an interactive literacy programme that fosters confidence in learning English using children’s literature. Students will also engage in various theme-based experiences which deepen their learning and understanding.
 
-**Our Programmes for Primary 1  
-****  
-(i)    Learning Support Programme (LSP)**  
+**Our Programmes for Primary 1**  
+
+**(i)    Learning Support Programme (LSP)**  
 The Learning Support Programme (LSP) is a MOE-developed early intervention effort to help students strengthen their basic literacy skills. Identified Primary 1 students will receive additional help in oral and reading skills in English through a daily 30-minute lesson conducted within curriculum time. The aim of the programme is to equip these students with basic oral language, reading and spelling skills in English so that they can learn in the regular classes.  
   
 **(ii)     Read On Board**  
