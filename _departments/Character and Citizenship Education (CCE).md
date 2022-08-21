@@ -28,3 +28,12 @@ An orientation programme with the following objectives:
 2.    To induct our new students into the school culture by familiarising them with school values and aligning expectations with them.   
 3.    To build positive teacher-student relationship and peer relationship.   
 4.    To engage parents in building positive home-school partnership in shaping positive values and attitudes.
+
+![](/images/2022-Cce_Pic01.jpg)
+Bonding as students create their unique class tree here.
+
+![](/images/2022-Cce_Pic02.jpg)
+Discovering Northshore's facilities.
+
+![](/images/2022-Cce_Pic03.jpg)
+Discovering Northshore's flora and fauna.
