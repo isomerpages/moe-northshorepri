@@ -52,3 +52,6 @@ An appreciation day with the following objectives:
 
 ![](/images/2022-Cce_Pic06.jpg)
 Appreciating our grandparents
+
+![](/images/2022-Cce_Pic07.jpg)
+Celebrating National Day with gratefulness
