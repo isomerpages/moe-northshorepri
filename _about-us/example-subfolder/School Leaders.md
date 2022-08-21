@@ -22,7 +22,7 @@ Mrs Lam believes that every child can be nurtured to be a great learner, and she
 
 ### Vice Principal: Mdm Gan Ser Min
 
-![](/images/Gan%20Ser%20Min.jpg)
+<img src="/images/Gan%20Ser%20Min.jpg" style="width:230px;height:300px;margin-left:15px;" align = "right">
 
 Mdm Gan Ser Min was appointed Vice-Principal (Designate) of Northshore Primary School on 23 March 2020. She has more than 15 years of experience as an educator.
 
@@ -36,7 +36,7 @@ With her vast experience in different schools with varying student profiles, Mdm
 
 ### Vice-Principal (Admin) : Mdm Catherine Ong
 
-![](/images/Mdm%20Ong.jpg)
+<img src="/images/Mdm%20Ong.jpg" style="width:230px;height:300px;margin-left:15px;" align = "right">
 
 Mdm Catherine Ong was appointed Vice-Principal Admin (Designate) of Northshore Primary School on 14 September 2020.  Concurrently, she is also the Vice-Principal Admin of Damai Primary School until December 2020. Before joining MOE, Mdm Ong was in the retail sector for more than 20 years. She held the position as Director, Retail Operations.
 
