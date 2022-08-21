@@ -7,6 +7,7 @@ description: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/05D8E6DO4SI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ![](/images/MKE_L1.jpg)
 Playing at the Level 5 outdoor field
 
@@ -30,4 +31,3 @@ Attempting an obstacle course at the MSD (Motor Skills Development) room
 
 ![](/images/MKE_L8.jpg)
 Celebrating National Day at the Music and Movement (M&M) room
-
