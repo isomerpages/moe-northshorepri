@@ -16,3 +16,9 @@ The development of language skills has to work closely with the development of c
 
 ![](/images/MT_chinese_pic01.jpg)
 MT Fortnight activity (Chinese): jigsaw puzzle on the pictorial form of the Chinese character Ox.
+
+![](/images/MT_chinese_pic03.jpg)
+MT Fortnight activity (Chinese): forming the Chinese character “吉” using red packets.
+
+![](/images/MT_chinese_pic04.jpg)
+MT Fortnight activity (Chinese): learning to present mandarin oranges with both hands.
