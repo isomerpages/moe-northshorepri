@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - example-subfolder/Our Curriculum.md
       - Organisation Chart.md
       - Teaching Staff.md
       - Non Teaching Staff.md
