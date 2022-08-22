@@ -28,7 +28,7 @@ description: ""
 | Email: 	| [Admin-@the-continental.com.sg](mailto:Admin-@the-continental.com.sg) 	|
 
 
-#### School Uniform
+### School Uniform
 
 | Shanghai School Uniforms Pte Ltd 	|  	|
 |---	|---	|
@@ -36,3 +36,16 @@ description: ""
 | Tel: 	| 6352 2741 	|
 | Fax: 	| 6842 2741 	|
 | Website: 	| [https://shanghai-uniforms.com/](https://shanghai-uniforms.com/) 	|
+
+
+
+### Bus Services
+
+| BT&Tan Transport Pte Ltd 	|  	|
+|---	|---	|
+| Mailing Address: 	| 7030 Ang Mo Kio Ave 5<br>#03-19 Northstar@AMK<br>Singapore 569880 	|
+| Tel: 	| 6483 7260 	|
+| Fax: 	| 6483 7261 	|
+| Email: 	| [admin@btntan.com](mailto:admin@btntan.com) 	|
+| Website: 	| [http://www.btntan.com/](http://www.btntan.com/) 	|
+
