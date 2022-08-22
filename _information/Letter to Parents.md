@@ -18,3 +18,10 @@ SingPass 2-Step Verification (2FA) is required for on boarding. If you have not 
 **Step 2 – Download Parents Gateway Mobile App**  
 a.    Open the Apple App Store, Huawei App Gallery or Google Play Store app on your mobile phone.  
 b.    Search for the ‘Parents Gateway’ mobile app, or scan the QR code below.
+
+![](/images/Parent%20letter%20-%20barcode2-1.jpg)
+
+c.    Download and install the app on your phone.  
+d.    Enable ‘Allow Notifications’ to receive push notifications.  
+  
+**Note**: Supported OS Versions - **Android 5.0 or later & iOS 9.1 or later**
