@@ -33,3 +33,7 @@ Guide for students to sign in to Google Classroom and Change of password:
   
 Student iCON onboarding and Change of password guide:  
 [Student iCON Onboarding Guide.pdf](/files/Student%20iCON%20Onboarding%20Guide.pdf)
+
+![](/images/Student%20iCON%20-%20Student%20EDM%20Onboarding%20%20Introducing%20Student%20iCON.jpg)
+
+![](/images/Student%20iCON%20-%20Student%20EDM%20IAMS%20Password%20Requirements.jpg)
