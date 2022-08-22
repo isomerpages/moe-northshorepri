@@ -25,3 +25,7 @@ c.    Download and install the app on your phone.
 d.    Enable ‘Allow Notifications’ to receive push notifications.  
   
 **Note**: Supported OS Versions - **Android 5.0 or later & iOS 9.1 or later**
+
+![](/images/Parent%20letter%20-%20image_3.jpg)
+
+![](/images/Parent%20letter%20-%20image_4.jpg)
