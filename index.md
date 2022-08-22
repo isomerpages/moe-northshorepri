@@ -18,9 +18,9 @@ sections:
         - title: GOING bACK TO SCHOOL
           description: Click here to watch video!
           url: https://staging.d308ypurd6xn80.amplifyapp.com/information/announcements
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Virtual Open hOUse
+          description: Click here for more info!
+          url: https://staging.d308ypurd6xn80.amplifyapp.com/information/virtual-open-house
   - infobar:
       title: Infobar title
       subtitle: Subtitle
