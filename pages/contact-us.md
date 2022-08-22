@@ -14,22 +14,20 @@ locations:
         description: Closed on Weekends and Public Holidays
     maps_link: https://goo.gl/maps/JBmZdSHwBJkWtf759
     title: Mailing Address
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6202 6490
+      - email: ""
+      - other: ""
+    title: "Tel:"
+  - content:
+      - phone: +65 8907 0483
+      - email: ""
+      - other: ""
+    title: "Emergency Contact:"
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: northshore_ps@moe.edu.sg
       - other: ""
-    title: Careers
+    title: "Email:"
 ---
