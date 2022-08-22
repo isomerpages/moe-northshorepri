@@ -2,5 +2,6 @@ collections:
   information:
     output: true
     order:
+      - Announcements.md
       - For Students.md
       - Virtual Open House.md
