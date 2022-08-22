@@ -13,5 +13,5 @@ Semester 1 (2022) - file exceeds 5MB
 
 ![](/images/3%20May%202022%203M%20STEM%20workshop.jpg)
 
-Semester 2 (2021) - file exceeds 5MB
+Semester 2 (2021) - file exceeds 5MB   
 Semester 1 (2021) - file exceeds 5MB
