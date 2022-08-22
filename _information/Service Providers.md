@@ -26,3 +26,13 @@ description: ""
 | Tel: 	| 6247 8482 	|
 | Fax: 	| 6844 1779 	|
 | Email: 	| [Admin-@the-continental.com.sg](mailto:Admin-@the-continental.com.sg) 	|
+
+
+#### School Uniform
+
+| Shanghai School Uniforms Pte Ltd 	|  	|
+|---	|---	|
+| Mailing Address: 	| 63 Ubi Avenue 1<br>#04-09 63@Ubi<br>Singapore 408937 	|
+| Tel: 	| 6352 2741 	|
+| Fax: 	| 6842 2741 	|
+| Website: 	| [https://shanghai-uniforms.com/](https://shanghai-uniforms.com/) 	|
