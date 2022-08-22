@@ -12,6 +12,9 @@ locations:
       - days: Mon - Fri
         time: 8.00am - 4.00pm
         description: Closed on Weekends and Public Holidays
+      - days: Nearest MRT Station
+        time: NE17 - Punggol Station
+        description: ""
     maps_link: https://goo.gl/maps/JBmZdSHwBJkWtf759
     title: Mailing Address
 contacts:
