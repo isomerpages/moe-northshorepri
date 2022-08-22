@@ -11,3 +11,6 @@ Please follow the following Step by Step Guide to Onboard Parents Gateway
   
 **Step 1 – SingPass Registration and 2FA Setup**  
 SingPass 2-Step Verification (2FA) is required for on boarding. If you have not registered for a SingPass or have not set up the 2FA, please visit the SingPass website ([https://www.singpass.gov.sg](https://www.singpass.gov.sg/)), or scan the QR codes below to do so. Should you require further assistance, please contact the SingPass Helpdesk at 6335-3533.
+
+<img src="/images/Parent%20letter%20-%20barcode1-1.jpg" 
+     style="width:60%">
