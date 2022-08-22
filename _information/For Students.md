@@ -27,8 +27,8 @@ b) Annex B – a set of Frequently Asked Questions (FAQs) on SLS.
 
 For technical assistance, you may contact:  
 
-a) School-based Helpdesk at Ng\_Choon\_hong@schools.gov.sg or 62026490.
-b) SLS Helpdesk at helpdesk@sls.ufinity.com or 6702 6513.
+a) School-based Helpdesk at [Ng_Choon_hong@schools.gov.sg](mailto:Ng_Choon_hong@schools.gov.sg) or 62026490.
+b) SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) or 6702 6513.
 
 ### Student iCON
 
