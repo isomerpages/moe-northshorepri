@@ -4,21 +4,20 @@ title: Northshore Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Northshore Primary School
+      background: /images/6d09214aa_162.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Homed Based Learning Matters
+          description: Click here for more!
+          url: https://staging.d308ypurd6xn80.amplifyapp.com/information/announcements
+        - title: GOING bACK TO SCHOOL
+          description: Click here to watch video!
+          url: https://staging.d308ypurd6xn80.amplifyapp.com/information/announcements
         - title: Page A
           description: Page A is important too
           url: /privacy/
@@ -29,5 +28,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
