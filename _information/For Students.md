@@ -22,3 +22,14 @@ You can refer to the following annexes: 
 
 a) Annex A – instructions for you to assist your child with his/her initial login, and
 b) Annex B – a set of Frequently Asked Questions (FAQs) on SLS.
+
+### Student iCON
+
+Onboarding students for Zoom:   
+[Student\_Zoom\_Onboarding\_Guide.pdf](https://northshorepri.moe.edu.sg/qql/slot/u236/Information/For%20Students/Student_Zoom_Onboarding_Guide.pdf)  
+  
+Guide for students to sign in to Google Classroom and Change of password:  
+[User Guide on how to sign in to your Google Classroom and change password.pdf](https://northshorepri.moe.edu.sg/qql/slot/u236/Information/For%20Students/User%20Guide%20on%20how%20to%20sign%20in%20to%20your%20Google%20Classroom%20and%20change%20password.pdf)  
+  
+Student iCON onboarding and Change of password guide:  
+[Student iCON Onboarding Guide.pdf](https://northshorepri.moe.edu.sg/qql/slot/u236/Information/For%20Students/Student%20iCON%20Onboarding%20Guide.pdf)
