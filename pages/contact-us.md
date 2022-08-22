@@ -18,6 +18,11 @@ locations:
       - days: Nearest LRT Station
         time: Punggol Point - PW3
         description: ""
+      - days: Bus Services
+        time: ""
+        description: |-
+          SBS: 84 (Outside the school, Punggol Way)
+          SBS: 384 (Opposite school main gate 1, Northshore Drive) 
     maps_link: https://goo.gl/maps/JBmZdSHwBJkWtf759
     title: Mailing Address
 contacts:
