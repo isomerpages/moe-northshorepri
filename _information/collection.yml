@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Service Providers.md
       - Letter to Parents.md
       - Canteen.md
       - Announcements.md
