@@ -22,9 +22,13 @@ sections:
           description: Click here for more info!
           url: https://staging.d308ypurd6xn80.amplifyapp.com/information/virtual-open-house
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Northshore Primary School is on the Newspaper!
+      button: Click here
+      url: https://staging.d308ypurd6xn80.amplifyapp.com/information/announcements
+  - infobar:
+      title: Building Northshore Primary School
+      subtitle: Infobar Subtitle
+      description: Click on the button below to see the process of Northshore taking shape!
+      button: Click here
+      url: https://northshorepri-moe-edu-sg-admin.cwp.sg/qql/slot/u236/building%20process%20PDF.pdf
 ---
