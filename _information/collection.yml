@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Rules and Regulations.md
       - School Hours.md
       - Service Providers.md
       - Letter to Parents.md
