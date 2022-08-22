@@ -11,8 +11,7 @@ description: ""
 *   [MOE Facebook](https://www.facebook.com/moesingapore)
 *   [Bully Free Campaign](https://bullyfree.sg/)
 
-Student Learning Space
-----------------------
+### Student Learning Space
 
 **HOW SINGAPORE STUDENT LEARNING SPACE SUPPORTS LEARNING**  
 As part of Ministry of Education's (MOE) commitment to nurture future-ready learners, an online learning platform known as the _**Singapore Student Learning Space (SLS**)_ is made available to the students.  
@@ -23,16 +22,11 @@ The SLS is an online platform with tools and curriculum-aligned resources for al
 
 The SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)[.](https://learning.moe.edu.sg/)
 
-You can refer to the following annexes: 
-
-> a) Annex A – instructions for you to assist your child with his/her initial login, and
-> 
-> b) Annex B – a set of Frequently Asked Questions (FAQs) on SLS.
-> 
-> [Getting started with SLS Annexes A & B.pdf](https://northshorepri.moe.edu.sg/qql/slot/u236/Information/For%20Students/Getting%20started%20with%20SLS%20Annexes%20A%20%20B.pdf)  
+You can refer to the following annexes:   
+a) Annex A – instructions for you to assist your child with his/her initial login, and
+b) Annex B – a set of Frequently Asked Questions (FAQs) on SLS.   
+[Getting started with SLS Annexes A & B.pdf](/files/Getting%20started%20with%20SLS%20Annexes%20A%20%20B.pdf)  
 
 For technical assistance, you may contact:  
-
-> a) School-based Helpdesk at Ng\_Choon\_hong@schools.gov.sg or 62026490.  
-> 
-> b) SLS Helpdesk at helpdesk@sls.ufinity.com or 6702 6513.
+a) School-based Helpdesk at Ng\_Choon\_hong@schools.gov.sg or 62026490.  
+b) SLS Helpdesk at helpdesk@sls.ufinity.com or 6702 6513.
