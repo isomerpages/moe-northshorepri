@@ -30,5 +30,5 @@ sections:
       subtitle: Infobar Subtitle
       description: Click on the button below to see the process of Northshore taking shape!
       button: Click here
-      url: https://northshorepri-moe-edu-sg-admin.cwp.sg/qql/slot/u236/building%20process%20PDF.pdf
+      url: /Building-Northshore-Primary
 ---
