@@ -16,4 +16,13 @@ description: ""
 | Email Student Care Centre 	| [nsscc@ymca.edu.sg](mailto:nsscc@ymca.edu.sg) 	|
 | Email KCare  	| [nskcc@ymca.edu.sg](mailto:nskcc@ymca.edu.sg) 	|
 
+
+
 ### Books & Stationery
+
+| The Continental Book Centre 	|  	|
+|---	|---	|
+| Mailing Address: 	| 1013, Geylang East Avenue 3, #02-154 <br>Singapore 389728 	|
+| Tel: 	| 6247 8482 	|
+| Fax: 	| 6844 1779 	|
+| Email: 	| Admin-@the-continental.com.sg 	|
