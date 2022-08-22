@@ -3,3 +3,11 @@ title: Letter to Parents
 permalink: /information/letter-to-parents
 description: ""
 ---
+# **Letter to Parents**
+
+Northshore Primary School is using the Parents Gateway mobile app to send letters to parents. For parents who are unable to access Parents Gateway, please be assured that we will continue to keep you updated via hardcopy letters or email.  
+  
+Please follow the following Step by Step Guide to Onboard Parents Gateway  
+  
+**Step 1 – SingPass Registration and 2FA Setup**  
+SingPass 2-Step Verification (2FA) is required for on boarding. If you have not registered for a SingPass or have not set up the 2FA, please visit the SingPass website ([https://www.singpass.gov.sg](https://www.singpass.gov.sg/)), or scan the QR codes below to do so. Should you require further assistance, please contact the SingPass Helpdesk at 6335-3533.
