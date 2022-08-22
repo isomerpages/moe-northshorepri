@@ -25,4 +25,4 @@ description: ""
 | Mailing Address: 	| 1013, Geylang East Avenue 3, #02-154 <br>Singapore 389728 	|
 | Tel: 	| 6247 8482 	|
 | Fax: 	| 6844 1779 	|
-| Email: 	| Admin-@the-continental.com.sg 	|
+| Email: 	| [Admin-@the-continental.com.sg](mailto:Admin-@the-continental.com.sg) 	|
