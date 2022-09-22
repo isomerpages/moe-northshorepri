@@ -5,7 +5,7 @@ description: ""
 ---
 # **Newsletters**
  
-[Semester 1 (2022](/files/NorthshorePri_Newsletter_Sem1_2022-C.pdf)  
+[Semester 1 (2022)](/files/NorthshorePri_Newsletter_Sem1_2022-C.pdf)  
 In The News
 ![](/images/25%20April%202022%20School%20Design.jpg)
 
