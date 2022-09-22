@@ -27,7 +27,6 @@ sections:
       url: https://staging.d308ypurd6xn80.amplifyapp.com/information/announcements
   - infobar:
       title: Building Northshore Primary School
-      subtitle: Infobar Subtitle
       description: Click on the button below to see the process of Northshore taking shape!
       button: Click here
       url: /Building-Northshore-Primary
