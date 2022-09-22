@@ -4,10 +4,9 @@ permalink: /about-us/newsletters/
 description: ""
 ---
 # **Newsletters**
-
-Semester 1 (2022) - file exceeds 5MB  
-[Semester 1](/files/NorthshorePri_Newsletter_Sem1_2022-C.pdf) (2022)
-
+ 
+[Semester 1](/files/NorthshorePri_Newsletter_Sem1_2022-C.pdf) (2022)  
+In The News
 ![](/images/25%20April%202022%20School%20Design.jpg)
 
 ![](/images/2%20May%202022%20Women%20in%20STEM.jpg)
