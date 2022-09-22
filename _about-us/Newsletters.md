@@ -1,12 +1,12 @@
 ---
 title: Newsletters
-permalink: /about-us/newsletters
+permalink: /about-us/newsletters/
 description: ""
 ---
-
 # **Newsletters**
 
-Semester 1 (2022) - file exceeds 5MB
+Semester 1 (2022) - file exceeds 5MB  
+[Semester 1](/files/NorthshorePri_Newsletter_Sem1_2022-C.pdf) (2022)
 
 ![](/images/25%20April%202022%20School%20Design.jpg)
 
