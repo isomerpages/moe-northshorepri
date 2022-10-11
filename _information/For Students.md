@@ -21,14 +21,14 @@ The SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe
 
 You can refer to the following annexes: 
 
-a) Annex A – instructions for you to assist your child with his/her initial login, and
+a) Annex A – instructions for you to assist your child with his/her initial login, and  
 b) Annex B – a set of Frequently Asked Questions (FAQs) on SLS.
 
 [Getting started with SLS Annexes A & B.pdf](/files/Getting%20started%20with%20SLS%20Annexes%20A%20%20B.pdf)  
 
 For technical assistance, you may contact:  
 
-a) School-based Helpdesk at [Ng_Choon_hong@schools.gov.sg](mailto:Ng_Choon_hong@schools.gov.sg) or 62026490.
+a) School-based Helpdesk   at [Ng_Choon_hong@schools.gov.sg](mailto:Ng_Choon_hong@schools.gov.sg) or 62026490.  
 b) SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com) or 6702 6513.
 
 ### Student iCON
