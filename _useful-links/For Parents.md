@@ -1,6 +1,6 @@
 ---
 title: For Parents
-permalink: /useful-links/for-parents
+permalink: /useful-links/for-parents/
 description: ""
 ---
 # **For Parents**
@@ -23,7 +23,7 @@ The SLS is an online platform with tools and curriculum-aligned resources for al
 The SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)[.](https://learning.moe.edu.sg/)
 
 You can refer to the following annexes:   
-a) Annex A – instructions for you to assist your child with his/her initial login, and
+a) Annex A – instructions for you to assist your child with his/her initial login, and  
 b) Annex B – a set of Frequently Asked Questions (FAQs) on SLS.   
 [Getting started with SLS Annexes A & B.pdf](/files/Getting%20started%20with%20SLS%20Annexes%20A%20%20B.pdf)  
 
