@@ -5,7 +5,7 @@ description: ""
 ---
 # **Our Learning Experiences**
 
-<iframe width="560" height="315" src=https://www.youtube.com/embed/05D8E6DO4SI?wmode=transparent&amp;playlist=05D8E6DO4SI&amp;loop=1 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="width: 821px; height: 461px;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/05D8E6DO4SI?wmode=transparent&amp;playlist=05D8E6DO4SI&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <img src="/images/MKE_L1.jpg" />
