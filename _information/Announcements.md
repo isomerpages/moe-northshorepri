@@ -5,7 +5,7 @@ description: ""
 ---
 # **Announcements**
 
-<iframe width="560" height="315" src=https://www.youtube.com/embed/t2i4ScY4P9w?wmode=transparent&amp;playlist=t2i4ScY4P9w&amp;loop=1 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="width: 760px; height: 427px;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t2i4ScY4P9w?wmode=transparent&amp;playlist=t2i4ScY4P9w&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>Northshore Primary School is in the news!</strong><p>
 We are proud of our students for their active participation and curiosity in wanting to know more about STEM and History through their Chinese Language lesson.   
