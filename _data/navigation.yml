@@ -14,3 +14,10 @@ links:
     collection: useful-links
   - title: Contact Us
     url: /contact-us/
+  - title: Information
+    url: /permalink
+    sublinks:
+      - title: Rules and Regulations
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
