@@ -9,12 +9,6 @@ links:
   - title: Calendar
     url: /Calendar/
   - title: Information
-    collection: information
-  - title: Useful Links
-    collection: useful-links
-  - title: Contact Us
-    url: /contact-us/
-  - title: Information
     url: /permalink
     sublinks:
       - title: Rules and Regulations
@@ -33,3 +27,7 @@ links:
         url: /information/for-students
       - title: Virtual Open House
         url: /information/virtual-open-house
+  - title: Useful Links
+    collection: useful-links
+  - title: Contact Us
+    url: /contact-us/
