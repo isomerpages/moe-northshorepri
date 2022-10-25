@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - In The News.md
       - Home Base Learning.md
