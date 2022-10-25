@@ -1,6 +1,6 @@
 ---
 title: Non Teaching Staff
-permalink: /about-us/non-teaching-staff
+permalink: /about-us/non-teaching-staff/
 description: ""
 ---
 # **Non-Teaching Staff**
@@ -10,7 +10,7 @@ description: ""
 | Mrs Christine Lam 	| Principal 	| [christine_lee@schools.gov.sg](mailto:christine_lee@schools.gov.sg) 	|
 | Mdm Catherine Ong 	| Vice Principal (Admin) 	| [ong_yin_peng@schools.gov.sg](mailto:ong_yin_peng@schools.gov.sg) 	|
 | Mdm Gan Ser Min 	| Vice Principal (Academic) 	| [gan_ser_min@schools.gov.sg](mailto:gan_ser_min@schools.gov.sg) 	|
-| Mdm Syahira 	| Allied Educator (Learning and Behavioural Support) 	| [nurul_syahira_suhaimi@schools.gov.sg](mailto:nurul_syahira_suhaimi@schools.gov.sg) 	|
+| Mdm Syahira 	| Special Educational Needs Officer 	| [nurul_syahira_suhaimi@schools.gov.sg](mailto:nurul_syahira_suhaimi@schools.gov.sg) 	|
 | Ms Yvonne Chua 	| School Counsellor 	| [chua_shih_teng_yvonne@schools.gov.sg](mailto:chua_shih_teng_yvonne@schools.gov.sg) 	|
 | Ms  Angelin 	| AED (LBS) 	| [Angelin_Anthony_Samy@schools.gov.sg](mailto:Angelin_Anthony_Samy@schools.gov.sg) 	|
 | Mdm Rashidah 	| Administration Manager 	| [rashidah_mohamed_rashid@schools.gov.sg](mailto:rashidah_mohamed_rashid@schools.gov.sg) 	|
