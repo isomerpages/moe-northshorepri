@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Announcements/Home Base Learning.md
       - Announcements/In The News.md
       - Announcements/.keep
       - Rules and Regulations.md
