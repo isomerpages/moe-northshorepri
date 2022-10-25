@@ -33,3 +33,5 @@ links:
     url: /contact-us/
   - title: Old Information Tab
     collection: information
+  - title: Menu Title
+    collection: information
