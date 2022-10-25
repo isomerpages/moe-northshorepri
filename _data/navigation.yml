@@ -8,27 +8,8 @@ links:
     collection: moe-kindergarten
   - title: Calendar
     url: /Calendar/
-  - title: Menu Title
-    collection: information
   - title: Information
-    url: /permalink
-    sublinks:
-      - title: Rules and Regulations
-        url: /information/rules-and-regulations
-      - title: School Hours
-        url: /information/school-hours
-      - title: Announcements
-        url: /announcements/HBL/
-      - title: Service Providers
-        url: /information/service-providers
-      - title: Letter to Parents
-        url: /information/letter-to-parents
-      - title: Canteen
-        url: /information/canteen
-      - title: For Students
-        url: /information/for-students
-      - title: Virtual Open House
-        url: /information/virtual-open-house
+    collection: information
   - title: Useful Links
     collection: useful-links
   - title: Contact Us
