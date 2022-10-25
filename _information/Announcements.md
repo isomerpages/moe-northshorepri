@@ -7,8 +7,8 @@ description: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t2i4ScY4P9w?wmode=transparent&amp;playlist=t2i4ScY4P9w&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<strong>Northshore Primary School is in the news!</strong><p>
-We are proud of our students for their active participation and curiosity in wanting to know more about STEM and History through their Chinese Language lesson.   
+<strong>Northshore Primary School is in the news!</strong>
+<p>We are proud of our students for their active participation and curiosity in wanting to know more about STEM and History through their Chinese Language lesson.   
 We had a virtual lesson on the ‘Elephant Clock’ from Kulangsu Gallery of Foreign Artefacts from the Palace Museum Collection (故宫鼓浪屿外国文物馆) for our Chinese Language lesson. The lesson was reported on</p>
 <ul>
 	<li><a href="https://www.zaobao.com.sg/news/singapore/story20210324-1133601">联合早报</a>
