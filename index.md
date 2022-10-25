@@ -17,7 +17,7 @@ sections:
           url: https://staging.d308ypurd6xn80.amplifyapp.com/information/announcements
         - title: GOING bACK TO SCHOOL
           description: Click here to watch video!
-          url: https://staging.d308ypurd6xn80.amplifyapp.com/information/announcements
+          url: https://www.youtube.com/embed/t2i4ScY4P9w?wmode=transparent&amp;playlist=t2i4ScY4P9w&amp;loop=1
         - title: Virtual Open hOUse
           description: Click here for more info!
           url: https://staging.d308ypurd6xn80.amplifyapp.com/information/virtual-open-house
