@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Announcements
 ---
 # **In The News**
+![](/images/25%20April%202022%20School%20Design.jpg)
 
 
 <strong>Northshore Primary School is in the news!</strong>
@@ -14,7 +15,7 @@ We had a virtual lesson on the ‘Elephant Clock’ from Kulangsu Gallery of For
 	<li><a href="https://www.zaobao.com.sg/news/singapore/story20210324-1133601">联合早报</a>
 	</li>
 		<li><a href="https://epaper.sph.com.sg/lrd/20210330/s/fa27b18c-0e7f-4a94-8d9d-a6d5aabe5c1b">The Little Red Dot</a></li>
-	
+
 ![](/images/25%20April%202022%20School%20Design.jpg)
 
 ![](/images/2%20May%202022%20Women%20in%20STEM.jpg)
