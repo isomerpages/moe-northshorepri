@@ -4,7 +4,7 @@ permalink: /announcements/HBL/
 description: ""
 third_nav_title: Announcements
 ---
-### **Home Based Learning**
+# **Home Based Learning**
 
 
 <strong>Home Based Learning (HBL) Matters</strong>
