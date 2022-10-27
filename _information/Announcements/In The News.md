@@ -4,9 +4,7 @@ permalink: /announcements/inthenews/
 description: ""
 third_nav_title: Announcements
 ---
-
-## **In The News**
-
+# **In The News**
 
 
 <strong>Northshore Primary School is in the news!</strong>
