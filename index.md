@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Homed Based Learning Matters
           description: Click here for more!
-          url: https://staging.d308ypurd6xn80.amplifyapp.com/information/announcements
+          url: https://staging.d308ypurd6xn80.amplifyapp.com/announcements/HBL
         - title: GOING bACK TO SCHOOL
           description: Click here to watch video!
           url: https://www.youtube.com/embed/t2i4ScY4P9w?wmode=transparent&amp;playlist=t2i4ScY4P9w&amp;loop=1
