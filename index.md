@@ -24,7 +24,7 @@ sections:
   - infobar:
       title: Northshore Primary School is on the Newspaper!
       button: Click here
-      url: https://staging.d308ypurd6xn80.amplifyapp.com/information/announcements
+      url: https://staging.d308ypurd6xn80.amplifyapp.com/announcements/inthenews
   - infobar:
       title: Building Northshore Primary School
       description: Click on the button below to see the process of Northshore taking shape!
