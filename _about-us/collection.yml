@@ -1,0 +1,16 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Introduction/School Crest.md
+      - Introduction/School Vision.md
+      - Introduction/School Values.md
+      - Introduction/School Facilities.md
+      - Introduction/School Leaders.md
+      - Introduction/.keep
+      - Introduction/Our Curriculum.md
+      - Organisation Chart.md
+      - Teaching Staff.md
+      - Non Teaching Staff.md
+      - School Advisory Committee.md
+      - Newsletters.md
