@@ -23,7 +23,7 @@ From 2022: K1, K2, KCare
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lOj2Q7vlgCc?wmode=transparent&amp;playlist=lOj2Q7vlgCc&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-MK & K-care arrival via Gate B (Effective on 1st Dec 2022)
+MK & K-Care arrival via Gate B (Effective on 1st Dec 2022)
 
 ### For more information on MOE Kindergartens
 
