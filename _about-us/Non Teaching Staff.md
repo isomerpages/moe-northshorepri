@@ -18,4 +18,5 @@ description: ""
 | Mr Derrick Ng 	| ICT Manager 	| [ng_choon_hong@schools.gov.sg](mailto:ng_choon_hong@schools.gov.sg) 	|
 | Miss Rinna Tan 	| Corporate Support Officer 	| [rinna_tan@schools.gov.sg](mailto:rinna_tan@schools.gov.sg) 	|
 | Mdm Haslinda 	| Corporate Support Officer 	| [norhaslinda_subaat@schools.gov.sg](mailto:norhaslinda_subaat@schools.gov.sg) 	|
+| Mdm Irene Wong 	| Corporate Support Officer 	| [wong_siew_hong@schools.gov.sg](mailto:wong_siew_hong_subaat@schools.gov.sg) 	|
 | Mdm Haszelina 	| Receptionist 	| [haszelina_mohamed@moe.edu.sg](mailto:haszelina_mohamed@moe.edu.sg) 	|
