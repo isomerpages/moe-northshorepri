@@ -12,7 +12,6 @@ description: ""
 | Mdm Gan Ser Min 	| Vice Principal (Academic) 	| [gan_ser_min@schools.gov.sg](mailto:gan_ser_min@schools.gov.sg) 	|
 | Mdm Syahira 	| Special Educational Needs Officer 	| [nurul_syahira_suhaimi@schools.gov.sg](mailto:nurul_syahira_suhaimi@schools.gov.sg) 	|
 | Ms Yvonne Chua 	| School Counsellor 	| [chua_shih_teng_yvonne@schools.gov.sg](mailto:chua_shih_teng_yvonne@schools.gov.sg) 	|
-| Ms  Angelin 	| AED (LBS) 	| [Angelin_Anthony_Samy@schools.gov.sg](mailto:Angelin_Anthony_Samy@schools.gov.sg) 	|
 | Mdm Rashidah 	| Administration Manager 	| [rashidah_mohamed_rashid@schools.gov.sg](mailto:rashidah_mohamed_rashid@schools.gov.sg) 	|
 | Mr Shahri 	| Operations Manager 	| [shahri_hairalah@schools.gov.sg](mailto:shahri_hairalah@schools.gov.sg) 	|
 | Ms Thosani 	| Administrative Executive 	| [thosani_rajendran@schools.gov.sg](mailto:thosani_rajendran@schools.gov.sg) 	|
