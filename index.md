@@ -30,4 +30,12 @@ sections:
       description: Click on the button below to see the process of Northshore taking shape!
       button: Click here
       url: /Building-Northshore-Primary
+  - infopic:
+      title: MK Open House 2023!
+      subtitle: PARENTS
+      description: MK @ Northshore – Saturday, 11 February
+      button: Click here to sign up for the open house now
+      url: https://www.go.gov.sg/mkopenhouse2023pmk
+      image: /images/MK_NS Open House Programme - Website_2023.jpg
+      alt: Image alt text
 ---
