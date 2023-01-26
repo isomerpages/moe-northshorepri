@@ -21,6 +21,9 @@ sections:
         - title: Virtual Open House
           description: Click here for more info!
           url: /information/virtual-open-house/
+        - title: test
+          description: test
+          url: /test/
   - infopic:
       title: MK Open House 2023!
       subtitle: PARENTS
