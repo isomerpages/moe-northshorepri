@@ -21,14 +21,6 @@ sections:
         - title: Virtual Open House
           description: Click here for more info!
           url: /information/virtual-open-house/
-  - infopic:
-      title: MK Open House 2023!
-      subtitle: PARENTS
-      description: MK @ Northshore – Saturday, 11 February
-      button: Click here to sign up for the open house now
-      url: https://www.go.gov.sg/mkopenhouse2023pmk
-      image: /images/MK_NS Open House Programme - Website_2023.jpg
-      alt: Image alt text
   - infobar:
       title: Northshore Primary School is on the Newspaper!
       button: Click here
