@@ -30,3 +30,9 @@ b) Annex B – a set of Frequently Asked Questions (FAQs) on SLS.
 For technical assistance, you may contact:  
 a) School-based Helpdesk at Ng\_Choon\_hong@schools.gov.sg or 62026490.  
 b) SLS Helpdesk at helpdesk@sls.ufinity.com or 6702 6513.
+
+**PARENT-TEACHER ENGAGEMENT SESSION (PTES)**
+
+Primary 1: [Click link here](https://drive.google.com/file/d/161X18HdXaYqEK4LYvBrraEqz3hHVAmpF/view?usp=sharing)  
+Primary 2:  [Click link here](https://drive.google.com/file/d/1XU34_6IkxZAhDIq1dDsyOLQ5kR-uM_H3/view?usp=sharing)  
+Primary 3:  [Click link here](https://drive.google.com/file/d/1Bb4rAwDlIdQFA6jkMzagr4ZiuAQmtQZj/view?usp=sharing)     
