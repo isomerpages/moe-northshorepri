@@ -12,7 +12,7 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Homed Based Learning Matters
+        - title: Home-Based Learning Matters
           description: Click here for more!
           url: /announcements/HBL/
         - title: GOING bACK TO SCHOOL
