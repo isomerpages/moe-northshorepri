@@ -56,7 +56,6 @@ Math@Play programmes, a unique feature of the Mathematics curriculum at Northsho
 
 Students demonstrate their creativity by creating and playing games through the activities in Project H.E.L.M.
 
-
-
+![](/images/math_04.jpg)
 
 Students using AR Makr in iPads to complete the activities during Math Week.
