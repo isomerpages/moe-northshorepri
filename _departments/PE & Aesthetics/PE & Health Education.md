@@ -28,7 +28,8 @@ For Primary 1, the students will learn the following topics. They will continue 
 | Taking Care of your Eyes 	| How to care for our eyes 	|
 | General and Road Safety 	| How to prevent accidents and learn to be safe on the road 	|
 
-Some of the Primary 1 and Primary 2 topics will continue in Primary 3, with some new topics included.  
+Some of the Primary 1 and Primary 2 topics will continue in Primary 3, with some new topics included.
+
 | Topics to continue from P1 and P2 	| New Topics 	|
 |---	|---	|
 | Healthy Eating	 | Water Safety  |
