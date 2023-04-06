@@ -42,7 +42,7 @@ The goals of Enhanced LSM are to:
 
 **V. Math @ Play**
 
-Math@Play programmes, a unique feature of the Mathematics curriculum at Northshore Primary, aim to foster the joy of learning in Mathematics. Math@Play programmes gamify Math skills and concepts into games-based activities to stimulate greater students’ interests and build their confidence in learning Math.  Students are provided with opportunities to contextualise their learning of Math concepts in “real-world” (game) setting.  Such experiences allow students to seek out strategies to win games and experience fun in learning Math while reinforcing their mathematical skills and concepts.
+Math@Play programme, a unique feature of the Mathematics curriculum at Northshore Primary, aims to foster the joy of learning in Mathematics. Math@Play programmes gamify Math skills and concepts into games-based activities to stimulate greater students’ interests and build their confidence in learning Math.  Students are provided with opportunities to contextualise their learning of Math concepts in “real-world” (game) setting.  Such experiences allow students to seek out strategies to win games and experience fun in learning Math while reinforcing their mathematical skills and concepts.
 
 * Project <ins>**H**</ins>elp our <ins>**E**</ins>xplorers <ins>**L**</ins>earn <ins>**M**</ins>ath – Project H.E.L.M. (Home-School Partnership)
 * Terrific Thursday
@@ -54,4 +54,4 @@ Students demonstrate their creativity by creating and playing games through the 
 
 ![](/images/math_04.jpg)
 
-Students using AR Makr in iPads to complete the activities during Math Week.
+Students using AR Makr on iPads to complete the activities during Math Week.
