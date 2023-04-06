@@ -31,9 +31,9 @@ For Primary 1, the students will learn the following topics. They will continue 
 Some of the Primary 1 and Primary 2 topics will continue in Primary 3, with some new topics included.  
 | Topics to continue from P1 and P2 	| New Topics 	|
 |---	|---	|
-| Healthy Eating	| Water Safety 	|
-| Taking care of your eyes	| Keeping Safe while Cycling 	|
-| Good Hygiene Habits	| Mosquito-borne diseases 	|
+| Healthy Eating	 | Water Safety  |
+| Taking care of your eyes  | Keeping Safe while Cycling 	|
+| Good Hygiene Habits 	| Mosquito-borne diseases 	|
 
 **Key Programmes**
 
