@@ -39,4 +39,4 @@ Some of the Primary 1 and Primary 2 topics will continue in Primary 3, with some
 
 | Lower Primary Sports Day 	| I am SAM (Sportsman, Artist, Musician) Week 	|
 |---	|---	|
-| The school will be organising a Lower Primary Sports Day in August. On this fun-filled day, our students will be using some of the skills learnt during PE lessons as they compete with friends from other classes. 	| Our students do not just learn about PE, Art and Music content during classroom lessons. During this week in October, they will be having activities during Recess that will excite them and turn them into young Sportsman, Artists and Musicians. 	|
+| The school organised our first Lower Primary Sports Day as a whole school in August. On this fun-filled day, our students displayed some of the skills learnt during PE lessons as they competed with friends from other classes. 	| Our students do not just learn about PE, Art and Music content during classroom lessons. During this week in October, they will be having activities during Recess that will excite them and turn them into young Sportsman, Artists and Musicians. 	|
