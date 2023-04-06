@@ -1,13 +1,13 @@
 ---
-title: PE & Health Education
+title: PE &amp; Health Education
 permalink: /departments/pe-n-aesthetics/pe-n-health-education/
 description: ""
-third_nav_title: PE & Aesthetics
+third_nav_title: PE &amp; Aesthetics
 ---
-# **PE & Health Education**
+# **PE &amp; Health Education**
 
 **Overview**  
-The Northshore Primary Physical Education Programme aims to develop every student’s physical, mental, ethical and social wellness. We believe that PE is just as important as other subjects.  Through PE, students acquire the knowledge, skills, right attitudes and values towards the pursuit of a lifelong physically active and healthy lifestyle individually and with others. Using the skills acquired, we encourage our students to be engaged in Sports in both recreational and competitive platforms.
+The Northshore Primary Physical Education Programme aims to develop every student’s physical, mental, ethical and social wellness. We believe that PE is just as important as other subjects.&nbsp; Through PE, students acquire the knowledge, skills, right attitudes and values towards the pursuit of a lifelong physically active and healthy lifestyle individually and with others. Using the skills acquired, we encourage our students to be engaged in Sports in both recreational and competitive platforms.
 
 **PE Framework and syllabus**
 
@@ -39,4 +39,4 @@ Some of the Primary 1 and Primary 2 topics will continue in Primary 3, with some
 
 | Lower Primary Sports Day 	| I am SAM (Sportsman, Artist, Musician) Week 	|
 |---	|---	|
-| The school organised our first Lower Primary Sports Day as a whole school in August. On this fun-filled day, our students displayed some of the skills learnt during PE lessons as they competed with friends from other classes. 	| Our students do not just learn about PE, Art and Music content during classroom lessons. During this week in October, they will be having activities during Recess that will excite them and turn them into young Sportsman, Artists and Musicians. 	|
+| The school organised our first Lower Primary Sports Day as a whole school in August. On this fun-filled day, our students displayed some of the skills learnt during PE lessons as they competed with friends from other classes. 	| Our students do not just learn about PE, Art and Music content during classroom lessons. During this week in October, they will be having activities during Recess that will excite them and turn them into young Sportsman, Artists and Musicians. <br><br> For our I am Sportsman activity (2022), our students raced as “Formula 1” drivers as they controlled their skates around a circuit as they competed with their friends. 	|
