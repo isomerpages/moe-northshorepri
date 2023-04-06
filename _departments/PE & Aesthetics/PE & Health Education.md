@@ -1,6 +1,6 @@
 ---
 title: PE & Health Education
-permalink: /departments/pe-n-aesthetics/pe-n-health-education
+permalink: /departments/pe-n-aesthetics/pe-n-health-education/
 description: ""
 third_nav_title: PE & Aesthetics
 ---
@@ -12,6 +12,9 @@ The Northshore Primary Physical Education Programme aims to develop every studen
 **PE Framework and syllabus**
 
 ![](/images/PE%20Framework%20n%20Syllabus.jpg)
+
+**Primary 3 Swimsafer Programme**  
+Our Primary 3 students will be embarking on their Swimsafer Programme in Term 2.  SwimSafer is a national water safety programme introduced by the National Water Safety Council (NWSC) in July 2010, with SwimSafer 2.0 launched in 2018. The programme aims to equip pupils with basic swimming skills as well as water safety awareness. The lessons are currently conducted during curriculum time and they are carried out by MOE-accredited vendors.
 
 **Physical Health and Fitness**  
 For Primary 1, the students will learn the following topics. They will continue to gain more knowledge about these topics as they progress to Primary 2
