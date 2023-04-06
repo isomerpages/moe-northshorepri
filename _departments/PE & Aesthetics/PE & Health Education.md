@@ -44,3 +44,4 @@ Some of the Primary 1 and Primary 2 topics will continue in Primary 3, with some
 
 ![](/images/pe_pic01.jpg)
 
+![](/images/pe_pic02.jpg)
