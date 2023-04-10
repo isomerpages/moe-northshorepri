@@ -2,11 +2,11 @@
 title: Music
 permalink: /departments/pe-n-aesthetics/music/
 description: ""
-third_nav_title: PE & Aesthetics
+third_nav_title: PE &amp; Aesthetics
 ---
 # **Music**
 
-At Northshore Primary, we believe that all children are musical and have the innate ability to listen, sing, dance, play and express themselves musically.  We have developed a well-tailored curriculum which provides different learning experiences to develop students’ musical abilities through the E-C-A (Experience-Concept-Application) approach.
+At Northshore Primary, we believe that all children are musical and have the innate ability to listen, sing, dance, play and express themselves musically.&nbsp; We have developed a well-tailored curriculum which provides different learning experiences to develop students’ musical abilities through the E-C-A (Experience-Concept-Application) approach.
 
 The music programme aims to
 
@@ -23,6 +23,23 @@ c) Provide the basis to develop an informed and life-long involvement in music
 | **Music Assembly** 	| Students are exposed to different music forms and music instruments from various cultures once per semester. Through music, songs, instruments, costumes and props, students can get a better understanding of the music style and culture. 	|
 | **Mass Music and Movement** 	| Music and movement during celebratory events encourage active participation, community integration and expression of feelings. 	|
 | **Musical Show** 	| The musical show is a platform for students to showcase a musical item as a class to their level. This provides a chance for all students to perform collaboratively as a class and celebrate their musical success of the year.  	|
+
+**2) &nbsp;‘I am SAM’ week (Sportsman, Artist, Musician)**  
+In ‘I am SAM’ week (Music), students get a chance to express themselves freely beyond the curriculum through exploration of musical concepts with the use of percussion instruments. Students get to practice and reinforce what they have learnt in the classroom and also extend their creativity with their friends during exploration.
+
+**3) &nbsp;Music Assembly**   
+Students are exposed to different music forms and music instruments from various cultures once per semester. Through music, songs, instruments, costumes and props, students can get a better understanding of the music style and culture.
+
+**4) &nbsp;Mass Music and Movement**   
+Music and movement during celebratory events like National Day, Teacher’s Day, Children’s Day encourage active participation, community integration and expression of feelings.
+
+**5) &nbsp;Talents@Northshore**   
+A platform for students to showcase their unique talents and skills. It is an opportunity for students to express themselves creatively and gain recognition for their abilities. This event can also help build confidence, improve public speaking skills, and foster a sense of community among students.
+
+**6) &nbsp;Our Musical Show**  
+The musical show is a platform for students to showcase a musical item as a class to their level. This provides a chance for all students to perform collaboratively as a class and celebrate their musical success of the year. 
+
+
 
 ![](/images/Music%20Pic01.jpg)
 Music and movement through the use of ribbons. Dancing to Chinese new year song as a cultural exposure.
