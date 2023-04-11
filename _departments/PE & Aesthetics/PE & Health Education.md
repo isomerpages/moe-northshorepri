@@ -2,9 +2,9 @@
 title: PE &amp; Health Education
 permalink: /departments/pe-n-aesthetics/pe-n-health-education/
 description: ""
-third_nav_title: PE & Aesthetics
+third_nav_title: PE &amp; Aesthetics
 ---
-# **PE &amp; Health Education**
+# **PE and Health Education**
 
 **Overview**  
 The Northshore Primary Physical Education Programme aims to develop every student’s physical, mental, ethical and social wellness. We believe that PE is just as important as other subjects.&nbsp; Through PE, students acquire the knowledge, skills, right attitudes and values towards the pursuit of a lifelong physically active and healthy lifestyle individually and with others. Using the skills acquired, we encourage our students to be engaged in Sports in both recreational and competitive platforms.
