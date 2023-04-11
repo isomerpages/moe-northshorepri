@@ -14,6 +14,8 @@ a) Develop awareness and appreciation of music in local and global cultures
 b) Develop ability for creative expression and communication through music  
 c) Provide the basis to develop an informed and life-long involvement in music
 
+![](/images/music_pic02.jpg)
+
 ### Key Programme
 
 |  	|  	|
@@ -27,8 +29,12 @@ c) Provide the basis to develop an informed and life-long involvement in music
 **2) &nbsp;‘I am SAM’ week (Sportsman, Artist, Musician)**  
 In ‘I am SAM’ week (Music), students get a chance to express themselves freely beyond the curriculum through exploration of musical concepts with the use of percussion instruments. Students get to practice and reinforce what they have learnt in the classroom and also extend their creativity with their friends during exploration.
 
+![](/images/music_pic04.jpg)
+
 **3) &nbsp;Music Assembly**   
 Students are exposed to different music forms and music instruments from various cultures once per semester. Through music, songs, instruments, costumes and props, students can get a better understanding of the music style and culture.
+
+![](/images/music_pic05.jpg)
 
 **4) &nbsp;Mass Music and Movement**   
 Music and movement during celebratory events like National Day, Teacher’s Day, Children’s Day encourage active participation, community integration and expression of feelings.
