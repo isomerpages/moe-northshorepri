@@ -18,7 +18,7 @@ c) Provide the basis to develop an informed and life-long involvement in music
 
 ### Key Programme
 
-**1) &nbsp;‘I am SAM’ week (Sportsman, Artist, Musician)**   
+**&nbsp;1)**  
 In semester 2, students will be engaged in the study of the world’s Art and Musical cultures. Bringing world arts into the classroom is a way to foster interest in both world Musical and Art cultures in children.  Students will learn Music and Visual Arts from 6 different countries in the 6 years of Primary School education.   
 For Music, students will be experiencing and learning songs, movements, instruments from the different parts of the world. This programme establishes a comprehensive musical understanding for students living in the global era.
 
