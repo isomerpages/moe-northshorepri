@@ -15,4 +15,4 @@ In Northshore Primary School, students can select from a variety of CCAs based o
 
 **Scouts (Tuesdays 2.00 pm to 3.30 pm)**  
 
-**Green Club (Tuesdays 2.00 pm to 3.30 pm)**  
+**Green Club (Tuesdays 2.00 pm to 3.30 pm)**
