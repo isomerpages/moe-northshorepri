@@ -11,3 +11,8 @@ In Northshore Primary School, students can select from a variety of CCAs based o
 
 **Basketball (Tuesdays 2.30 pm to 4.00 pm)**  
 
+**International Dance (Tuesdays 2.00 pm to 3.30 pm)**  
+
+**Scouts (Tuesdays 2.00 pm to 3.30 pm)**  
+
+**Green Club (Tuesdays 2.00 pm to 3.30 pm)**  
