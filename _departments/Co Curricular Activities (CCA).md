@@ -13,6 +13,8 @@ In Northshore Primary School, students can select from a variety of CCAs based o
 
 **Basketball (Tuesdays 2.30 pm to 4.00 pm)**  
 
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br>Teachers-in-charge (Boys)   </th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br>Mr Zulkifli    </td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br>Miss Vani   </td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br>Miss Raihana   </td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br>Mdm Tan Zhi Xian   </td></tr></tbody></table>
+
 **International Dance (Tuesdays 2.00 pm to 3.30 pm)**  
 
 **Scouts (Tuesdays 2.00 pm to 3.30 pm)**  
