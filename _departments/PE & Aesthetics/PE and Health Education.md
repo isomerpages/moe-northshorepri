@@ -2,7 +2,7 @@
 title: PE and Health Education
 permalink: /departments/pe-n-aesthetics/pe-n-health-education/
 description: ""
-third_nav_title: PE & Aesthetics
+third_nav_title: PE &amp; Aesthetics
 ---
 # **PE and Health Education**
 
