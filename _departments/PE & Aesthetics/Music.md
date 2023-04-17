@@ -20,10 +20,10 @@ c) Provide the basis to develop an informed and life-long involvement in music
 
 **&nbsp;1)**  
 
-![](/images/music_pic00.jpg)
+<img style="width:50%" align="left" src="/images/music_pic00.jpg">  
 
-<img style="width:60%" align="left" src="/images/music_pic00.jpg">  
-
+<br>  
+<br>
 
 In semester 2, students will be engaged in the study of the world’s Art and Musical cultures. Bringing world arts into the classroom is a way to foster interest in both world Musical and Art cultures in children.  Students will learn Music and Visual Arts from 6 different countries in the 6 years of Primary School education.   
 For Music, students will be experiencing and learning songs, movements, instruments from the different parts of the world. This programme establishes a comprehensive musical understanding for students living in the global era.
