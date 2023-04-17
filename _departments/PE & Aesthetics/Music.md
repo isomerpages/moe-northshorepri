@@ -48,7 +48,7 @@ Students are exposed to different music forms and music instruments from various
 **4) &nbsp;Mass Music and Movement**   
 Music and movement during celebratory events like National Day, Teacher’s Day, Children’s Day encourage active participation, community integration and expression of feelings.
 
-![](/images/music_pic06.jpg)
+<img style="width:80%" src="/images/music_pic06.jpg"> 
 
 **5) &nbsp;Talents@Northshore**   
 A platform for students to showcase their unique talents and skills. It is an opportunity for students to express themselves creatively and gain recognition for their abilities. This event can also help build confidence, improve public speaking skills, and foster a sense of community among students.
