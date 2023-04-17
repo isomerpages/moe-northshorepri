@@ -20,7 +20,7 @@ c) Provide the basis to develop an informed and life-long involvement in music
 
 **&nbsp;1)**  
 
-<img style="width:50%" align="left" src="/images/music_pic00.jpg">  
+<img style="width:40%" align="left" src="/images/music_pic00.jpg">  
 
 <br>  
 <br>
