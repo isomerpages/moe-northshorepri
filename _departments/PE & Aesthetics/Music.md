@@ -55,11 +55,3 @@ A platform for students to showcase their unique talents and skills. It is an op
 
 **6) &nbsp;Our Musical Show**  
 The musical show is a platform for students to showcase a musical item as a class to their level. This provides a chance for all students to perform collaboratively as a class and celebrate their musical success of the year. 
-
-
-
-![](/images/Music%20Pic01.jpg)
-Music and movement through the use of ribbons. Dancing to Chinese new year song as a cultural exposure.
-	
-![](/images/Music%20Pic02.jpg)
-Peer-learning in the music classroom.
