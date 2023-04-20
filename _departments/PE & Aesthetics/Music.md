@@ -30,7 +30,7 @@ For Music, students will be experiencing and learning songs, movements, instrume
 
 <img style="width:70%" align="left" src="/images/music_pic01.jpg">     
 
-<br>  
+<br clear="left">
 <br>
 
 ![](/images/music_pic03.jpg)  
@@ -54,4 +54,4 @@ Music and movement during celebratory events like National Day, Teacher’s Day,
 A platform for students to showcase their unique talents and skills. It is an opportunity for students to express themselves creatively and gain recognition for their abilities. This event can also help build confidence, improve public speaking skills, and foster a sense of community among students.
 
 **6) &nbsp;Our Musical Show**  
-The musical show is a platform for students to showcase a musical item as a class to their level. This provides a chance for all students to perform collaboratively as a class and celebrate their musical success of the year. 
+The musical show is a platform for students to showcase a musical item as a class to their level. This provides a chance for all students to perform collaboratively as a class and celebrate their musical success of the year.
