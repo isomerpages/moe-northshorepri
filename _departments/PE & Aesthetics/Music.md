@@ -30,7 +30,6 @@ For Music, students will be experiencing and learning songs, movements, instrume
 <img style="width:70%" align="left" src="/images/music_pic01.jpg">     
 
 <br clear="left">
-<br>
 
 ![](/images/music_pic03.jpg)  
 
