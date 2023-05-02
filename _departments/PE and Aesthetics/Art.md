@@ -14,7 +14,7 @@ Art Education in primary school aims to allow every student to enjoy art, commun
   
 The art syllabus framework emphasises three significant concepts which are: art helps us see in new ways, art tells stories about our world, and art influences how we live. These big ideas are further explored through three learning domains: see, express, and appreciate. By engaging in these learning domains, students develop key competencies, including observe-inquire, create-innovate, and connect-respond. The competencies are then broken down into learning outcomes, which are organised based on students' cognitive and artistic development. By repeatedly discussing and exploring these big ideas, students gain an understanding of the value of art and develop skills, knowledge, and values that help them become active artists and informed audiences.
 
-In Northshore Primary School, the art curriculum structures cognitive, psychomotor and affective development of our students through the five processes of Art Inquiry:
+In Northshore Primary School, the art curriculum structures cognitive, psychomotor and affective development of our students through the five processes of **Art Inquiry**:
 
 ![](/images/NSPS%20Art%20Curriculum.jpg)
 
