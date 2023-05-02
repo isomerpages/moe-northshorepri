@@ -12,7 +12,9 @@ Art Education in primary school aims to allow every student to enjoy art, commun
 
 <img style="width:60%" src="/images/art_pic00.jpg"> 
   
-Northshore Primary School’s Art curriculum is based on an adapted version of the ecological system theory by Urie Bronfenbrenner. This theory explains how a child’s development is influenced by different types of environmental systems such as family, neighbourhood, school and even the society at large. Aligned to this theory, the Art Curriculum will create an avenue for the students to express their emotions and thoughts about their identity and their interactions with the various environmental systems.
+The art syllabus framework emphasises three significant concepts which are: art helps us see in new ways, art tells stories about our world, and art influences how we live. These big ideas are further explored through three learning domains: see, express, and appreciate. By engaging in these learning domains, students develop key competencies, including observe-inquire, create-innovate, and connect-respond. The competencies are then broken down into learning outcomes, which are organised based on students' cognitive and artistic development. By repeatedly discussing and exploring these big ideas, students gain an understanding of the value of art and develop skills, knowledge, and values that help them become active artists and informed audiences.
+
+In Northshore Primary School, the art curriculum structures cognitive, psychomotor and affective development of our students through the five processes of Art Inquiry:
 
 ![](/images/NSPS%20Art%20Curriculum.jpg)
 
