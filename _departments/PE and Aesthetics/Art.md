@@ -36,6 +36,8 @@ Students can gain a deeper understanding of their artistic intent and develop th
 
 ![](/images/art_pic03.jpg)
 
+**Reflect**    
+Students critically evaluate their own artwork and learning process. They also consider how well they are learning and how they can apply what they have learned to their next artwork. In doing so, students can identify areas for improvement, celebrate their successes and develop a deeper understanding of their own artistic practice. Students are encouraged to take an active role in their own learning, to be self-aware and reflective as well as to continually strive to improve their skills and abilities.  
 
 
 
