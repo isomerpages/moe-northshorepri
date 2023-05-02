@@ -18,6 +18,11 @@ In Northshore Primary School, the art curriculum structures cognitive, psychomot
 
 ![](/images/NSPS%20Art%20Curriculum.jpg)
 
+**Connect &amp; Wonder**    
+Students investigate what inspires them, what they are curious about and what they want to express through their artwork. It requires them to connect with their emotions, experiences, and the world around them and wonder about the possibilities. Students are encouraged explore their creativity, experiment with different mediums and techniques so as to develop their own unique artistic voice.  
+
+
+
 **Lower Primary**    
 Hence, in Lower Primary, students will be introduced to Art via themes and topics that encompass self-identity and individuals who are close to them; family and friends. Students will explore those themes and topics via creating portraits, masks, sculptures and puppets.  
   
