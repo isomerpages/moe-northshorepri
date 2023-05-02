@@ -26,7 +26,7 @@ Students investigate what inspires them, what they are curious about and what th
 **Investigate / Play**  
 Students explore different materials, techniques, and processes to discover new possibilities and push creative boundaries. Students are encouraged to approach the creative process with a sense of curiosity and playfulness as well as to embrace a willingness to take risks and explore new possibilities.
 
-
+![](/images/art_pic02.jpg)
 
 **Lower Primary**    
 Hence, in Lower Primary, students will be introduced to Art via themes and topics that encompass self-identity and individuals who are close to them; family and friends. Students will explore those themes and topics via creating portraits, masks, sculptures and puppets.  
