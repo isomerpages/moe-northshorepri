@@ -10,7 +10,7 @@ third_nav_title: PE and Aesthetics
   
 Art Education in primary school aims to allow every student to enjoy art, communicate visually and make meaning through connecting with society and culture. It provides a platform for all students to use Art as a medium to learn about oneself and the world.  
 
-![](/images/art_pic00.jpg)
+<img style="width:60%" src="/images/art_pic00.jpg"> 
   
 Northshore Primary School’s Art curriculum is based on an adapted version of the ecological system theory by Urie Bronfenbrenner. This theory explains how a child’s development is influenced by different types of environmental systems such as family, neighbourhood, school and even the society at large. Aligned to this theory, the Art Curriculum will create an avenue for the students to express their emotions and thoughts about their identity and their interactions with the various environmental systems.
 
@@ -24,6 +24,6 @@ In Middle Primary, students will explore Art themes and topics based on places s
   
 
 **Upper Primary**   
-In Upper Primary, students will focus more on contemporary and abstract Art themes and topics. Students will learn the importance of Art in creating awareness and as a change agent for social and environmental issues (local and global\[GSM1\] ). Students will achieve their goals with illustrations, installations, photography and action painting.  
+In Upper Primary, students will focus more on contemporary and abstract Art themes and topics. Students will learn the importance of Art in creating awareness and as a change agent for social and environmental issues (local and global\[GSM1\]&nbsp;). Students will achieve their goals with illustrations, installations, photography and action painting.  
   
 Throughout these 6 years, students will be exposed to various art forms mainly, 2D art, 3D art, Digital art as well as Traditional art.
