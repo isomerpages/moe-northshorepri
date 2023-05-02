@@ -10,7 +10,7 @@ third_nav_title: PE and Aesthetics
   
 Art Education in primary school aims to allow every student to enjoy art, communicate visually and make meaning through connecting with society and culture. It provides a platform for all students to use Art as a medium to learn about oneself and the world.  
 
-<img style="width:60%" src="/images/art_pic00.jpg"> 
+<img style="width:50%" src="/images/art_pic00.jpg"> 
   
 The art syllabus framework emphasises three significant concepts which are: art helps us see in new ways, art tells stories about our world, and art influences how we live. These big ideas are further explored through three learning domains: see, express, and appreciate. By engaging in these learning domains, students develop key competencies, including observe-inquire, create-innovate, and connect-respond. The competencies are then broken down into learning outcomes, which are organised based on students' cognitive and artistic development. By repeatedly discussing and exploring these big ideas, students gain an understanding of the value of art and develop skills, knowledge, and values that help them become active artists and informed audiences.
 
