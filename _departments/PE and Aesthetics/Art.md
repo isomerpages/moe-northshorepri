@@ -34,7 +34,7 @@ By exploring different techniques and experimenting with different materials to 
 **Express**    
 Students can gain a deeper understanding of their artistic intent and develop their ability to communicate their ideas visually. Students are encouraged to be intentional about the message they want to convey through their artwork as well as to consider the best way to showcase their work to their intended audience.  
 
-
+![](/images/art_pic03.jpg)
 
 
 
