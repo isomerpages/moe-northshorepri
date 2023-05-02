@@ -21,6 +21,11 @@ In Northshore Primary School, the art curriculum structures cognitive, psychomot
 **Connect &amp; Wonder**    
 Students investigate what inspires them, what they are curious about and what they want to express through their artwork. It requires them to connect with their emotions, experiences, and the world around them and wonder about the possibilities. Students are encouraged explore their creativity, experiment with different mediums and techniques so as to develop their own unique artistic voice.  
 
+![](/images/art_pic01.jpg)
+
+**Investigate / Play**  
+Students explore different materials, techniques, and processes to discover new possibilities and push creative boundaries. Students are encouraged to approach the creative process with a sense of curiosity and playfulness as well as to embrace a willingness to take risks and explore new possibilities.
+
 
 
 **Lower Primary**    
