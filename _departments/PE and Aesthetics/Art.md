@@ -44,18 +44,3 @@ Students critically evaluate their own artwork and learning process. They also c
 **‘I am SAM’ week**  
 **(Sportsman, Artist, Musician)**  
 During I am SAM week, students have an opportunity to creatively express themselves beyond the curriculum by exploring various artistic concepts using digital tools. Through interactive games and visual art experiences, students will be able to reinforce and apply what they have learned in the classroom while also expanding their creativity in collaboration with their peers.
-
-
-
-
-**Lower Primary**    
-Hence, in Lower Primary, students will be introduced to Art via themes and topics that encompass self-identity and individuals who are close to them; family and friends. Students will explore those themes and topics via creating portraits, masks, sculptures and puppets.  
-  
-**Middle Primary**  
-In Middle Primary, students will explore Art themes and topics based on places such as their neighbourhood, classroom and school that have a direct influence on them. They will be printmaking, painting sceneries, constructing a diorama and sculpture, and designing a batik piece. In Primary 4, students will be involved in the Museum Based Learning (MBL) programme to explore places of interest, and flora and fauna in Singapore.  
-  
-
-**Upper Primary**   
-In Upper Primary, students will focus more on contemporary and abstract Art themes and topics. Students will learn the importance of Art in creating awareness and as a change agent for social and environmental issues (local and global\[GSM1\]&nbsp;). Students will achieve their goals with illustrations, installations, photography and action painting.  
-  
-Throughout these 6 years, students will be exposed to various art forms mainly, 2D art, 3D art, Digital art as well as Traditional art.
