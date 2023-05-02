@@ -39,6 +39,13 @@ Students can gain a deeper understanding of their artistic intent and develop th
 **Reflect**    
 Students critically evaluate their own artwork and learning process. They also consider how well they are learning and how they can apply what they have learned to their next artwork. In doing so, students can identify areas for improvement, celebrate their successes and develop a deeper understanding of their own artistic practice. Students are encouraged to take an active role in their own learning, to be self-aware and reflective as well as to continually strive to improve their skills and abilities.  
 
+**Key Programmes**  
+
+**‘I am SAM’ week**  
+**(Sportsman, Artist, Musician)**  
+During I am SAM week, students have an opportunity to creatively express themselves beyond the curriculum by exploring various artistic concepts using digital tools. Through interactive games and visual art experiences, students will be able to reinforce and apply what they have learned in the classroom while also expanding their creativity in collaboration with their peers.
+
+
 
 
 **Lower Primary**    
