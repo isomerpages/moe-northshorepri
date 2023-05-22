@@ -18,4 +18,6 @@ The Primary Science Syllabus aims to provide students with experiences/opportuni
 * Apply scientific concepts and skills in making responsible decisions.
 * Appreciate how Science influences people and the environment.
 
-Please access the 2023 primary science syllabus
+Please access the 2023 primary science syllabus here
+
+**II. Primary Science Syllabus**  
