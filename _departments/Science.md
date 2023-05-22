@@ -8,7 +8,7 @@ description: ""
 **I. Revised Science Curriculum Framework**   
 The revised Science Curriculum Framework summarises the aim of Science education in Singapore to provide our students with strong fundamentals in Science for life, learning, citizenry and work.  
 
-<img style="width:60%" src="/images/sci_pic00.jpg"> 
+<img style="width:50%" src="/images/sci_pic00.jpg"> 
 
 **II. Primary Science Syllabus**  
 The Primary Science Syllabus aims to provide students with experiences/opportunities to:  
@@ -34,4 +34,4 @@ As such, we aim to nurture our students as inquirers through opportunities for t
 Science Explorer at Northshore Primary aims to provide students with the experiences to extend their learning of Science. These experiences include activities that allow them to connect the knowledge with real world applications and for them to show a deeper appreciation of science based on the contributions of scientists past and present.  
 The Science Explorer activities has been designed to allow our Northshoreans to see the world through the lens of scientists by experiencing the practices of Science and understanding the nature of Science as a reliable, durable and evidence-based subject of knowledge.
 
-![](/images/sci_pic03.jpg)  
+![](/images/sci_pic03.jpg)
