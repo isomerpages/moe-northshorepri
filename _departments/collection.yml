@@ -2,8 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - Science.md
       - English.md
+      - Science.md
       - Mother Tongue.md
       - Mathematics.md
       - PE and Aesthetics/.keep
