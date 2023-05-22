@@ -10,4 +10,5 @@ The revised Science Curriculum Framework summarises the aim of Science education
 
 <img style="width:60%" src="/images/sci_pic00.jpg"> 
 
-**II. Primary Science Syllabus**
+**II. Primary Science Syllabus**  
+The Primary Science Syllabus aims to provide students with experiences/opportunities to:
