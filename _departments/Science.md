@@ -10,4 +10,4 @@ The revised Science Curriculum Framework summarises the aim of Science education
 
 <img style="width:60%" src="/images/sci_pic00.jpg"> 
 
-**I. Revised Science Curriculum Framework**
+**II. Primary Science Syllabus**
