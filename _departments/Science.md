@@ -24,4 +24,4 @@ Please access the 2023 primary science syllabus here
 Our pedagogy is rooted in the belief that all students are curious and want to explore and learn about things around them.  
 As such, we aim to nurture our students as inquirers through opportunities for them to explore and to appreciate the role of Science for Life and Society. These opportunities allow them to build on the core ideas, practices, values, ethics and attitudes of science as they learn with others, learn using resources and learn in different environments.  
 
-**IV. Programme**
+**IV. Programme**  
