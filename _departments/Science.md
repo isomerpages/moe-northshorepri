@@ -10,7 +10,7 @@ The revised Science Curriculum Framework summarises the aim of Science education
 
 <img style="width:60%" src="/images/sci_pic00.jpg"> 
 
-**II.Primary Science Syllabus**  
+**II. Primary Science Syllabus**  
 The Primary Science Syllabus aims to provide students with experiences/opportunities to:  
 * Build on their interest and stimulate their curiosity about themselves and their environment.
 * Acquire basic scientific concepts to help them understand themselves and the world around them.
@@ -20,4 +20,5 @@ The Primary Science Syllabus aims to provide students with experiences/opportuni
 
 Please access the 2023 primary science syllabus here
 
-**III.Pedagogy**
+**III. Pedagogy**  
+Our pedagogy is rooted in the belief that all students are curious and want to explore and learn about things around them.
