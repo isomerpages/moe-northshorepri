@@ -29,5 +29,6 @@ As such, we aim to nurture our students as inquirers through opportunities for t
 ![](/images/sci_pic02.jpg)
 
 **IV. Programme**  
+
 **Science Explorers**  
-Science Explorer at Northshore Primary aims to provide students with the experiences to extend their learning of Science. These experiences include activities that allow them to connect the knowledge with real world applications and for them to show a deeper appreciation of science based on the contributions of scientists past and present.
+Science Explorer at Northshore Primary aims to provide students with the experiences to extend their learning of Science. These experiences include activities that allow them to connect the knowledge with real world applications and for them to show a deeper appreciation of science based on the contributions of scientists past and present.  
