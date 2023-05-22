@@ -26,6 +26,6 @@ As such, we aim to nurture our students as inquirers through opportunities for t
 
 ![](/images/sci_pic01.jpg)
 
-
+![](/images/sci_pic02.jpg)
 
 **IV. Programme**
