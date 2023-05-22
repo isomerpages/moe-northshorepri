@@ -16,4 +16,4 @@ The Primary Science Syllabus aims to provide students with experiences/opportuni
 * Acquire basic scientific concepts to help them understand themselves and the world around them.
 * Develop skills, dispositions, and attitudes for scientific inquiry.
 * Apply scientific concepts and skills in making responsible decisions.
-* Appreciate how Science influences people and the environment.  
+* Appreciate how Science influences people and the environment.
