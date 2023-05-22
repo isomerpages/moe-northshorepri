@@ -18,7 +18,7 @@ The Primary Science Syllabus aims to provide students with experiences/opportuni
 * Apply scientific concepts and skills in making responsible decisions.
 * Appreciate how Science influences people and the environment.
 
-Please access the 2023 primary science syllabus here.
+Please access the 2023 primary science syllabus [here](https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.ashx).
 
 **III. Pedagogy**  
 Our pedagogy is rooted in the belief that all students are curious and want to explore and learn about things around them.  
