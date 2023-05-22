@@ -8,7 +8,7 @@ description: ""
 **I. Revised Science Curriculum Framework**   
 The revised Science Curriculum Framework summarises the aim of Science education in Singapore to provide our students with strong fundamentals in Science for life, learning, citizenry and work.  
 
-<img style="width:50%" src="/images/sci_pic00.jpg"> 
+<img style="width:40%" src="/images/sci_pic00.jpg"> 
 
 **II. Primary Science Syllabus**  
 The Primary Science Syllabus aims to provide students with experiences/opportunities to:  
