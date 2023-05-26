@@ -21,6 +21,14 @@ sections:
         - title: Virtual Open House
           description: Click here for more info!
           url: /information/virtual-open-house/
+  - infopic:
+      title: Northshore Primary School Open House 2023
+      subtitle: Parents
+      description: Don't miss it !
+      button: Click here to register
+      url: https://go.gov.sg/nspsopenhouse2023
+      image: /images/pri_open house 2023.JPG
+      alt: Image alt text
   - infobar:
       title: Northshore Primary School is in the Newspaper!
       button: Click here
@@ -30,12 +38,4 @@ sections:
       description: Click on the button below to see the process of Northshore taking shape!
       button: Click here
       url: /Building-Northshore-Primary
-  - infopic:
-      title: Northshore Primary School Open House 2023
-      subtitle: Parents
-      description: Don't miss it !
-      button: Click here to register
-      url: https://go.gov.sg/nspsopenhouse2023
-      image: /images/pri_open house 2023.JPG
-      alt: Image alt text
 ---
