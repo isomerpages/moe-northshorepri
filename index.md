@@ -17,10 +17,18 @@ sections:
           url: /announcements/HBL/
         - title: GOING bACK TO SCHOOL
           description: Click here to watch video!
-          url: https://www.youtube.com/embed/t2i4ScY4P9w?wmode=transparent&amp;playlist=t2i4ScY4P9w&amp;loop=1
+          url: https://www.youtube.com/embed/t2i4ScY4P9w?wmode=transparent&playlist=t2i4ScY4P9w&loop=1
         - title: Virtual Open House
           description: Click here for more info!
           url: /information/virtual-open-house/
+  - infopic:
+      title: Northshore Primary School Open House 2023
+      subtitle: Parents
+      description: Don't miss it !
+      button: Click here to register
+      url: https://go.gov.sg/nspsopenhouse2023
+      image: /images/pri_open house 2023.JPG
+      alt: Image alt text
   - infobar:
       title: Northshore Primary School is in the Newspaper!
       button: Click here
