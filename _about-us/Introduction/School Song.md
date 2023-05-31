@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Introduction
 ---
 # **School Song**
-**Courageous Explorers**  
+**Our School Song - Courageous Explorers**  
 
 The sunrise lights up  
 the sea of possibilities before us all.  
