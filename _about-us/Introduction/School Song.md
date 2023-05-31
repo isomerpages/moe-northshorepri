@@ -7,6 +7,8 @@ third_nav_title: Introduction
 # **School Song**
 **Courageous Explorers**  
 
+[Link to School Song](https://go.gov.sg/nsps-schoolsong)
+
 The sunrise lights up  
 the sea of possibilities before us all.  
 With courage we will explore  
