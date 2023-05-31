@@ -22,6 +22,3 @@ We always find a way.
 We learn with passion, dare to dream  
 Serve with all our hearts,  
 Northshoreans!
-
-
-
