@@ -5,11 +5,10 @@ description: ""
 third_nav_title: Introduction
 ---
 # **School Song**
-**Courageous Explorers**  
 
-[new link](https://drive.google.com/file/d/1ukA1AFR14x8z5AeI3WDSyVtlggva3-YO/view?usp=share_link)
+[Click here to play](https://drive.google.com/file/d/1ukA1AFR14x8z5AeI3WDSyVtlggva3-YO/view?usp=share_link)  
 
-[Link to School Song](https://go.gov.sg/nsps-schoolsong)
+**Courageous Explorers**
 
 The sunrise lights up  
 the sea of possibilities before us all.  
