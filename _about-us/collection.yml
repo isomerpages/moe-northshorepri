@@ -2,12 +2,13 @@ collections:
   about-us:
     output: true
     order:
+      - Introduction/.keep
       - Introduction/School Crest.md
       - Introduction/School Vision.md
       - Introduction/School Values.md
+      - Introduction/School Song.md
       - Introduction/School Facilities.md
       - Introduction/School Leaders.md
-      - Introduction/.keep
       - Introduction/Our Curriculum.md
       - Organisation Chart.md
       - Teaching Staff.md
