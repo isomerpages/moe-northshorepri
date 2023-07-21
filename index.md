@@ -25,7 +25,7 @@ sections:
       title: Northshore Primary School Open House 2023
       subtitle: Parents
       description: Don't miss it !
-      button: Click here to register..
+      button: Click here to register
       url: https://go.gov.sg/nspsopenhouse2023
       image: /images/pri_open house 2023.JPG
       alt: Image alt text
