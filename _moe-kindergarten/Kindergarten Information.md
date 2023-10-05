@@ -9,7 +9,7 @@ description: ""
 
   
 
-### Programmes &amp; Operating Hours
+### Programmes and Operating Hours
 
 Our operating hours are:
 
