@@ -25,6 +25,10 @@ From 2022: K1, K2, KCare
 
 MK and KCare arrival via Gate B (Effective on 1st Dec 2022)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/05D8E6DO4SI?wmode=transparent&amp;playlist=05D8E6DO4SI&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
+
 ### For more information on MOE Kindergartens
 
 Please visit the MOE website at&nbsp;[https://moe.gov.sg/preschool/moe-kindergarten](https://moe.gov.sg/preschool/moe-kindergarten)
