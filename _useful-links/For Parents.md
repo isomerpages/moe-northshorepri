@@ -10,7 +10,7 @@ description: ""
 *   [Schoolbag: The Education News Site](https://www.schoolbag.edu.sg/)
 *   [MOE Facebook](https://www.facebook.com/moesingapore)
 *   [Bully Free Campaign](https://bullyfree.sg/)
-*   [Online platform featuring PSG’s involvement in our various school programmes](https://sites.google.com/view/nsps-psg-vlog)
+*   [V.log is an online platform featuring PSG’s involvement in our various school programmes](https://sites.google.com/view/nsps-psg-vlog)
 
 ### Student Learning Space
 
