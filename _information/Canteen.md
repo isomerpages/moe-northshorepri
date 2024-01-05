@@ -6,5 +6,5 @@ variant: markdown
 ---
 # **Canteen**
 
-Working in progress......
+Work in progress......
 
