@@ -2,7 +2,9 @@
 title: Canteen
 permalink: /information/canteen/
 description: ""
+variant: markdown
 ---
 # **Canteen**
 
-![](/images/2023%20Canteen%20Food%20Pricing.jpg)
+Work in progress......
+
