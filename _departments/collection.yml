@@ -1,0 +1,14 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English.md
+      - Science.md
+      - Mother Tongue.md
+      - Mathematics.md
+      - PE and Aesthetics/.keep
+      - PE and Aesthetics/PE and Health Education.md
+      - PE and Aesthetics/Art.md
+      - PE and Aesthetics/Music.md
+      - Character and Citizenship Education (CCE).md
+      - Co Curricular Activities (CCA).md

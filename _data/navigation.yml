@@ -1,0 +1,16 @@
+logo: /images/logo_home.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Departments
+    collection: departments
+  - title: MOE Kindergarten
+    collection: moe-kindergarten
+  - title: Calendar
+    url: /Calendar/
+  - title: Information
+    collection: information
+  - title: Useful Links
+    collection: useful-links
+  - title: Contact Us
+    url: /contact-us/
