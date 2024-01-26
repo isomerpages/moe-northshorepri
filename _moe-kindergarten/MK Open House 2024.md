@@ -15,4 +15,4 @@ Kindly fill up the registration form using the following QR code if you are keen
 
 <img style="width:30%" src="/images/MK_registration_URL.jpg">
 
-Click here to view the Open House presentation slides.
+Click [here](/files/MKOH_slides_2024.pdf) to view the Open House presentation slides.
