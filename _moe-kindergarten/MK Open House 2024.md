@@ -5,3 +5,5 @@ variant: markdown
 description: ""
 ---
 # **MK Open House 2024**
+
+Our operating hours are:
