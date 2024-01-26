@@ -10,4 +10,6 @@ description: ""
 
 ![](/images/Getting_Here_MK.jpg)
 
-Our operating hours are:
+**Registration**   
+Kindly fill up the registration form if you are keen to visit us.
+
