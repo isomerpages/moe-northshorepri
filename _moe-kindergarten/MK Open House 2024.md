@@ -6,4 +6,8 @@ description: ""
 ---
 # **MK Open House 2024**
 
+![](/images/MK_Open_hse_2024.jpg)
+
+![](/images/Getting_Here_MK.jpg)
+
 Our operating hours are:
