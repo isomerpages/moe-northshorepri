@@ -11,7 +11,7 @@ description: ""
 ![](/images/Getting_Here_MK.jpg)
 
 **Registration**   
-Kindly fill up the registration form if you are keen to visit us.
+Kindly fill up the registration form using the following QR code if you are keen to visit us.
 
 <img style="width:30%" src="/images/MK_registration_URL.jpg">
 
