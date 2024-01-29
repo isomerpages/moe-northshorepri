@@ -6,6 +6,8 @@ description: ""
 ---
 # **MK Open House 2024**
 
+<img style="width:150%" src="/images/MK_Open_hse_2024.jpg">
+
 ![](/images/MK_Open_hse_2024.jpg)
 
 ![](/images/Getting_Here_MK.jpg)
