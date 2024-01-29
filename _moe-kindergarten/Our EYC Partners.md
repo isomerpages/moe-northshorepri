@@ -10,7 +10,6 @@ MK@Northshore collaborates with the following **two** Early Years Centres which 
 
 This partnership provides quality and affordable preschool education for SCs and PRs aged 2 months to 6 years.
 
-* Our MK’s partner EYC(s) are:
-
+* Our MK’s partner EYC(s) are:  
 	I.  PCF Sparkletots Preschool @ Punggol Coast Blk 402  
 	ii.	PCF Sparkletots Preschool @ Punggol Coast Blk 410A
