@@ -10,9 +10,6 @@ description: ""
 
 ![](/images/Getting_Here_MK.jpg)
 
-Test
-[CLick here](/files/MKOH_slides_2024.pdf)
-
 
 **Registration**   
 Kindly fill up the registration form using the following QR code if you are keen to visit us.
