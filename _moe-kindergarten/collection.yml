@@ -2,9 +2,9 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Our Learning Experience.md
       - MK Open House 2024.md
       - Kindergarten Information.md
       - Our EYC Partners.md
       - Our Learning Environment.md
+      - Our Learning Experience.md
       - Our Staff.md
