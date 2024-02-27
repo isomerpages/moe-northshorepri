@@ -15,4 +15,4 @@ The Northshore Primary Learning for Life Programme (LLP) is titled OCE@N (Outdoo
 LLP Focus 
 
 *   Educators purposefully engage with learners in direct experience and focused reflection in order to increase knowledge, develop skills, clarify values, and develop people's capacity to contribute to their communities
-*   Empower (Tier 2): Empower students who exhibit greater aptitude and interest to drive ground-up initiatives, lead actively in school programmes and be a positive peer influence.
+*   Allowing learners opportunities to explore sustainability issues, engage in problem solving, and work towards making positive change for the environment.
