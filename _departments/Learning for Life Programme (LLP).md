@@ -12,5 +12,7 @@ The Northshore Primary Learning for Life Programme (LLP) is titled OCE@N (Outdoo
 
 **The 3 "I" Tiered Approach** 
 
-LLP Focus
+LLP Focus 
 
+*   Engage (Tier 1): Engage and develop all students holistically through intentional teaching of knowledge, social-emotional skills, values and attitudes.
+*   Empower (Tier 2): Empower students who exhibit greater aptitude and interest to drive ground-up initiatives, lead actively in school programmes and be a positive peer influence.
