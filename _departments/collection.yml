@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Learning for Life Programme (LLP).md
       - English.md
       - Science.md
       - Mother Tongue.md
