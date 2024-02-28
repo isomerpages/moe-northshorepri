@@ -12,6 +12,8 @@ The Northshore Primary Learning for Life Programme (LLP) is titled OCE@N (Outdoo
 
 **The 3 "I" Tiered Approach**  
 
+![](/images/The_3_I_Tierred_Approach.jpg)
+
 LLP Focus 
 
 *   Outdoor Education  
@@ -19,4 +21,4 @@ LLP Focus 
 *   Sustainability Education  
      Allowing learners opportunities to explore sustainability issues, engage in problem solving, and work towards making positive change for the environment.  
 		 
-**Key Programmes**  
+**Key Programmes**
