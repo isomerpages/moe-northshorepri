@@ -29,7 +29,6 @@ LLP Focus 
 ![](/images/LLP_Pic03.jpg)
 
 ![](/images/LLP_Pic04_1.jpg)
-
 ![](/images/LLP_Pic04_2.jpg)
 
 ![](/images/LLP_Pic05.jpg)
