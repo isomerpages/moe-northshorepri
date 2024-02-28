@@ -21,4 +21,19 @@ LLP Focus 
 *   Sustainability Education  
      Allowing learners opportunities to explore sustainability issues, engage in problem solving, and work towards making positive change for the environment.  
 		 
-**Key Programmes**
+**Key Programmes**  
+![](/images/LLP_Pic01.jpg)
+
+![](/images/LLP_Pic02.jpg)
+
+![](/images/LLP_Pic03.jpg)
+
+![](/images/LLP_Pic04_1.jpg)
+
+![](/images/LLP_Pic04_2.jpg)
+
+![](/images/LLP_Pic05.jpg)
+
+![](/images/LLP_Pic06.jpg)
+
+end
