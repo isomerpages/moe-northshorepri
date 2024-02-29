@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Learning for Life Programme (LLP).md
       - English.md
       - Science.md
       - Mother Tongue.md
@@ -13,3 +12,4 @@ collections:
       - PE and Aesthetics/Music.md
       - Character and Citizenship Education (CCE).md
       - Co Curricular Activities (CCA).md
+      - Learning for Life Programme (LLP).md
