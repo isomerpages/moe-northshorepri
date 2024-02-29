@@ -24,13 +24,13 @@ LLP Focus 
 **Key Programmes**  
 ![](/images/LLP_Pic001.jpg)
 
-![](/images/LLP_Pic02.jpg)
+![](/images/LLP_Pic002.jpg)
 
-![](/images/LLP_Pic03.jpg)
+![](/images/LLP_Pic003.jpg)
 
-![](/images/LLP_Pic04_1.jpg)
+![](/images/LLP_Pic004_1.jpg)
 ![](/images/LLP_Pic04_2.jpg)
 
-![](/images/LLP_Pic05.jpg)
+![](/images/LLP_Pic005.jpg)
 
-![](/images/LLP_Pic06.jpg)
+![](/images/LLP_Pic006.jpg)
