@@ -6,7 +6,6 @@ description: ""
 ---
 # **Applied Learning Programme (ALP)**
 
-**Overview** 
 
 ![](/images/ALP_Pic00.jpg)
 
