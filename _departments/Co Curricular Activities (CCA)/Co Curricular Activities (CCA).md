@@ -5,4 +5,4 @@ variant: markdown
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-test badminton
+Test CCA text
