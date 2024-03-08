@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - Co Curricular Activities (CCA)/Badminton.md
-      - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
       - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/Co Curricular Activities (CCA).md
+      - Co Curricular Activities (CCA)/Badminton.md
       - English.md
       - Science.md
       - Mother Tongue.md
