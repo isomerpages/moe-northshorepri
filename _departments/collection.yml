@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Test/test1.md
       - Test/.keep
       - English.md
       - Science.md
