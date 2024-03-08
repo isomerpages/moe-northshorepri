@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Applied Learning Programme (ALP).md
       - English.md
       - Science.md
       - Mother Tongue.md
@@ -14,3 +13,4 @@ collections:
       - Character and Citizenship Education (CCE).md
       - Co Curricular Activities (CCA).md
       - Learning for Life Programme (LLP).md
+      - Applied Learning Programme (ALP).md
