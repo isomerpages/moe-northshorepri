@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - Test/.keep
+      - Co Curricular Activities (CCA)/.keep
       - English.md
       - Science.md
       - Mother Tongue.md
