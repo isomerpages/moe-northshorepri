@@ -7,3 +7,9 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 # **Northshore Choir**
 
+Being a part of Northshore Choir is a wonderful experience that goes beyond just singing. It allows you to be part of a group where your voices blend together to create beautiful music. Singing in our choir not only helps you improve your musical skills, like hitting the right notes and singing in harmony, but it also teaches you about teamwork and discipline. You form strong bonds with your choir friends, creating a supportive community. At Northshore Choir, the joy of making music together is not just about the sounds; it's also about the shared laughter, friendship, and a sense of accomplishment through musical activities and performances.
+
+
+
+
+**Training Days and Timings**  
