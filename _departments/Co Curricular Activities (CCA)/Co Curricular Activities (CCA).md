@@ -11,4 +11,6 @@ CCA (Co-curricular activities) is an integral part of our students’ holistic e
 
 In Northshore Primary School, students can select from a variety of CCAs based on their interests and abilities. The school now has 11 CCAs from the 4 main groups, namely Physical Sports, Visual and Performing Arts, Uniformed Groups and Clubs & Societies. As the school continues to expand in terms of student population, we will be introducing more CCAs from the 4 CCA groups to allow students more choices. More information will be shared at a later date.  
 
+
+
 ![](/images/CCA_pic001.jpg)
