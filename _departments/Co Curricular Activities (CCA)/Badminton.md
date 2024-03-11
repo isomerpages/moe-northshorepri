@@ -15,4 +15,5 @@ Our Badminton CCA started in 2024. It comprises of 43 active and enthusiastic yo
 
 Video
 ![](/images/Badminton_pic01.jpg)
-![](/images/Badminton_pic02.jpg)
+![](/images/Badminton_pic02.jpg)  
+
