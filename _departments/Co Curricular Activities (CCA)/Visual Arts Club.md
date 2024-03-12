@@ -10,3 +10,7 @@ third_nav_title: Co Curricular Activities (CCA)
 The Visual Arts Club is a community for those with a passion in Art, dedicated to young artists who aspire to create, inspire and innovate. It is a hub of inspiration and collaboration where we celebrate diverse art forms and encourage individual artistic growth.
 
 **Training Days and Timings**  
+
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Tuesdays</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.00pm&nbsp;&nbsp;&nbsp;to 3.30pm</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Primary&nbsp;&nbsp;&nbsp;3 and Primary 4 </span>&nbsp;&nbsp;&nbsp;</td></tr></thead></table> 
+
+Pic
