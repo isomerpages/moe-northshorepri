@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Co Curricular Activities (CCA)/Scouts.md
       - Co Curricular Activities (CCA)/Visual Arts Club.md
       - Co Curricular Activities (CCA)/Modern Dance.md
       - Co Curricular Activities (CCA)/Choir.md
