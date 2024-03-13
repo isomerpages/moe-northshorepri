@@ -2,6 +2,15 @@ collections:
   departments:
     output: true
     order:
+      - English.md
+      - Science.md
+      - Mother Tongue.md
+      - Mathematics.md
+      - PE and Aesthetics/.keep
+      - PE and Aesthetics/PE and Health Education.md
+      - PE and Aesthetics/Art.md
+      - PE and Aesthetics/Music.md
+      - Character and Citizenship Education (CCE).md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co Curricular Activities.md
       - Co Curricular Activities (CCA)/Badminton.md
@@ -14,14 +23,5 @@ collections:
       - Co Curricular Activities (CCA)/Scouts.md
       - Co Curricular Activities (CCA)/Green Club.md
       - Co Curricular Activities (CCA)/Media & STEM Club.md
-      - English.md
-      - Science.md
-      - Mother Tongue.md
-      - Mathematics.md
-      - PE and Aesthetics/.keep
-      - PE and Aesthetics/PE and Health Education.md
-      - PE and Aesthetics/Art.md
-      - PE and Aesthetics/Music.md
-      - Character and Citizenship Education (CCE).md
       - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
