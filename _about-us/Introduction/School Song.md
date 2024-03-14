@@ -3,8 +3,12 @@ title: School Song
 permalink: /about-us/introduction/school-song/
 description: ""
 third_nav_title: Introduction
+variant: markdown
 ---
 # **School Song**
+
+Composed by: Mrs Karen Lai, Ms Quah Hui Ling  
+Lyrics by School Staff
 
 [Click here to play](https://drive.google.com/file/d/1JroJXBDIDb_DU1IW_Hy-89lTF1_1UKEO/view?usp=sharing)
 
