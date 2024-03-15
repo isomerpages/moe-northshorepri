@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Home-Based Learning Matters
           description: Click here for more!
-          url: /announcements/HBL/
+          url: /information/hbl/
         - title: GOING bACK TO SCHOOL
           description: Click here to watch video!
           url: https://www.youtube.com/embed/t2i4ScY4P9w?wmode=transparent&playlist=t2i4ScY4P9w&loop=1
