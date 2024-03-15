@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Publicity/In The News.md
-      - Publicity/Newsletters.md
-      - Publicity/Minister's Visit.md
-      - Publicity/Corporate Video.md
       - Publicity/.keep
+      - Publicity/Corporate Video.md
+      - Publicity/In The News.md
+      - Publicity/Minister's Visit.md
+      - Publicity/Newsletters.md
       - Introduction/.keep
       - Introduction/School Crest.md
       - Introduction/School Vision.md
