@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Home Based Learning.md
       - Rules and Regulations.md
       - School Hours.md
       - Service Providers.md
