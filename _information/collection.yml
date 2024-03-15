@@ -2,10 +2,10 @@ collections:
   information:
     output: true
     order:
-      - Home Based Learning.md
       - Rules and Regulations.md
       - School Hours.md
       - Service Providers.md
+      - Home Based Learning.md
       - Announcements/.keep
       - Announcements/Home Based Learning.md
       - Announcements/In The News.md
