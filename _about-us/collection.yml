@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Publicity/Newsletters.md
       - Publicity/Minister's Visit.md
       - Publicity/Corporate Video.md
       - Publicity/.keep
