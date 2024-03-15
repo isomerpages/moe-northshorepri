@@ -7,8 +7,6 @@ third_nav_title: Publicity
 ---
 # **In The News**
 
-In the News2
-
 <strong>Northshore Primary School is in the news!</strong>
 <p>We are proud of our students for their active participation and curiosity in wanting to know more about STEM and History through their Chinese Language lesson.&nbsp;  
 We had a virtual lesson on the ‘Elephant Clock’ from Kulangsu Gallery of Foreign Artefacts from the Palace Museum Collection (故宫鼓浪屿外国文物馆) for our Chinese Language lesson. The lesson was reported in</p>
