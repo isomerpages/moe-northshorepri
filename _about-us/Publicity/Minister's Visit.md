@@ -7,13 +7,6 @@ third_nav_title: Publicity
 ---
 <h1><strong>Minister's Visit</strong></h1>
 
-Video 1
+Click [here](https://drive.google.com/file/d/1D8mJzmgrFmqTSWV7QyvKY6Rd8HrrqQFb/view?usp=sharing) to watch video 1.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gucsiK1qhk4?wmode=transparent&amp;playlist=gucsiK1qhk4&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-Video 2-1
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LxWhn8DTOpo?wmode=transparent&amp;playlist=LxWhn8DTOpo&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> 
-
-Use this link
-[use this link](https://drive.google.com/file/d/11dfySlr6o59Y1EPrLvgJdbI3BS-_qP-p/view?usp=sharing)
+Click [here](https://drive.google.com/file/d/1y8J83agSQAaMjVphTswmo5-bjYncBO6I/view?usp=sharing) to watch video 2.
