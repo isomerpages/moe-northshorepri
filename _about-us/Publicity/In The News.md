@@ -16,14 +16,10 @@ We had a virtual lesson on the ‘Elephant Clock’ from Kulangsu Gallery of For
 </ul>
 
 
-Test3
+![](/images/25%20April%202022%20School%20Design.jpg)
 
 <img style="width:60%" align="centre" src="/images/2 May 2022 Women in STEM.jpg">     
 
 <br clear="left">
-
-![](/images/25%20April%202022%20School%20Design.jpg)
 	
-![](/images/2%20May%202022%20Women%20in%20STEM.jpg)
-
 ![](/images/3%20May%202022%203M%20STEM%20workshop.jpg)
