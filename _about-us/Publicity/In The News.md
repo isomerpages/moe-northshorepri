@@ -15,6 +15,10 @@ We had a virtual lesson on the ‘Elephant Clock’ from Kulangsu Gallery of For
 	</li>	
 </ul>
 
+<img style="width:70%" align="left" src="/images/music_pic01.jpg">     
+
+<br clear="left">
+
 ![](/images/25%20April%202022%20School%20Design.jpg)
 	
 ![](/images/2%20May%202022%20Women%20in%20STEM.jpg)
