@@ -20,5 +20,5 @@ Our Design Process, The Game Plan, has been adapted from the Design Thinking Fra
 Through these imaginative learning experiences, we aim to develop our students’ critical, adaptive and inventive thinking skills through student-centred pedagogy and STEM-related dispositions - GRIT (Graciousness, Responsibility, Innovation and Tenacity) and foster communication and collaboration skills while working in teams, to eventually raise them as confident and creative imagineers. 
 ![](/images/ALP_Pic03.jpg)  
 
-Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t_BQBfw5n5w?wmode=transparent&amp;playlist=t_BQBfw5n5w&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>    
+**Video**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t_BQBfw5n5w?wmode=transparent&amp;playlist=t_BQBfw5n5w&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
