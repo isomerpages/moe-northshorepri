@@ -15,9 +15,6 @@ We had a virtual lesson on the ‘Elephant Clock’ from Kulangsu Gallery of For
 	</li>	
 </ul>
 
-<img style="width:70%" align="left" src="/images/2 May 2022 Women in STEM.jpg">     
-
-<br clear="left">
 
 Test2
 
