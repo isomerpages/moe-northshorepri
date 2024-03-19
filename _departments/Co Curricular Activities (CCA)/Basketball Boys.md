@@ -13,18 +13,29 @@ The Basketball CCA at Northshore Primary School is a vibrant community where stu
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#303030">Tuesdays</span>&nbsp;&nbsp;&nbsp;</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#303030">2.30pm to 4.00pm</span>&nbsp;&nbsp;&nbsp;</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#303030">Primary 3 and Primary 4 </span>&nbsp;&nbsp;&nbsp;</th></tr></thead><tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#303030">Fridays</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#303030">2.30pm to 4.00pm</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#303030">Primary 4</span>&nbsp;&nbsp;&nbsp;</td></tr></tbody></table>  
 
-**Photos**
-[](/images/Basketball_boy_pic01.jpg)
+**Photos**  
 
-![](/images/Basketball_boy_pic01_1.jpg)
+<img style="width:90%" align="centre" src="/images/Basketball_boy_pic01.jpg">     
+
+<br clear="left">
 
 ![](/images/Basketball_boy_pic02.jpg)
+
+
+<img style="width:90%" align="centre" src="/images/Basketball_boy_pic02.jpg">     
+
+<br clear="left">
 
 ![](/images/Basketball_boy_pic02_2.jpg)
 
 ![](/images/Basketball_boy_pic03.jpg)
 
 ![](/images/Basketball_boy_pic03_3.jpg)
+
+
+<img style="width:90%" align="centre" src="/images/Basketball_boy_pic03.jpg">     
+
+<br clear="left">
 
 ![](/images/Basketball_boy_pic04.jpg)
 
