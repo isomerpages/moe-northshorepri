@@ -17,8 +17,6 @@ The Basketball CCA at Northshore Primary School is a vibrant community where stu
 
 <img style="width:90%" align="centre" src="/images/Basketball_boy_pic01_1.jpg">     
 
-<br clear="left">
-
 <img style="width:90%" align="centre" src="/images/Basketball_boy_pic02_2.jpg">     
 
 <br clear="left">
