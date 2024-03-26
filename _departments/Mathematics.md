@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /departments/mathematics/
 description: ""
+variant: markdown
 ---
 # **Mathematics**
 
@@ -14,6 +15,9 @@ description: ""
 * acquire mathematical&nbsp;concepts and skills for everyday use&nbsp;and for continuous learning in Mathematics.  
 * develop&nbsp;thinking, reasoning, communication, application and meta-cognitive skills&nbsp;through a mathematical approach to problem-solving.    
 * build&nbsp;confidence&nbsp;and&nbsp;foster interest&nbsp;in Mathematics.
+
+
+Old--&gt;
 
 **III.&nbsp; &nbsp; Key Curriculum Approach**
 
