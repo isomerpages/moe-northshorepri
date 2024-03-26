@@ -26,7 +26,7 @@ New
 
 **IV.&nbsp; &nbsp; Key Programmes**
 
-* **It creates Enhanced Learning Support for Mathematics (Enhanced LSM)**
+* **Enhanced Learning Support for Mathematics (Enhanced LSM)**
 
 
 
