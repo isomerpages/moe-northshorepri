@@ -49,6 +49,10 @@ Math@Play programme, a unique feature of the Mathematics curriculum at Northshor
 ![](/images/math%202.jpg)
 Primary 1 and Primary 2 students demonstrate their creativity by creating and playing games through the activities in Project H.E.L.M.  
 
+![](/images/Math_Pic02.jpg)
+Students participating in Math games during Let’s Play Math!  
+
+
 * **Math  UPS<sup>2</sup> Approach to Problem Solving**  
 Problem solving is an essential component in the teaching and learning of Mathematics.  Students will be introduced to the Math UPS<sup>2</sup> and encouraged to use varied strategies to solve problems, to seek alternative solutions to problems and to create, formulate or extend problems.
 
