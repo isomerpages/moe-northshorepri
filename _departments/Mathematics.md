@@ -22,6 +22,10 @@ New
 
 * ABL advocates the Concrete-Pictorial-Abstract (CPA) approach in the teaching and learning of Math.  It creates learning opportunities in using teaching aids like manipulatives to engage students in constructing and co-constructing conceptual understanding.  Students become Active Learners as they move through the different stages of learning, whilst strengthening their mastery of Math skills and concepts.  ABL also leverages the use of technology to make good teaching better. Teaching with technology for active learning creates participatory, connected and reflective Math classroom to nurture future ready learners.
 
+
+
+
+
 [**Caption for ABL photographs**: Students engaging in Activity-Based Learning (ABL) with the use of manipulatives and technology tools on iPads.]  
 
 **IV.&nbsp; &nbsp; Key Programmes**
