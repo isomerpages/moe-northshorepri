@@ -30,10 +30,9 @@ New
   
 The programme is designed to provide early intervention in Mathematics to students who need additional support in acquiring basic numeracy skills from Primary 1 to 4.  Students identified for Enhanced LSM programme are supported by trained Enhanced LSM teachers.  
 
-The goals of Enhanced LSM are to:
+The goals of Enhanced LSM are to:  
 
-‐ equip students with mathematical knowledge, skills and dispositions so that they can learn mathematics with their peers; and
-
+‐ equip students with mathematical knowledge, skills and dispositions so that they can learn mathematics with their peers; and  
 ‐ help students achieve an age-appropriate mathematical age.
 
 * **Math @ Play**  
