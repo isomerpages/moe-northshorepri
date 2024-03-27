@@ -52,6 +52,8 @@ Primary 1 and Primary 2 students demonstrate their creativity by creating and pl
 ![](/images/Math_Pic02.jpg)
 Students participating in Math games during Let’s Play Math!  
 
+![](/images/Math_Pic03.jpg)
+Students went on a mathematical exploration outside of the classroom during Math Day Out!  
 
 * **Math  UPS<sup>2</sup> Approach to Problem Solving**  
 Problem solving is an essential component in the teaching and learning of Mathematics.  Students will be introduced to the Math UPS<sup>2</sup> and encouraged to use varied strategies to solve problems, to seek alternative solutions to problems and to create, formulate or extend problems.
