@@ -25,7 +25,6 @@ New
 ![](/images/Math_Pic01.jpg)
 Students engaging in Activity-Based Learning (ABL) with the use of manipulatives and technology tools on iPads.
 
-
 **IV.&nbsp; &nbsp; Key Programmes**
 
 * **Enhanced Learning Support for Mathematics (Enhanced LSM)**  
