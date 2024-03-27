@@ -28,11 +28,11 @@ Students engaging in Activity-Based Learning (ABL) with the use of manipulatives
 * **Enhanced Learning Support for Mathematics (Enhanced LSM)**  
 The programme is designed to provide early intervention in Mathematics to students who need additional support in acquiring basic numeracy skills from Primary 1 to 4.  Students identified for Enhanced LSM programme are supported by trained Enhanced LSM teachers.  
 
-The goals of Enhanced LSM are to:  
+	 The goals of Enhanced LSM are to:  
 
-‐ equip students with mathematical knowledge, skills and dispositions so that they can learn mathematics with their peers; and  
-‐ help students achieve an age-appropriate mathematical age.
-
+    * equip students with mathematical knowledge, skills and dispositions so that they can learn mathematics with their peers; and
+    * help students achieve an age-appropriate mathematical age.
+   
 * **Math @ Play**  
 Math@Play programme, a unique feature of the Mathematics curriculum at Northshore Primary, aims to foster the joy of learning in Mathematics. Math@Play programmes gamify Math skills and concepts into games-based activities to stimulate greater students’ interests and build their confidence in learning Math.  Students are provided with opportunities to contextualise their learning of Math concepts in “real-world” (game) setting.  Such experiences allow students to seek out strategies to win games and experience fun in learning Math while reinforcing their mathematical skills and concepts.
 
