@@ -32,8 +32,9 @@ The programme is designed to provide early intervention in Mathematics to studen
 
 The goals of Enhanced LSM are to:
 
-* equip students with mathematical knowledge, skills and dispositions so that they can learn mathematics with their peers; and
-* help students achieve an age-appropriate mathematical age.
+‐ equip students with mathematical knowledge, skills and dispositions so that they can learn mathematics with their peers; and
+
+‐ help students achieve an age-appropriate mathematical age.
 
 * **Math @ Play**  
 
@@ -49,7 +50,7 @@ Math@Play programme, a unique feature of the Mathematics curriculum at Northshor
 * **Math  UPS<sup>2</sup> Approach to Problem Solving**  
 Problem solving is an essential component in the teaching and learning of Mathematics.  Students will be introduced to the Math UPS<sup>2</sup> and encouraged to use varied strategies to solve problems, to seek alternative solutions to problems and to create, formulate or extend problems.
 
-
+‐
 
 Old--old
 
