@@ -46,8 +46,10 @@ Math@Play programme, a unique feature of the Mathematics curriculum at Northshor
 
 
 
-* **Math UPS2 Approach to Problem Solving**  
-Problem solving is an essential component in the teaching and learning of Mathematics.  Students will be introduced to the Math UPS2 and encouraged to use varied strategies to solve problems, to seek alternative solutions to problems and to create, formulate or extend problems.
+* **Math  UPS<sup>2</sup> Approach to Problem Solving**  
+
+
+
 
 Old--old
 
