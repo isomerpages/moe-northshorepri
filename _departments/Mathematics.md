@@ -58,7 +58,7 @@ Students went on a mathematical exploration outside of the classroom during Math
 * **Math  UPS<sup>2</sup> Approach to Problem Solving**  
 Problem solving is an essential component in the teaching and learning of Mathematics.  Students will be introduced to the Math UPS<sup>2</sup> and encouraged to use varied strategies to solve problems, to seek alternative solutions to problems and to create, formulate or extend problems.
 
-
+![](/images/Math_Pic04.jpg)
 
 
 Old--old
