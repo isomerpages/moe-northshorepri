@@ -60,9 +60,7 @@ Problem solving is an essential component in the teaching and learning of Mathem
 
 Old--old
 
-**III.&nbsp; &nbsp; Key Curriculum Approach**
 
-Concrete-Pictorial-Abstract (CPA) approach is a key curriculum approach in the teaching and learning of Math. The CPA approach&nbsp;creates learning opportunities in using teaching aids like manipulatives and digital tools to engage students in constructing and co-constructing conceptual understanding.&nbsp;Students at Northshore become Active Learners as they move through the different stages of learning, whilst strengthening their mastery of Math skills and concepts.
 
 ![](/images/math.jpg)
 
