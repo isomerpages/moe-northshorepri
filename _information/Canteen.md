@@ -6,5 +6,6 @@ variant: markdown
 ---
 # **Canteen**
 
-Work in progress......
 
+
+![](/images/2024_Canteen_Food_Pricing.jpg)

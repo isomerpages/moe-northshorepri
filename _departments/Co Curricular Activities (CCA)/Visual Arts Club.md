@@ -1,0 +1,20 @@
+---
+title: Visual Arts Club
+permalink: /departments/co-curricular-activities-cca/visual-arts-club/
+variant: markdown
+description: ""
+third_nav_title: Co Curricular Activities (CCA)
+---
+# **Visual Arts Club**
+
+The Visual Arts Club is a community for those with a passion in Art, dedicated to young artists who aspire to create, inspire and innovate. It is a hub of inspiration and collaboration where we celebrate diverse art forms and encourage individual artistic growth.
+
+**Training Days and Timings**  
+
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Tuesdays</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:black">2.00pm&nbsp;&nbsp;&nbsp;to 3.30pm</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:black">Primary&nbsp;&nbsp;&nbsp;3 and Primary 4 </span>&nbsp;&nbsp;&nbsp;</td></tr></thead></table> 
+
+**Photos**
+![](/images/Art_Club_pic01.jpg)
+![](/images/Art_Club_pic02.jpg)
+
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br>Teachers-in-Charge   </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>Email Address&nbsp;&nbsp;&nbsp;</th></tr></thead><tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>Mrs Jasmine Tan&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><a href="mailto:neo_chui_fang_jasmine@schools.gov.sg">neo_chui_fang_jasmine@schools.gov.sg</a>&nbsp;&nbsp;&nbsp;</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>Miss Syaz&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><a href="mailto:siti_nursyazana_mohd_yassin_a@schools.gov.sg">siti_nursyazana_mohd_yassin_a@schools.gov.sg</a>&nbsp;&nbsp;&nbsp;</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>Miss Raihana&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><a href="mailto:siti_raihana_ahnan@schools.gov.sg">siti_raihana_ahnan@schools.gov.sg</a>&nbsp;&nbsp;&nbsp;</td></tr></tbody></table>

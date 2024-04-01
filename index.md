@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Home-Based Learning Matters
           description: Click here for more!
-          url: /announcements/HBL/
+          url: /information/hbl/
         - title: GOING bACK TO SCHOOL
           description: Click here to watch video!
           url: https://www.youtube.com/embed/t2i4ScY4P9w?wmode=transparent&playlist=t2i4ScY4P9w&loop=1
@@ -24,7 +24,7 @@ sections:
   - infobar:
       title: Northshore Primary School is in the Newspaper!
       button: Click here
-      url: /announcements/inthenews
+      url: /about-us/publicity/inthenews
   - infobar:
       title: Building Northshore Primary School
       description: Click on the button below to see the process of Northshore taking shape!
