@@ -26,7 +26,9 @@ The school organises the Lower Primary Games Day as a whole school in August. On
 Our students do not just learn about PE, Art and Music content during classroom lessons. During this week in October, they will be having activities during Recess that will excite them and turn them into young Sportsman, Artists and Musicians. For our I am Sportsman activity (2022), our students raced as “Formula 1” drivers as they controlled their skates around a circuit as they competed with their friends. Our Primary 3 students (2023) became archers as they engaged in an archery activity.
 
 **Primary 3 SEP (Sports Education Programme)**  
+The school partners Sport Singapore (SportsSG) in introducing unique sports programmes to our students to encourage sports participation and increase sporting opportunities. SEP programmes caters for development of skills and sports knowledge of students and help promote active participation of sports. It also promotes team spirit and character building, and to arouse interest in continual sports participation amongst students.   
 
+Our Primary 3 students participate in 5 lessons of Handball to understand the skills and to pit their skills against their friends of other classes at the end of the programme. 
 
 
 **Physical Health and Fitness**  
