@@ -19,8 +19,12 @@ The Northshore Primary Physical Education Programme aims to develop every studen
 **Primary 3 Swimsafer Programme**  
 Our Primary 3 students will be embarking on their Swimsafer Programme in Term 2. SwimSafer is a national water safety programme introduced by the National Water Safety Council (NWSC) in July 2010, with SwimSafer 2.0 launched in 2018. The programme aims to equip pupils with basic swimming skills as well as water safety awareness. The lessons are currently conducted during curriculum time and they are carried out by MOE-accredited vendors.
 
-**Primary 1 and 2 Lower Primary Games Day** 
+**Primary 1 and 2 Lower Primary Games Day**   
 The school organises the Lower Primary Games Day as a whole school in August. On this fun-filled day, our students displayed some of the skills learnt during PE lessons as they competed with friends from other classes.
+
+**Primary 1 to 4 “I am SAM (Sportsman, Artist, Musician) Week”**  
+Our students do not just learn about PE, Art and Music content during classroom lessons. During this week in October, they will be having activities during Recess that will excite them and turn them into young Sportsman, Artists and Musicians. For our I am Sportsman activity (2022), our students raced as “Formula 1” drivers as they controlled their skates around a circuit as they competed with their friends. Our Primary 3 students (2023) became archers as they engaged in an archery activity.
+
 
 
 **Physical Health and Fitness**  
