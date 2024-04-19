@@ -30,6 +30,10 @@ The school partners Sport Singapore (SportsSG) in introducing unique sports prog
 
 Our Primary 3 students participate in 5 lessons of Handball to understand the skills and to pit their skills against their friends of other classes at the end of the programme. 
 
+**National Kidney Foundation (NKF) Week**  
+The school partnered NKF to introduce the importance of kidney health to our students with fun and engaging activities. The students learnt about the ways to keep our kidneys healthy by reducing salt intake and sweetened drinks, keeping a healthy lifestyle through engaging in outdoor activities, and also having enough rest every night. One of the highlights was the opportunity to board the NKF bus, which was equipped with interactive exhibits and augmented reality technology to make understanding kidney diseases and its preventive measures fun!
+
+
 
 **Physical Health and Fitness**  
 For Primary 1, the students will learn the following topics. They will continue to gain more knowledge about these topics as they progress to Primary 2
