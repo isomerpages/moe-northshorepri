@@ -5,7 +5,7 @@ description: ""
 third_nav_title: PE and Aesthetics
 variant: markdown
 ---
-# **PE and Health Education**
+# **Physical Education (PE)**
 
 **Overview**  
 The Northshore Primary Physical Education Programme aims to develop every student’s physical, mental, ethical and social wellness. We believe that PE is just as important as other subjects.  Through PE, students acquire the knowledge, skills, right attitudes and values towards the pursuit of a lifelong physically active and healthy lifestyle individually and with others. Using the skills acquired, we encourage our students to be engaged in Sports in both recreational and competitive platforms.
