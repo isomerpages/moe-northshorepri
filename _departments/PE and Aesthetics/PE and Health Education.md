@@ -12,9 +12,7 @@ The Northshore Primary Physical Education Programme aims to develop every studen
 
 **PE Framework and syllabus**
 
-![](/images/PE_Pic001.jpg)
-
-![](/images/PE%20Framework%20n%20Syllabus.jpg)
+![](/images/PE_Pic01.jpg)
 
 **Key Programmes**  
 
