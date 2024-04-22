@@ -17,7 +17,7 @@ The Northshore Primary Physical Education Programme aims to develop every studen
 **Key Programmes**  
 
 **Primary 3 Swimsafer Programme**  
-Our Primary 3 students will be embarking on their Swimsafer Programme in Term 2. SwimSafer is a national water safety programme introduced by the National Water Safety Council (NWSC) in July 2010, with SwimSafer 2.0 launched in 2018. The programme aims to equip pupils with basic swimming skills as well as water safety awareness. The lessons are currently conducted during curriculum time and they are carried out by MOE-accredited vendors.
+SwimSafer is a national water safety programme introduced by the National Water Safety Council (NWSC) in July 2010, with SwimSafer 2.0 launched in 2018. The programme aims to equip our Primary 3 students with basic swimming skills as well as water safety awareness. The lessons are currently conducted during curriculum time and they are carried out by MOE-accredited vendors.
 
 ![](/images/PE_Pic02.jpg)
 
