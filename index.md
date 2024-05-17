@@ -31,8 +31,8 @@ sections:
       button: Click here
       url: /Building-Northshore-Primary
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Open House 2024
+      subtitle: Parents
       id: infopic
       description: Infopic description
       button: Button Text
