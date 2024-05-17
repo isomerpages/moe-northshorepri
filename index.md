@@ -42,7 +42,7 @@ sections:
       title: Programme for Open House
       subtitle: Parents
       id: infopic
-      description: Check out the schedules
+      description: "<-Check out the schedules"
       image: /images/Open_House_Program.jpg
       alt: Image alt text
 ---
