@@ -39,4 +39,12 @@ sections:
       button: Button Text
       image: /images/Open_House_Banner.jpg
       alt: Image alt text
+  - infopic:
+      title: Open House Programmes
+      subtitle: Parents
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/Open_House_Program.jpg
+      alt: Image alt text
 ---
