@@ -34,7 +34,8 @@ sections:
       title: Open House 2024
       subtitle: Parents
       id: infopic
-      description: Infopic description
+      description: |
+        Now open for registration !
       button: Button Text
       image: /images/Open_House_Banner.jpg
       alt: Image alt text
