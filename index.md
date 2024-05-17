@@ -35,9 +35,10 @@ sections:
       subtitle: Parents
       id: infopic
       description: Now open for registration! Scroll down for Open House programmes.
-      button: Button Text
+      button: Click here to register
       image: /images/Open_House_Banner.jpg
       alt: Image alt text
+      url: https://go.gov.sg/nspsopenhouse2024
   - infopic:
       title: Programme for Open House
       subtitle: Parents
