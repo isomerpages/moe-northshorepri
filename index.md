@@ -45,4 +45,6 @@ sections:
       description: "<-Check out the schedules"
       image: /images/Open_House_Program.jpg
       alt: Image alt text
+      url: https://go.gov.sg/nspsopenhouse2024
+      button: Click here to register
 ---
