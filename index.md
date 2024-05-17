@@ -30,4 +30,12 @@ sections:
       description: Click on the button below to see the process of Northshore taking shape!
       button: Click here
       url: /Building-Northshore-Primary
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/Open_House_Banner.jpg
+      alt: Image alt text
 ---
