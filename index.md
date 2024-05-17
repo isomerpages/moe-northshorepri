@@ -21,15 +21,6 @@ sections:
         - title: Virtual Open House
           description: Click here for more info!
           url: /information/virtual-open-house/
-  - infobar:
-      title: Northshore Primary School is in the Newspaper!
-      button: Click here
-      url: /about-us/publicity/inthenews
-  - infobar:
-      title: Building Northshore Primary School
-      description: Click on the button below to see the process of Northshore taking shape!
-      button: Click here
-      url: /Building-Northshore-Primary
   - infopic:
       title: Open House 2024
       subtitle: Parents
@@ -46,4 +37,13 @@ sections:
       description: "<-Check out the schedules"
       image: /images/Open_House_Program.jpg
       alt: Image alt text
+  - infobar:
+      title: Northshore Primary School is in the Newspaper!
+      button: Click here
+      url: /about-us/publicity/inthenews
+  - infobar:
+      title: Building Northshore Primary School
+      description: Click on the button below to see the process of Northshore taking shape!
+      button: Click here
+      url: /Building-Northshore-Primary
 ---
