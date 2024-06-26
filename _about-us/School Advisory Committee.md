@@ -8,4 +8,4 @@ variant: markdown
 
 ![](/images/SAC_27May2022.jpg)
 
-![](/images/SAC_26Jun_2024.jpg)
+![](/images/SAC_26Jun_2024_4.jpg)
