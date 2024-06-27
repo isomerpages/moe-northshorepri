@@ -27,7 +27,11 @@ Modification of any of the Contents or use of the Contents for any other purpose
 **Right of Access**  
 Northshore Primary School reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.
 
-**Right of Access**  
+**Disclaimer of Warranties and Liability**  
+
+
+
+
 
 **Right of Access**  
 **Right of Access**  
