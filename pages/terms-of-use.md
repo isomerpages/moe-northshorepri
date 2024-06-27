@@ -42,7 +42,6 @@ Thank you for visiting northshorepri.moe.edu.sg. By accessing and using this Web
 
 2. yperlinks to other web sites are provided as a convenience. In no circumstances shall Northshore Primary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
 
-
 **Links to This Web Site from Other Web Sites**  
 1. Except as set forth below, caching and links to, and the framing of this Web Site or any of the Contents are prohibited.  
 
