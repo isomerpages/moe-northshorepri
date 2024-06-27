@@ -25,15 +25,15 @@ Except as otherwise provided, the Contents of this Web Site shall not be reprodu
 Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Northshore Primary School ‘s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Northshore Primary School.
 
 **Right of Access**  
+Northshore Primary School reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.
 
+**Right of Access**  
 
-
-
-
-
-
-
-
+**Right of Access**  
+**Right of Access**  
+**Right of Access**  
+**Right of Access**  
+**Right of Access**  
 
 Old:
 
