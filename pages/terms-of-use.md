@@ -19,7 +19,7 @@ The materials located on this Web Site including the information and software pr
 **Privacy Policy**  
 Click here to review this Web Site Privacy Statement.  
 
-**Privacy Policy**  
+**Restrictions on Use of Materials**  
 
 
 
