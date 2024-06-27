@@ -28,6 +28,12 @@ Modification of any of the Contents or use of the Contents for any other purpose
 Northshore Primary School reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.
 
 **Disclaimer of Warranties and Liability**  
+The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, Northshore Primary School does not warrant and hereby disclaims any warranty:  
+
+(a) as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;   
+
+(b) that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.  
+
 
 
 
