@@ -37,7 +37,9 @@ The Contents of this Web Site are provided on an "as is" basis without warrantie
 Northshore Primary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
 
 **Links from This Web Site to Other Web Sites**  
+This Web Site contains hyperlinks to web sites which are not maintained Northshore Primary School. Northshore Primary School is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.  
 
+Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Northshore Primary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
 
 
 **Right of Access**  
