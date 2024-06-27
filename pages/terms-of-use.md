@@ -42,7 +42,23 @@ This Web Site contains hyperlinks to web sites which are not maintained Northsho
 Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Northshore Primary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
 
 
-**Right of Access**  
+**Links to This Web Site from Other Web Sites**  
+Except as set forth below, caching and links to, and the framing of this Web Site or any of the Contents are prohibited.  
+
+You must secure permission from Northshore Primary School prior to hyperlinking to, or framing, this Web Site or any of the Contents, or engaging in similar activities. Northshore Primary School reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Web Site or any of the Contents.  
+
+Your linking to, or framing any part of this Web Site or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Web Site or any of the Contents.  
+
+In no circumstances shall Northshore Primary School be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents.  
+
+Northshore Primary School reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.  
+
+Northshore Primary School reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.  
+
+
+
+
+
 **Right of Access**  
 **Right of Access**  
 **Right of Access**  
