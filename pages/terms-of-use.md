@@ -20,6 +20,17 @@ The materials located on this Web Site including the information and software pr
 Click here to review this Web Site Privacy Statement.  
 
 **Restrictions on Use of Materials**  
+Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Northshore Primary School.  To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.  
+
+Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Northshore Primary School ‘s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Northshore Primary School.
+
+**Right of Access**  
+
+
+
+
+
+
 
 
 
