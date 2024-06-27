@@ -29,7 +29,11 @@ Thank you for visiting  [northshorepri.moe.edu.sg](https://www.northshorepri.moe
 **Disclaimer of Warranties and Liability**  
 1. The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, Northshore Primary School does not warrant and hereby disclaims any warranty:  
 
-2. Northshore Primary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
+(a) as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site; 
+
+(b) that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements. 
+
+2. Northshore Primary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site. tt
 
 **Links from This Web Site to Other Web Sites**  
 1. This Web Site contains hyperlinks to web sites which are not maintained Northshore Primary School. Northshore Primary School is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.  
