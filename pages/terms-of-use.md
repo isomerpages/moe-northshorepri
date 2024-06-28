@@ -8,7 +8,7 @@ variant: markdown
 Thank you for visiting  [northshorepri.moe.edu.sg](https://www.northshorepri.moe.edu.sg/). By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
 
 **General**  
-1. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. 
+(1). These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. 
 
 **Proprietary Rights**  
 1. This Web Site is maintained by Northshore Primary School. It is owned by Northshore Primary School.  
