@@ -18,7 +18,7 @@ variant: markdown
 | Mr Shahri 	| Operations Manager 	| [shahri_hairalah@schools.gov.sg](mailto:shahri_hairalah@schools.gov.sg) 	|
 | Ms Thosani 	| Administrative Executive 	| [thosani_rajendran@schools.gov.sg](mailto:thosani_rajendran@schools.gov.sg) 	|
 | Mr Derrick Ng 	| ICT Manager 	| [ng_choon_hong@schools.gov.sg](mailto:ng_choon_hong@schools.gov.sg) 	|
-| Mdm Dianah 	| Corporate Support Officer 	| [dianah_syahirah_asree@schools.gov.sg](mailto:dianah_syahirah_asree@schools.gov.sg) 	|
+| Mrs Kanaesan Yasothai 	| Corporate Support Officer 	| [kanaesan_yasothai@schools.gov.sg](mailto:kanaesan_yasothai@schools.gov.sg) 	|
 | Mdm Haslinda 	| Corporate Support Officer 	| [norhaslinda_subaat@schools.gov.sg](mailto:norhaslinda_subaat@schools.gov.sg) 	|
 | Mdm Irene Wong 	| Corporate Support Officer 	| [wong_siew_hong@schools.gov.sg](mailto:wong_siew_hong_subaat@schools.gov.sg) 	|
 | Ms Fadila 	| Receptionist 	| [fadila_ahmad@moe.edu.sg](mailto:fadila_ahmad@moe.edu.sg) 	|
