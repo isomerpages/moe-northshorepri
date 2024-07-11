@@ -21,22 +21,6 @@ sections:
         - title: Virtual Open House
           description: Click here for more info!
           url: /information/virtual-open-house/
-  - infopic:
-      title: Open House 2024
-      subtitle: Parents
-      id: infopic
-      description: Now open for registration! Scroll down for Open House programmes.
-      button: Click here to register
-      image: /images/Open_House_Banner.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/nspsopenhouse2024
-  - infopic:
-      title: Programme for Open House
-      subtitle: Parents
-      id: infopic
-      description: "<-Check out the schedules"
-      image: /images/Open_House_Program.jpg
-      alt: Image alt text
   - infobar:
       title: Northshore Primary School is in the Newspaper!
       button: Click here
