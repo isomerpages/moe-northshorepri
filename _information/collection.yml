@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - School Bus Advertisement.md
       - Rules and Regulations.md
       - School Hours.md
       - Service Providers.md
