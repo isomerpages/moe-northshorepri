@@ -16,7 +16,7 @@ Complete the
 
 Submit the completed Call for Proposal - Annex A by closing date, 8 November 2024, to the School’s General Office.  
 
-Address:  
+Address:  30, Northshore Drive, Singapore 828671
 
 Contact No: 62026490
 
@@ -26,6 +26,7 @@ Contact Person:
 
 How to get there?
 
-Nearest MRT: Ang Mo Kio (NS16) – 5 to 10 minutes walking distance
+Nearest LRT: Punggol Point (PW3) – 3 minutes walking distance
 
-Bus number: 265 (loop service from Ang Mo Kio Depot) - 3 minutes walking distance
+Bus number: SBS 84 (Outside the school, Punggol Way) 
+Bus number: SBS 384 (Opposite school main gate 1, Northshore Drive)
