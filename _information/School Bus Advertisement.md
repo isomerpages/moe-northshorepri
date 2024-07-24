@@ -20,7 +20,7 @@ Address:
 
 Contact No: 62026490
 
-Email: 
+Email: northshore_ps@moe.edu.sg
 
 Contact Person: 
 
