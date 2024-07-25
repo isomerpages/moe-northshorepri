@@ -8,9 +8,10 @@ description: ""
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**  
-(1) These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such 
+1. [Call For Proposal](/files/building%20process%20PDF-C.pdf)
+2. [Agreement for Appointment of School Bus Operator](/files/Student%20iCON%20Onboarding%20Guide.pdf)
 
-
+**Application Procedure**   
 Complete the
 
 Submit the completed Call for Proposal - Annex A by closing date, 8 November 2024, to the School’s General Office.  
