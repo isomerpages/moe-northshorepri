@@ -21,6 +21,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 * Contact Person: Rashidah  
 
 **How to get there?**  
-Nearest LRT: Punggol Point (PW3) – 5 minutes walking distance  
-Bus number: SBS 84 (Outside the school, Punggol Way)  
-                      SBS 384 (Opposite school main gate 1, Northshore Drive)
+* Nearest LRT: Punggol Point (PW3) – 5 minutes walking distance  
+* Bus number:
+	* SBS 84 (Outside the school, Punggol Way)
+	* SBS 384 (Opposite school main gate 1, Northshore Drive)
