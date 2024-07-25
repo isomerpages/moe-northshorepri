@@ -12,7 +12,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 2. [Agreement for Appointment of School Bus Operator](/files/Student%20iCON%20Onboarding%20Guide.pdf)
 
 **Application Procedure**   
-1. Refer to
+1. Complete the  &lt;&gt;
 2. Submit the completed Call for Proposal - Annex A by closing date, 8 November 2024, to the School’s General Office.  
 
 * Address:  30, Northshore Drive, Singapore 828671  
