@@ -17,7 +17,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 * Address:  30, Northshore Drive, Singapore 828671  
 * Contact:  62026490  
-* Email: [northshore_ps@moe.edu.sg](northshore_ps@moe.edu.sg) 
+* Email: 
 * Contact Person: Mdm Rashidah Rashid  
 
 **How to get there?**  
