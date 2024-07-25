@@ -13,7 +13,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Application Procedure**   
 1. Complete the [Call For Proposal - Annex A pdf]
-2. Submit the completed Call for Proposal - Annex A by closing date, 8 November 2024, to the School’s General Office.  
+2. Submit the completed Call for Proposal - Annex A by closing date, 12 August 2024 (1200h), to the School’s General Office.  
 
 * Address:  30, Northshore Drive, Singapore 828671  
 * Contact:  62026490  
