@@ -2,10 +2,10 @@ collections:
   information:
     output: true
     order:
-      - School Bus Advertisement.md
       - Rules and Regulations.md
       - School Hours.md
       - Service Providers.md
+      - School Bus Advertisement.md
       - Home Based Learning.md
       - Letter to Parents.md
       - Canteen.md
