@@ -18,7 +18,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 * Address:  30, Northshore Drive, Singapore 828671  
 * Contact:  62026490  
 * Email: northshore_ps@moe.edu.sg   
-* Contact Person: Rashidah  
+* Contact Person: Mdm Rashidah Rashid  
 
 **How to get there?**  
 * Nearest LRT: Punggol Point (PW3) – 5 minutes walking distance  
