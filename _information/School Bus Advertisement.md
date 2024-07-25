@@ -15,10 +15,10 @@ To apply, please refer to the Service Requirements and the Application Procedure
 1. Complete the
 2. Submit the completed Call for Proposal - Annex A by closing date, 8 November 2024, to the School’s General Office.  
 
-**Address:**  30, Northshore Drive, Singapore 828671  
-**Contact No:** 62026490  
-**Email:** northshore_ps@moe.edu.sg   
-**Contact Person:** Rashidah  
+* Address:  30, Northshore Drive, Singapore 828671  
+* Contact:  62026490  
+* Email: northshore_ps@moe.edu.sg   
+* Contact Person: Rashidah  
 
 **How to get there?**  
 Nearest LRT: Punggol Point (PW3) – 5 minutes walking distance  
