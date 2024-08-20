@@ -46,4 +46,5 @@ variant: markdown
 |---	|---	|
 | Tel. or SMS: 	| 96930956 (Mr Nur Muhammad)	|
 | Email: 	| [operation@ruifeng.com.sg](mailto:operation@ruifeng.com.sg) 	|  
-School bus service ['NTE’ price](/files/School_Bus_Awarded_Subpage__NSPS__15082024.pdf)
+| Tel. or SMS: 	| 96930956 (Mr Nur Muhammad)	|
+For more details, [click here](/files/School_Bus_Awarded_Subpage__NSPS__15082024.pdf)
