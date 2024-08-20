@@ -44,6 +44,5 @@ variant: markdown
 
 | Rui Feng Chartered Pte Ltd 	|  	|
 |---	|---	|
-| Mailing Address: 	| 7030 Ang Mo Kio Ave 5<br>#03-19 Northstar@AMK<br>Singapore 569880 	|
 | Tel. or SMS: 	| 96930956 (Mr Nur Muhammad)	|
 | Email: 	| [operation@ruifeng.com.sg](mailto:operation@ruifeng.com.sg) 	|
