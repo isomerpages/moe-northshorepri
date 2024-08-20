@@ -46,5 +46,4 @@ variant: markdown
 |---	|---	|
 | Mailing Address: 	| 7030 Ang Mo Kio Ave 5<br>#03-19 Northstar@AMK<br>Singapore 569880 	|
 | Tel. or SMS: 	| 96930956 (Mr Nur Muhammad)	|
-| Email: 	| [admin@btntan.com](mailto:admin@btntan.com) 	|
-| Website: 	| [http://www.btntan.com/](http://www.btntan.com/) 	|
+| Email: 	| [operation@ruifeng.com.sg](mailto:operation@ruifeng.com.sg) 	|
