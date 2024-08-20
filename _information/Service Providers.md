@@ -45,4 +45,5 @@ variant: markdown
 | Rui Feng Chartered Pte Ltd 	|  	|
 |---	|---	|
 | Tel. or SMS: 	| 96930956 (Mr Nur Muhammad)	|
-| Email: 	| [operation@ruifeng.com.sg](mailto:operation@ruifeng.com.sg) 	|
+| Email: 	| [operation@ruifeng.com.sg](mailto:operation@ruifeng.com.sg) 	|  
+School bus service ['NTE’ price](/files/School_Bus_Awarded_Subpage__NSPS__15082024.pdf)
