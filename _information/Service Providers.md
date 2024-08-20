@@ -46,5 +46,5 @@ variant: markdown
 |---	|---	|
 | Tel. or SMS: 	| 96930956 (Mr Nur Muhammad)	|
 | Email: 	| [operation@ruifeng.com.sg](mailto:operation@ruifeng.com.sg) 	|  
-| Tel. or SMS: 	| 96930956 (Mr Nur Muhammad)	|
+| Tel. or SMS: 	| 96930956 (Mr Nur Muhammad)	| 
 For more details, [click here](/files/School_Bus_Awarded_Subpage__NSPS__15082024.pdf)
