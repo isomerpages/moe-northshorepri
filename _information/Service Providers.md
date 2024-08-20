@@ -45,6 +45,6 @@ variant: markdown
 | Rui Feng Chartered Pte Ltd 	|  	|
 |---	|---	|
 | Mailing Address: 	| 7030 Ang Mo Kio Ave 5<br>#03-19 Northstar@AMK<br>Singapore 569880 	|
-| Tel: 	| 6483 7260 	|
+| Tel. or SMS: 	| 96930956 (Mr Nur Muhammad)	|
 | Email: 	| [admin@btntan.com](mailto:admin@btntan.com) 	|
 | Website: 	| [http://www.btntan.com/](http://www.btntan.com/) 	|
