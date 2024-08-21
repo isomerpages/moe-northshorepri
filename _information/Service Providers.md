@@ -42,9 +42,9 @@ variant: markdown
 
 | BT&amp;Tan Transport Pte Ltd 	|  	|
 |---	|---	|
-| Mailing Address: 	| 63 Ubi Avenue 1<br>#04-09 63@Ubi<br>Singapore 408937 	|
-| Tel: 	| 6352 2741 	|
-| Fax: 	| 6842 2741 	|
+| Mailing Address: 	| 7030 Ang Mo Kio Ave 5<br>#03-19 Northstar@AMK<br>Singapore 569880	|
+| Tel: 	| 64837260 	|
+| Fax: 	| 64837261 	|
 | Website: 	| [https://shanghai-uniforms.com/](https://shanghai-uniforms.com/) 	|
 
 
