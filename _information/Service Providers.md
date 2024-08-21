@@ -42,6 +42,19 @@ variant: markdown
 
 ### Bus Services
 
+
+| BT&amp;Tan Transport Pte Ltd	|  	|
+|---	|---	|
+| Mailing Address: 	| 7030 Ang Mo Kio Ave 5
+#03-19 Northstar@AMK
+Singapore 569880 	|
+| Tel: 	| 64837260 	|
+| Fax: 	| 64837261 	|
+| Email: 	| [admin@btntan.com](mailto:admin@btntan.com) 	|
+| Website: 	| [https://shanghai-uniforms.com/](https://shanghai-uniforms.com/) 	|
+
+### Bus Services2
+
 | BT&amp;Tan Transport Pte Ltd 	|  	|
 |---	|---	|
 | Mailing Address: 	| 7030 Ang Mo Kio Ave 5
