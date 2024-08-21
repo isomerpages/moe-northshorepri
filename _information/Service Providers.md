@@ -49,5 +49,6 @@ variant: markdown
 Singapore 569880	|
 | Tel: 	| 64837260	|
 | Fax: 	| 64837261	| 
-| Email: 	| [operation@ruifeng.com.sg](mailto:operation@ruifeng.com.sg) 	|  
+| Email: 	| [admin@btntan.com](mailto:admin@btntan.com) 	| 
+| Website: 	| [http://www.btntan.com/](http://www.btntan.com/)	| 
 | For more details: 	| [click here](/files/School_Bus_Awarded_Subpage__NSPS__15082024.pdf)	|
