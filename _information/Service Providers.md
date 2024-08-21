@@ -42,7 +42,7 @@ variant: markdown
 
 ### Bus Services
 
-| Rui Feng Chartered Pte Ltd 	|  	|
+| BT&amp;Tan Transport Pte Ltd 	|  	|
 |---	|---	|
 | Mailing Address: 	| 7030 Ang Mo Kio Ave 5
 #03-19 Northstar@AMK
