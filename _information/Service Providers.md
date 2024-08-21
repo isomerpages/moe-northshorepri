@@ -51,7 +51,7 @@ Singapore 569880 	|
 | Tel: 	| 64837260 	|
 | Fax: 	| 64837261 	|
 | Email: 	| [admin@btntan.com](mailto:admin@btntan.com) 	|
-| Website: 	| [https://shanghai-uniforms.com/](https://shanghai-uniforms.com/) 	|
+| Website: 	| [http://www.btntan.com/](http://www.btntan.com/) 	|
 
 ### Bus Services2
 
