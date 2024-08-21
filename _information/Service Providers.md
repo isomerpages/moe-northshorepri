@@ -51,4 +51,4 @@ Singapore 569880	|
 | Fax: 	| 64837261	| 
 | Email: 	| [admin@btntan.com](mailto:admin@btntan.com) 	| 
 | Website: 	| [http://www.btntan.com/](http://www.btntan.com/)	| 
-| For more details: 	| [click here](/files/School_Bus_Awarded_Subpage__NSPS__15082024.pdf)	|
+| For new School bus operator (effective 01 Jan 2025): 	| [click here](/files/School_Bus_Awarded_Subpage__NSPS__15082024.pdf)	|
