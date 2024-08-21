@@ -38,9 +38,18 @@ variant: markdown
 | Fax: 	| 6842 2741 	|
 | Website: 	| [https://shanghai-uniforms.com/](https://shanghai-uniforms.com/) 	|
 
-
-
 ### Bus Services
+
+| BT&amp;Tan Transport Pte Ltd 	|  	|
+|---	|---	|
+| Mailing Address: 	| 63 Ubi Avenue 1<br>#04-09 63@Ubi<br>Singapore 408937 	|
+| Tel: 	| 6352 2741 	|
+| Fax: 	| 6842 2741 	|
+| Website: 	| [https://shanghai-uniforms.com/](https://shanghai-uniforms.com/) 	|
+
+
+
+### Bus Services2
 
 | BT&amp;Tan Transport Pte Ltd	|  	|
 |---	|---	|
