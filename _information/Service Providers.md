@@ -1,7 +1,8 @@
 ---
 title: Service Providers
-permalink: /information/service-providers
+permalink: /information/service-providers/
 description: ""
+variant: markdown
 ---
 # **Service Providers**
 
@@ -18,7 +19,7 @@ description: ""
 
 
 
-### Books & Stationery
+### Books &amp; Stationery
 
 | The Continental Book Centre 	|  	|
 |---	|---	|
@@ -41,11 +42,8 @@ description: ""
 
 ### Bus Services
 
-| BT&Tan Transport Pte Ltd 	|  	|
+| Rui Feng Chartered Pte Ltd 	|  	|
 |---	|---	|
-| Mailing Address: 	| 7030 Ang Mo Kio Ave 5<br>#03-19 Northstar@AMK<br>Singapore 569880 	|
-| Tel: 	| 6483 7260 	|
-| Fax: 	| 6483 7261 	|
-| Email: 	| [admin@btntan.com](mailto:admin@btntan.com) 	|
-| Website: 	| [http://www.btntan.com/](http://www.btntan.com/) 	|
-
+| HP#: 	| 96930956 (Mr Nur Muhammad)	|
+| Email: 	| [operation@ruifeng.com.sg](mailto:operation@ruifeng.com.sg) 	|  
+| For more details: 	| [click here](/files/School_Bus_Awarded_Subpage__NSPS__15082024.pdf)	|
