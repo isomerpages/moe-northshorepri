@@ -44,6 +44,8 @@ variant: markdown
 
 | Rui Feng Chartered Pte Ltd 	|  	|
 |---	|---	|
-| HP#: 	| 96930956 (Mr Nur Muhammad)	|
+| Mailing Address: 	| 7030 Ang Mo Kio Ave 5
+#03-19 Northstar@AMK
+Singapore 569880	|
 | Email: 	| [operation@ruifeng.com.sg](mailto:operation@ruifeng.com.sg) 	|  
 | For more details: 	| [click here](/files/School_Bus_Awarded_Subpage__NSPS__15082024.pdf)	|
