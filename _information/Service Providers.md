@@ -44,8 +44,8 @@ variant: markdown
 
 | BT&amp;Tan Transport Pte Ltd	|  	|
 |---	|---	|
-| Mailing Address: 	| 7030 Ang Mo Kio Ave 5
-#03-19 Northstar@AMK
+| Mailing Address: 	| 7030 Ang Mo Kio Ave 5<br>
+#03-19 Northstar@AMK<br>
 Singapore 569880 	|
 | Tel: 	| 64837260 	|
 | Fax: 	| 64837261 	|
