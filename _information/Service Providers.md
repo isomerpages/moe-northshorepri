@@ -38,12 +38,13 @@ variant: markdown
 | Fax: 	| 6842 2741 	|
 | Website: 	| [https://shanghai-uniforms.com/](https://shanghai-uniforms.com/) 	|
 
-
-
 ### Bus Services
 
-| Rui Feng Chartered Pte Ltd 	|  	|
+| BT&amp;Tan Transport Pte Ltd 	|  	|
 |---	|---	|
-| HP#: 	| 96930956 (Mr Nur Muhammad)	|
-| Email: 	| [operation@ruifeng.com.sg](mailto:operation@ruifeng.com.sg) 	|  
-| For more details: 	| [click here](/files/School_Bus_Awarded_Subpage__NSPS__15082024.pdf)	|
+| Mailing Address: 	| 7030 Ang Mo Kio Ave 5<br>#03-19 Northstar@AMK<br>Singapore 569880	|
+| Tel: 	| 64837260 	|
+| Fax: 	| 64837261 	|
+| Email: 	| [admin@btntan.com](mailto:admin@btntan.com) 	|
+| Website: 	| [http://www.btntan.com/](http://www.btntan.com/) 	|
+| ** ***New school bus operator (w.e.f. 01/01/2025***): 	|  [Click here for more details](/files/School_Bus_Awarded_Subpage__NSPS__15082024.pdf) 	|
