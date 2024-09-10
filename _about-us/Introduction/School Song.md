@@ -10,13 +10,7 @@ variant: markdown
 Composed by: Mrs Karen Lai, Ms Quah Hui Ling  
 Lyrics by School Staff
 
-[Click here to play](https://drive.google.com/file/d/1JroJXBDIDb_DU1IW_Hy-89lTF1_1UKEO/view?usp=sharing)
-
-
-**Video2**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RkMXZe4Rpmg?wmode=transparent&amp;playlist=RkMXZe4Rpmg&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>  
-
-
 
 
 **Courageous Explorers**
