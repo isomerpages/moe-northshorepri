@@ -14,7 +14,7 @@ description: ""
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-[Application Document](https://www.sengkangpri.moe.edu.sg/files/application for canteen stall in existing school.pdf)  
+[Application Document](https://www.sengkangpri.moe.edu.sg/files/application for canteen stall in existing school.pdf)
 
 2. Attached the following documents together with the application form:
 *  Photocopy of the NRIC (front and back)
@@ -27,7 +27,7 @@ description: ""
 * Email: [northshore_ps@moe.edu.sg](mailto:northshore_ps@moe.edu.sg)
 * Contact Person: Mdm Rashidah / Mdm Thosani  
 
-**How to get there?3**  
+**How to get there?4**  
 Nearest LRT: Punggol Point LRT (PW3) – 7 minutes walking distance  
 Bus number: 84, 384 - 3 minutes walking distance  
 
