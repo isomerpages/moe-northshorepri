@@ -13,4 +13,4 @@ description: ""
 *  Photocopy of the NRIC (front and back)
 *  List of proposed menu and pricing for all items
 *  Photocopy of Workforce Skills Qualification (WSQ) Food Safety  Course Level 1 of Applicant and Assistant (if any)
-4. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
+3. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
