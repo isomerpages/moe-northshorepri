@@ -27,7 +27,7 @@ description: ""
 * Email: [northshore_ps@moe.edu.sg](mailto:northshore_ps@moe.edu.sg)
 * Contact Person: Mdm Rashidah / Mdm Thosani  
 
-**How to get there?**  
+**How to get there?2**  
 Nearest LRT: Punggol Point LRT (PW3) – 7 minutes walking distance  
 Bus number: 84, 384 - 3 minutes walking distance  
 
