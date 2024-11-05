@@ -10,7 +10,7 @@ description: ""
 **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.  
 
-
+[Application Document](https://www.sengkangpri.moe.edu.sg/files/application for canteen stall in existing school.pdf)
 
 2. Attached the following documents together with the application form:
 *  Photocopy of the NRIC (front and back)
