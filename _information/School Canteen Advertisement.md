@@ -24,7 +24,7 @@ description: ""
 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 * Address: Northshore Primary School, 30 Northshore Drive 828671 
 * Contact No: 6202 6490  
-* Email: northshore_ps@moe.edu.sg
+* Email: [northshore_ps@moe.edu.sg](mailto:northshore_ps@moe.edu.sg)
 * Contact Person: Mdm Rashidah / Mdm Thosani  
 
 **How to get there?**  
