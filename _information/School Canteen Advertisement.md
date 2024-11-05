@@ -21,7 +21,7 @@ description: ""
 * Contact Person: Mdm Rashidah / Mdm Thosani  
 
 **How to get there?**  
-Nearest LRT: Punggol Point LRT (PW3) – 7 minutes walking distance
+Nearest LRT: Punggol Point LRT (PW3) – 7 minutes walking distance  
 Bus number: 84, 384 - 3 minutes walking distance  
 
 **Interested applicants must meet the following criteria:**    
