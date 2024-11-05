@@ -13,6 +13,7 @@ description: ""
 *  Photocopy of the NRIC (front and back)
 *  List of proposed menu and pricing for all items
 *  Photocopy of Workforce Skills Qualification (WSQ) Food Safety  Course Level 1 of Applicant and Assistant (if any)
+
 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 * Address: Northshore Primary School, 30 Northshore Drive 828671 
 * Contact No: 6202 6490  
@@ -36,4 +37,4 @@ Bus number: 84, 384 - 3 minutes walking distance
 * Successful applicant and stall assistant(s) must possess the Workforce Skills Qualification (WSQ) Food Safety Course Level 1.
 * Possess catering experience or experience operating in a school environment.
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). They may apply the License from GoBusiness website.
-* Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.  
+* Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
