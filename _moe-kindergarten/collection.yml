@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - K1 2025 Orientation.md
       - Kindergarten Information.md
       - Our EYC Partners.md
       - Our Learning Environment.md
