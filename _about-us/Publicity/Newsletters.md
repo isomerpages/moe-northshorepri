@@ -6,7 +6,8 @@ description: ""
 third_nav_title: Publicity
 ---
 # **Newsletters**
-
+  
+[Semester 2 (2024)](/files/NPS_Newsletter_2024Sem2.pdf)  
 [Semester 1 (2024)](/files/NPS_Newsletter_2024Sem1.pdf)  
 [Semester 2 (2023)](/files/NSPS_Newsletter_2023Sem2.pdf)   
 [Semester 1 (2023)](/files/(nps)newsletter_2023semester1-c.pdf)  
