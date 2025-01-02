@@ -40,6 +40,14 @@ variant: markdown
 
 ### Bus Services
 
+| Rui Feng Chartered Pte Ltd 	|  	|
+|---	|---	|
+| Tel: 	| 96930956 	|
+| Email: 	| [northshore_pri@ruifeng.com.sg](mailto:northshore_pri@ruifeng.com.sg) 	|
+
+
+### Bus Services2
+
 | BT&amp;Tan Transport Pte Ltd 	|  	|
 |---	|---	|
 | Mailing Address: 	| 7030 Ang Mo Kio Ave 5<br>#03-19 Northstar@AMK<br>Singapore 569880	|
@@ -47,4 +55,4 @@ variant: markdown
 | Fax: 	| 64837261 	|
 | Email: 	| [admin@btntan.com](mailto:admin@btntan.com) 	|
 | Website: 	| [http://www.btntan.com/](http://www.btntan.com/) 	|
-| ** ***New school bus operator (w.e.f. 01/01/2025***): |  [Click here for more details](/files/School_Bus_Awarded_Subpage__NSPS__13092024.pdf) 	|	
+| ** ***New school bus operator (w.e.f. 01/01/2025***): |  [Click here for more details](/files/School_Bus_Awarded_Subpage__NSPS__13092024.pdf) 	|
