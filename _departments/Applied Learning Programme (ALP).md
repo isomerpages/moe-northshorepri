@@ -21,8 +21,4 @@ Through these imaginative learning experiences, we aim to develop our studentsâ€
 ![](/images/ALP_Pic03.jpg)  
 
 **Video**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t_BQBfw5n5w?wmode=transparent&amp;playlist=t_BQBfw5n5w&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>  
-
-**Video2**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GvAJnc2uMUQ?wmode=transparent&amp;playlist=GvAJnc2uMUQ&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GvAJnc2uMUQ?wmode=transparent&amp;playlist=GvAJnc2uMUQ&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
