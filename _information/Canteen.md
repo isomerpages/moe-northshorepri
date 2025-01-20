@@ -8,7 +8,7 @@ variant: markdown
 
 Working In Progress...
 
-![](/images/CCE_P5_Sexuality_education_logo.jpg)
+![](/images/CCE_P5_Sexuality_education_logo2.jpg)
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead>
 <tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:black">CCE(FTGP) THEME</span><span style="background-color:#D9D9D9"> </span></th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:black">LESSON    TITLE / DURATION</span><span style="background-color:#D9D9D9"> </span></th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:black">Lesson OVERVIEW</span></th>
