@@ -23,6 +23,8 @@ This document aims to assist you in updating your school’s Sexuality Education
 
 •	Insert and activate the relevant hyperlinks stated in the document. 
 
+**MOE SEXUALITY EDUCATION IN SCHOOLS**  
+
 
 
 ![](/images/CCE_P5_Sexuality_education_logo3.jpg)
