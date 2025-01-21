@@ -40,6 +40,9 @@ This document aims to assist you in updating your school’s Sexuality Education
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.  
 
+**OVERVIEW OF NORTHSHORE PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025**  
+
+
 
 
 ![](/images/CCE_P5_Sexuality_education_logo3.jpg)
