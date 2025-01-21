@@ -12,6 +12,7 @@ Working In Progress...
 
 **INFORMATION ON MOE SEXUALITY EDUCATION TO BE POSTED ON PRIMARY SCHOOLS’ WEBSITES FOR 2025** 
 
+**Important Instructions**
 
 
 ![](/images/CCE_P5_Sexuality_education_logo3.jpg)
