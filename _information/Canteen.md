@@ -8,6 +8,12 @@ variant: markdown
 
 Working In Progress...
 
+
+
+**INFORMATION ON MOE SEXUALITY EDUCATION TO BE POSTED ON PRIMARY SCHOOLS’ WEBSITES FOR 2025** 
+
+
+
 ![](/images/CCE_P5_Sexuality_education_logo3.jpg)
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead>
