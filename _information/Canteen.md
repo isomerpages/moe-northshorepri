@@ -32,10 +32,10 @@ This document aims to assist you in updating your school’s Sexuality Education
 (b)	Guide students to make wise, informed and responsible decisions on sexuality matters.  
 (c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. 
 
-3.	The Key Messages of Sexuality Education are:
-(a)	Love and respect yourself as you love and respect others;
-(b)	Build positive relationships based on love and respect (which are the foundation for strong families);
-(c)	Make responsible decisions for yourself, your family and society; and
+3.	The Key Messages of Sexuality Education are:  
+(a)	Love and respect yourself as you love and respect others;  
+(b)	Build positive relationships based on love and respect (which are the foundation for strong families);  
+(c)	Make responsible decisions for yourself, your family and society; and  
 (d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.  
@@ -45,8 +45,8 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
 5.	The subjects that incorporate topics on sexuality include:  
-a.	Science  
-b.	Character and Citizenship Education (CCE)  
+(a)	Science  
+(b)	Character and Citizenship Education (CCE)  
 
 6.	The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources.  
 
