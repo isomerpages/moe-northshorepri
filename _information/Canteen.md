@@ -12,7 +12,17 @@ Working In Progress...
 
 **INFORMATION ON MOE SEXUALITY EDUCATION TO BE POSTED ON PRIMARY SCHOOLS’ WEBSITES FOR 2025** 
 
-**Important Instructions**
+**Important Instructions**  
+This document aims to assist you in updating your school’s Sexuality Education webpage.  Please follow the given instructions carefully:
+
+•	Customise those portions highlighted in yellow according to your school’s Sexuality Education programme. 
+
+•	Copy-and-paste the given information onto your school’s website to ensure that all updates have been included. 
+
+•	Ensure that the information uploaded is in a non-editable and non-downloadable format, with the exception of the parent opt-out forms, which must be in PDF format.
+
+•	Insert and activate the relevant hyperlinks stated in the document. 
+
 
 
 ![](/images/CCE_P5_Sexuality_education_logo3.jpg)
