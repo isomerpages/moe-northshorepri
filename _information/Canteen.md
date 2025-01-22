@@ -8,11 +8,11 @@ variant: markdown
 
 Working In Progress...
 
-
+ * Project <ins>**H**</ins>elp our <ins>**E**</ins>xplorers 
 
 **INFORMATION ON MOE SEXUALITY EDUCATION TO BE POSTED ON PRIMARY SCHOOLS’ WEBSITES FOR 2025** 
 
-**Important Instructions**  
+<ins>**Important Instructions**  </ins>  
 This document aims to assist you in updating your school’s Sexuality Education webpage.  Please follow the given instructions carefully:
 
 •	Customise those portions highlighted in yellow according to your school’s Sexuality Education programme. 
