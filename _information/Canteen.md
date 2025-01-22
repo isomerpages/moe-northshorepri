@@ -9,7 +9,7 @@ variant: markdown
 Working In Progress...
 
 
-<center>**INFORMATION ON MOE SEXUALITY EDUCATION TO BE POSTED ON PRIMARY SCHOOLS’ WEBSITES FOR 20251**</center>
+**<center>INFORMATION ON MOE SEXUALITY EDUCATION TO BE POSTED ON PRIMARY SCHOOLS’ WEBSITES FOR 2025</center>**
 
 <ins>**Important Instructions**</ins>  
 This document aims to assist you in updating your school’s Sexuality Education webpage.  Please follow the given instructions carefully:  
