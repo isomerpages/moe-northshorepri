@@ -11,20 +11,12 @@ third_nav_title: CCE
 
 <ins>**Important Instructions**</ins>  
 This document aims to assist you in updating your school’s Sexuality Education webpage.  Please follow the given instructions carefully:  
-•	<ins>Customise</ins> those portions highlighted in yellow
-   according to your school’s Sexuality Education programme.   
-•	<ins>Copy-and-paste</ins> the given information onto your school’s 
-   website to ensure that all updates have been included.     
-•	<ins>Ensure</ins> that the information uploaded is in a non-editable 
-   and non-downloadable format, with the exception of the parent opt-out forms, which <ins>must be</ins> in PDF format.  
-•	<ins>Insert and activate</ins> the relevant hyperlinks stated in the document.   
 
 *   <ins>Customise</ins> those portions highlighted in yellow
    according to your school’s Sexuality Education programme.  
 *   <ins>Copy-and-paste</ins> the given information onto your school’s website to ensure that all updates have been included.  
 *   <ins>Ensure</ins> that the information uploaded is in a non-editable and non-downloadable format, with the exception of the parent opt-out forms, which <ins>must be</ins> in PDF format.  
 *   <ins>Insert and activate</ins> the relevant hyperlinks stated in the document.  
-
 
 **MOE SEXUALITY EDUCATION IN SCHOOLS**  
 
