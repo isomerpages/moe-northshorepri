@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - CCE/MOE Sexuality Education in Schools.md
-      - CCE/Character and Citizenship Education (CCE).md
       - CCE/.keep
+      - CCE/Character and Citizenship Education (CCE).md
+      - CCE/MOE Sexuality Education in Schools.md
       - English.md
       - Science.md
       - Mother Tongue.md
