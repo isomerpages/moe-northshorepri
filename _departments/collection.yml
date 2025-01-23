@@ -2,9 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - CCE/.keep
-      - CCE/Character and Citizenship Education (CCE).md
-      - CCE/MOE Sexuality Education in Schools.md
       - English.md
       - Science.md
       - Mother Tongue.md
@@ -13,6 +10,9 @@ collections:
       - PE and Aesthetics/Physical Education (PE).md
       - PE and Aesthetics/Art.md
       - PE and Aesthetics/Music.md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education (CCE).md
+      - CCE/MOE Sexuality Education in Schools.md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co Curricular Activities.md
       - Co Curricular Activities (CCA)/Badminton.md
