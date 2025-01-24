@@ -18,11 +18,11 @@ This document aims to assist you in updating your school’s Sexuality Education
 *   <ins>Ensure</ins> that the information uploaded is in a non-editable and non-downloadable format, with the exception of the parent opt-out forms, which <ins>must be</ins> in PDF format.  
 *   <ins>Insert and activate</ins> the relevant hyperlinks stated in the document.  
 
-**MOE SEXUALITY EDUCATION IN SCHOOLS3**  
+**MOE SEXUALITY EDUCATION IN SCHOOLS5**  
 
-1. 1)Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  
+<p>1. Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  
 
-2. 2)The **Goals** of Sexuality Education are:  
+</p><p>2. The **Goals** of Sexuality Education are:  
 (a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.  
 (b)	Guide students to make wise, informed and responsible decisions on sexuality matters.  
 (c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.  
@@ -73,4 +73,4 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/Parent_Opt_out__sexuality_Ed_Form.pdf). The completed opt-out form is to be submitted by 28/02/2025.  
 
-10.	Parents can contact the school at 62026490 or email to [northshore_ps@moe.edu.sg](mailto:northshore_ps@moe.edu.sg)  for discussion or to seek clarification about the school’s Sexuality Education programme.
+10.	Parents can contact the school at 62026490 or email to [northshore_ps@moe.edu.sg](mailto:northshore_ps@moe.edu.sg)  for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
