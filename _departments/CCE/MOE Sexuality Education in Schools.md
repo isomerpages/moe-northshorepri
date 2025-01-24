@@ -37,7 +37,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 **OVERVIEW OF NORTHSHORE PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025** 
 
-4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum. <p></p>
+4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum. 
 
 5. The subjects that incorporate topics on sexuality include:  
 (a)	Science  
@@ -73,4 +73,4 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/Parent_Opt_out__sexuality_Ed_Form.pdf). The completed opt-out form is to be submitted by 28/02/2025.  
 
-10.	Parents can contact the school at 62026490 or email to [northshore_ps@moe.edu.sg](mailto:northshore_ps@moe.edu.sg)  for discussion or to seek clarification about the school’s Sexuality Education programme.<p></p>
+10.	Parents can contact the school at 62026490 or email to [northshore_ps@moe.edu.sg](mailto:northshore_ps@moe.edu.sg)  for discussion or to seek clarification about the school’s Sexuality Education programme.
