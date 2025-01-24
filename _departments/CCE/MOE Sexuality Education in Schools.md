@@ -116,123 +116,12 @@ from sexuality-related risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P5_Sexuality_education_logo3.jpg">
 </div>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong><br>CCE(FTGP) THEME</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong><br>LESSON TITLE / DURATION</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong><br>Lesson OVERVIEW</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong><br>TIME PERIOD</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>Growing Years</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>The Changes in Me
-<br>
-<br>(60 min)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>This lesson focuses on helping students identify the emotions and stress
-caused by physical changes during puberty. Students will learn to describe
-the healthy ways to manage their negative feelings during this time. They
-will also learn to recognise that one’s identity need not be negatively
-affected, even when one’s body is experiencing changes due to puberty.
-<br>
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Term 4 Week 7</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;
-<br>Did You Know?
-<br>&nbsp;&nbsp;&nbsp;
-<br>(60 min)
-<br>&nbsp;&nbsp;&nbsp;
-<br>&nbsp;&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>This lesson focuses on helping students know what pornography is and how
-it can affect themselves and others. Students will learn about the dangers
-of being exposed to sexually explicit materials and reject the viewing
-and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy
-‘Stop-Think-Do’.
-<br>
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;
-<br>Term 4 Week 8&nbsp;&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>Keeping Myself Safe
-<br>
-<br>(60 min)
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>In this lesson, students will learn about sexual abuse, how it can happen
-during online and offline interactions and the impact of such abuse on
-victims. They also learn how to take precautionary measures to be safe
-and how to seek help for themselves and their friends.
-<br>
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;
-<br>Term 4 Week 9&nbsp;&nbsp;&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+
+test1
+
+
+test2
+
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
 <ol start="8">
