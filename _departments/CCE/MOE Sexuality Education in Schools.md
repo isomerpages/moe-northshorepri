@@ -18,9 +18,9 @@ This document aims to assist you in updating your school’s Sexuality Education
 *   <ins>Ensure</ins> that the information uploaded is in a non-editable and non-downloadable format, with the exception of the parent opt-out forms, which <ins>must be</ins> in PDF format.  
 *   <ins>Insert and activate</ins> the relevant hyperlinks stated in the document.  
 
-**MOE SEXUALITY EDUCATION IN SCHOOLS3**  
+**MOE SEXUALITY EDUCATION IN SCHOOLS5**  
 
-1) Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.   
+1)  Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.   
 
 2) The **Goals** of Sexuality Education are:  
 (a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.  
