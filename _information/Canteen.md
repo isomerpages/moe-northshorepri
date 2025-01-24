@@ -106,9 +106,6 @@ from sexuality-related risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P5_Sexuality_education_logo3.jpg">
 </div>
-<p><strong>INFORMATION FOR PARENTS</strong>
-</p>
-
 test1
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead>
 <tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:black">CCE(FTGP) THEME</span><span style="background-color:#D9D9D9"> </span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:black">LESSON    TITLE / DURATION</span><span style="background-color:#D9D9D9"> </span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:black">Lesson OVERVIEW</span></th>
@@ -124,6 +121,8 @@ test1
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>Term 4 Week 9&nbsp;&nbsp;&nbsp;</td></tr>
 </tbody></table> 
 test2
+<p><strong>INFORMATION FOR PARENTS</strong>
+</p>
 <p><strong>&nbsp;</strong>
 </p>
 <ol start="8">
