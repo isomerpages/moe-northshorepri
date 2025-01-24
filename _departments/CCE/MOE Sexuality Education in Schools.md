@@ -18,16 +18,16 @@ This document aims to assist you in updating your school’s Sexuality Education
 *   <ins>Ensure</ins> that the information uploaded is in a non-editable and non-downloadable format, with the exception of the parent opt-out forms, which <ins>must be</ins> in PDF format.  
 *   <ins>Insert and activate</ins> the relevant hyperlinks stated in the document.  
 
-**MOE SEXUALITY EDUCATION IN SCHOOLS**  
+**MOE SEXUALITY EDUCATION IN SCHOOLS1**  
 
-1)	Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  
+1. 1)Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  
 
-2)	The **Goals** of Sexuality Education are:  
+2. 2)The **Goals** of Sexuality Education are:  
 (a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.  
 (b)	Guide students to make wise, informed and responsible decisions on sexuality matters.  
 (c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.  
 
-3)	The **Key Messages** of Sexuality Education are:  
+3. 3)The **Key Messages** of Sexuality Education are:  
 (a)	Love and respect yourself as you love and respect others;  
 (b)	Build positive relationships based on love and respect (which are the foundation for strong families);  
 (c)	Make responsible decisions for yourself, your family and society; and  
@@ -37,7 +37,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 **OVERVIEW OF NORTHSHORE PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025**  
 
-4)	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+4. 4)Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
 5)	The subjects that incorporate topics on sexuality include:  
 (a)	Science  
