@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h1><strong>Canteen</strong></h1>
-<p>Working In Progress...</p>
+<p>Working In Progress1...</p>
 <p></p>
 <p><strong>INFORMATION ON MOE SEXUALITY EDUCATION TO BE POSTED ON PRIMARY SCHOOLS’ WEBSITES FOR 2025</strong>
 </p>
