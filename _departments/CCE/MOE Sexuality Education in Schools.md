@@ -18,7 +18,7 @@ This document aims to assist you in updating your school’s Sexuality Education
 *   <ins>Ensure</ins> that the information uploaded is in a non-editable and non-downloadable format, with the exception of the parent opt-out forms, which <ins>must be</ins> in PDF format.  
 *   <ins>Insert and activate</ins> the relevant hyperlinks stated in the document.  
 
-**MOE SEXUALITY EDUCATION IN SCHOOLS2**  
+**MOE SEXUALITY EDUCATION IN SCHOOLS3**  
 
 1. 1)Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  
 
@@ -39,7 +39,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 4. 4)Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
-5)	The subjects that incorporate topics on sexuality include:  
+5. 5)The subjects that incorporate topics on sexuality include:  
 (a)	Science  
 (b)	Character and Citizenship Education (CCE)  
 
