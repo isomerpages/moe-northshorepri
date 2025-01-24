@@ -106,7 +106,7 @@ from sexuality-related risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P5_Sexuality_education_logo3.jpg">
 </div>
-test1
+
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead>
 <tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:black">CCE(FTGP) THEME</span><span style="background-color:#D9D9D9"> </span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:black">LESSON    TITLE / DURATION</span><span style="background-color:#D9D9D9"> </span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:black">Lesson OVERVIEW</span></th>
 <th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:black">TIME PERIOD </span></th></tr>
@@ -120,12 +120,9 @@ test1
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Keeping Myself Safe<br>   <br>(60 min)<br>   <br>    </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br>   <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.   </td>
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>Term 4 Week 9&nbsp;&nbsp;&nbsp;</td></tr>
 </tbody></table> 
-test2
+
 <p><strong>INFORMATION FOR PARENTS</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<ol start="8">
+</p><ol start="8">
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
 supplementary Sexuality Education programmes by MOE-approved external providers.</p>
