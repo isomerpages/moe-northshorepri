@@ -15,7 +15,7 @@ third_nav_title: CCE
 webpage. Please follow the given instructions carefully:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Customise those portions highlighted in yellow according to your school’s
+	<p><ins>Customise</ins> those portions highlighted in yellow according to your school’s
 Sexuality Education programme.</p>
 </li>
 <li>
