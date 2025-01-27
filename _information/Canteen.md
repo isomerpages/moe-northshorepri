@@ -4,6 +4,6 @@ permalink: /information/canteen/
 description: ""
 variant: markdown
 ---
-# **Canteen**
+<h1><strong>Canteen</strong></h1>
+Working In Progress..
 
-Working In Progress...
