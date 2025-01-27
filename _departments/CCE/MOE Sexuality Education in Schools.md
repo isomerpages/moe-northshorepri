@@ -6,31 +6,8 @@ description: ""
 third_nav_title: CCE
 ---
 <h1><strong>MOE Sexuality Education in Schools</strong></h1>
+
 <p></p>
-<p><strong></strong></p><center><strong>INFORMATION ON MOE SEXUALITY EDUCATION TO BE POSTED ON PRIMARY SCHOOLS’ WEBSITES FOR 2025</strong></center>
-<p></p>
-<p></p>
-<p><strong><ins>Important Instructions</ins></strong>
-<br>This document aims to assist you in updating your school’s Sexuality Education
-webpage. Please follow the given instructions carefully:</p>
-<ul data-tight="true" class="tight">
-<li>
-	<p><ins>Customise</ins> those portions highlighted in yellow according to your school’s
-Sexuality Education programme.</p>
-</li>
-<li>
-	<p><ins>Copy-and-paste</ins> the given information onto your school’s website to ensure
-		that <ins>all</ins> updates have been included.</p>
-</li>
-<li>
-	<p><ins>Ensure</ins> that the information uploaded is in a non-editable and non-downloadable
-		format, with the exception of the parent opt-out forms, which <ins>must be</ins> in
-PDF format.</p>
-</li>
-<li>
-	<p><ins>Insert and activate</ins> the relevant hyperlinks stated in the document.</p>
-</li>
-</ul>
 <p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
 </p>
 <ol>
