@@ -7,8 +7,8 @@ third_nav_title: CCE
 ---
 <h1><strong>MOE Sexuality Education in Schools</strong></h1>
 <p></p>
-<p><strong>INFORMATION ON MOE SEXUALITY EDUCATION TO BE POSTED ON PRIMARY SCHOOLS’ WEBSITES FOR 2025</strong>
-</p>
+<p><strong></strong></p><center><strong>INFORMATION ON MOE SEXUALITY EDUCATION TO BE POSTED ON PRIMARY SCHOOLS’ WEBSITES FOR 2025</strong></center>
+<p></p>
 <p></p>
 <p><strong><ins>Important Instructions</ins></strong>
 <br>This document aims to assist you in updating your school’s Sexuality Education
