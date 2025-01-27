@@ -86,7 +86,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <br>(b) Character and Citizenship Education (CCE)</p>
 </li>
 </ol>
-<p><strong>Sexuality Education Lessons:</strong>
+<p><strong><ins>Sexuality Education Lessons:</ins></strong>
 </p>
 <ol start="6">
 <li>
