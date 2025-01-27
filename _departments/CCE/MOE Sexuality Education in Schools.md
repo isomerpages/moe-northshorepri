@@ -19,16 +19,16 @@ webpage. Please follow the given instructions carefully:</p>
 Sexuality Education programme.</p>
 </li>
 <li>
-<p>Copy-and-paste the given information onto your school’s website to ensure
-that all updates have been included.</p>
+	<p><ins>Copy-and-paste</ins> the given information onto your school’s website to ensure
+		that <ins>all</ins> updates have been included.</p>
 </li>
 <li>
-<p>Ensure that the information uploaded is in a non-editable and non-downloadable
-format, with the exception of the parent opt-out forms, which must be in
+	<p><ins>Ensure</ins> that the information uploaded is in a non-editable and non-downloadable
+		format, with the exception of the parent opt-out forms, which <ins>must be</ins> in
 PDF format.</p>
 </li>
 <li>
-<p>Insert and activate the relevant hyperlinks stated in the document.</p>
+	<p><ins>Insert and activate</ins> the relevant hyperlinks stated in the document.</p>
 </li>
 </ul>
 <p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
