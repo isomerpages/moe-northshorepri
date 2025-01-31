@@ -30,4 +30,12 @@ sections:
       description: Click on the button below to see the process of Northshore taking shape!
       button: Click here
       url: /Building-Northshore-Primary
+  - infopic:
+      title: MKE Open House
+      subtitle: Dear Parents,
+      id: infopic
+      description: Walk-in !
+      button: Button Text
+      image: /images/Mk_Open_House_2025.jpg
+      alt: Image alt text
 ---
