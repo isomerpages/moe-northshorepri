@@ -34,8 +34,7 @@ sections:
       title: MKE Open House
       subtitle: Dear Parents,
       id: infopic
-      description: Walk-in !
-      button: Button Text
+      description: Scan the QR code (located on the left) to sign up!
       image: /images/Mk_Open_House_2025.jpg
       alt: Image alt text
 ---
