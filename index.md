@@ -34,7 +34,9 @@ sections:
       title: MKE Open House 2025
       subtitle: Dear Parents,
       id: infopic
-      description: Scan the QR code (located on the left) to sign up!
+      description: Scan the QR code (located on the left) or
       image: /images/Mk_Open_House_2025.jpg
       alt: Image alt text
+      url: https://go.gov.sg/mknsoh
+      button: Click here to sign up
 ---
