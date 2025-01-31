@@ -31,7 +31,7 @@ sections:
       button: Click here
       url: /Building-Northshore-Primary
   - infopic:
-      title: MKE Open House
+      title: MKE Open House 2025
       subtitle: Dear Parents,
       id: infopic
       description: Scan the QR code (located on the left) to sign up!
