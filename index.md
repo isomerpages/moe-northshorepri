@@ -40,7 +40,7 @@ sections:
       url: https://go.gov.sg/mknsoh
       button: Click here to sign up
   - infopic:
-      title: Getting here
+      title: How to get here?
       subtitle: Dear Parents
       id: infopic
       description: Refer to the map (left) on how to get to MOE Kindergarten @ Northshore
