@@ -21,22 +21,6 @@ sections:
         - title: Virtual Open House
           description: Click here for more info!
           url: /information/virtual-open-house/
-  - infopic:
-      title: MOE Kindergarten Open House 2025
-      subtitle: Dear Parents,
-      id: infopic
-      description: Scan the QR code (located on the left) or
-      image: /images/Mk_Open_House_2025.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/mknsoh
-      button: Click here to sign up
-  - infopic:
-      title: How to get here?
-      subtitle: Dear Parents
-      id: infopic
-      description: Refer to the map (left) on how to get to MOE Kindergarten @ Northshore
-      image: /images/MK_Getting_here_2025.jpg
-      alt: Image alt text
   - infobar:
       title: Northshore Primary School is in the Newspaper!
       button: Click here
