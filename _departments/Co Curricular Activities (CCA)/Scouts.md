@@ -13,6 +13,13 @@ Our Northshore Cub Scouts is part of the North Area Cub Scouts in Singapore. We 
 
 To find out more about our CCA, you may drop Mr Mark Lim an email.
 
+**Pack Meeting (CCA Sessions)**  
+
+Tuesdays, 2pm to 3:30pm  
+Please refer to Parents Gateway for the exact dates.
+
+
+**Photos**
 
 Old-------------------------------
 
