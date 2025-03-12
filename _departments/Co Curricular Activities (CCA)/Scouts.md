@@ -7,8 +7,10 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 # **Scouts (Boys and Girls)**
 
-The worldwide Scouting movement was founded in 1907 by Lord Baden Powell. It has grown from strength to strength and reached our shores in 1910. It is one of the oldest youth movements in Singapore. Primary School students who join the Scout program are called Cub Scouts.  
-The Cub Scout program aims to help youths discover, learn and put into practice essential life skills through serving others and learning by doing. It offers a non-formal and values-based educational programme to support the development of young people in becoming responsible and active citizens.   
+The worldwide Scouting movement was founded in 1907 by Lord Baden Powell. It has grown from strength to strength and reached our shores in 1910. It is one of the oldest youth movements in Singapore. Primary School students who join the Scout program are called Cub Scouts.
+
+The Cub Scout program aims to help youths discover, learn and put into practice essential life skills through serving others and learning by doing. It offers a non-formal and values-based educational programme to support the development of young people in becoming responsible and active citizens.
+
 Our Northshore Cub Scouts is part of the North Area Cub Scouts in Singapore. We gather weekly for Pack Meetings (CCA sessions) led by our Akelas (teachers-in-charge).  Our weekly activities encourage our Cubs to take ownership of themselves and grow. Pack meetings are opportunities for adventures, learning life skills, outdoor cooking, games, knotting, craftwork and other scouting skills, while making new friends. As our Cub Scouts learn to manage themselves and take care of their peers, they gain valuable hands-on leadership experience.  
 
 To find out more about our CCA, you may drop Mr Mark Lim an email.
