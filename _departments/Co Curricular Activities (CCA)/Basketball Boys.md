@@ -31,6 +31,8 @@ A highlight of the program is the opportunity for students to compete in the Jun
 
 **Photos**  
 
+**Teachers-In-Charge**  
+
 
 Old-----------------------------
 
