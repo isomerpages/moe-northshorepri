@@ -25,7 +25,11 @@ A highlight of the program is the opportunity for students to compete in the Jun
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#0D0D0D;background-color:white">Selected students</span>&nbsp;&nbsp;&nbsp;</td></tr>
 </tbody></table>  
 
+**Video**  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gmPLMK__jhE?wmode=transparent&amp;playlist=gmPLMK__jhE&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+**Photos**  
 
 
 Old-----------------------------
