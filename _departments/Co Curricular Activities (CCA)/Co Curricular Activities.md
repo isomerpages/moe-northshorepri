@@ -28,6 +28,10 @@ In Northshore Primary School, students can select from a variety of CCAs based o
 
 In 2024, the school introduced SAIL to inform students and parents about the students’ progress in their CCA journey. SAIL stands for Character and Citizenship Education, Achievement, Involvement and Leadership. CCA does not focus only on CCA skills, but also includes other areas such as individual character traits, showcasing of CCA skills in different platforms (such as Singapore Youth Festival, National School Games, school performances, national competitions, etc), students’ participation during CCA sessions and also development of leadership skills. This report will be inserted in the students’ Holistic Development Profile at the end of the year.
 
+**Timeline for CCA**  
+
+
+
 
 old-----------------------------------
 
