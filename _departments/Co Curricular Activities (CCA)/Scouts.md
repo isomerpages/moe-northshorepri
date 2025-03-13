@@ -20,8 +20,15 @@ To find out more about our CCA, you may drop Mr Mark Lim an email.
 Tuesdays, 2pm to 3:30pm  
 Please refer to Parents Gateway for the exact dates.
 
-
 **Photos**
+![](/images/Scouts_pic01_1.jpg)
+
+![](/images/Scouts_pic02.jpg)
+
+![](/images/Scouts_pic03.jpg)
+
+![](/images/Scouts_pic04_1.jpg)
+
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br><span style="color:#303030">Akelas (Teachers-in-charge)</span>   </th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#303030">Email address</span>&nbsp;&nbsp;&nbsp;</th></tr></thead>
 <tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br><span style="color:#303030">Mr Mark Lim (Overall IC)</span> </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><a href="mailto:mark_lim_xian_jin@schools.gov.sg"><span style="text-decoration:none">mark_lim_xian_jin@schools.gov.sg</span></a><span style="color:#303030">  </span>&nbsp;&nbsp;&nbsp;</td></tr>
