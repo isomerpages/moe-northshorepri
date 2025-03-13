@@ -24,6 +24,7 @@ Our basketball Co-Curricular Activity (CCA) boasts participation from P3 – P5 
 </tbody></table>
 
 **Video** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_aG_gBk-4WE?wmode=transparent&amp;playlist=_aG_gBk-4WE&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>  
 
 **Photos** 
 ![](/images/Basketball_Girl_pic01_2025.jpg)
