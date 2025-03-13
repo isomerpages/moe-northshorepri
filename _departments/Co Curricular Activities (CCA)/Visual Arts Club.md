@@ -20,6 +20,7 @@ The Visual Arts Club is a community for those with a passion in Art, dedicated t
 </tbody></table>
 
 **Photos**
+![](/images/Art_Club_pic01_2025.jpg)
 
 **Teachers-In-Charge**  
 
