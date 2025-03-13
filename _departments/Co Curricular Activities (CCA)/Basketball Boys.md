@@ -7,6 +7,20 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 # **Basketball Boys**
 
+The Boys' Basketball CCA at Northshore Primary offers students the chance to develop their skills while fostering teamwork and sportsmanship. Under the expert guidance of experienced coaches and teachers, students improve their abilities in key areas such as shooting, dribbling, and defense. The program is open to players of all skill levels, ensuring that each student can progress and thrive at their own pace.
+
+Aligned with our school's holistic education approach, the CCA not only promotes physical development but also cultivates important life skills such as leadership, communication, and resilience. Students build camaraderie as they train together, supporting one another both on and off the court.
+
+A highlight of the program is the opportunity for students to compete in the Junior Division of the National School Games. This experience allows students to represent Northshore Primary on a larger stage, gaining valuable exposure and confidence while striving for excellence in the sport.
+
+
+
+
+
+
+
+Old-----------------------------
+
 The Basketball CCA at Northshore Primary School is a vibrant community where students develop both their skills and camaraderie. Led by passionate teachers and coaches, students engage in rigorous training sessions, focusing on fundamentals, strategy, and teamwork. Beyond the court, the CCA cultivates leadership and discipline, instilling values that extend beyond basketball. With a supportive environment and a commitment to excellence, the Basketball CCA at Northshore Primary School empowers students to reach their full potential, both as athletes and individuals.  
 
 **Training Days and Timings**  
