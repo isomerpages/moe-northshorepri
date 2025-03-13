@@ -30,7 +30,8 @@ A highlight of the program is the opportunity for students to compete in the Jun
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gmPLMK__jhE?wmode=transparent&amp;playlist=gmPLMK__jhE&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Photos**  
-
+![](/images/Basketball_boy_pic01_2025.jpg)
+![](/images/Basketball_boy_pic02_2025.jpg)
 
 **Teachers-In-Charge**  
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#0D0D0D">Teachers</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#0D0D0D">Emails</span></th></tr></thead>
