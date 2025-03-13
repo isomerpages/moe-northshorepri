@@ -19,6 +19,8 @@ The Visual Arts Club is a community for those with a passion in Art, dedicated t
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#0D0D0D;background-color:white">Primary 3, 4 and 5</span>&nbsp;&nbsp;&nbsp;</td></tr>
 </tbody></table>
 
+**Photos**
+
 **Teachers-In-Charge**  
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#0D0D0D">Teachers</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#0D0D0D">Emails</span></th></tr></thead>
