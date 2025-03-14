@@ -27,6 +27,13 @@ The school organises the Lower Primary Games Day as a whole school in August. On
 
 ![](/images/PE_Pic03.jpg)
 
+**Primary 1 to 5 “I am SAM (Sportsman, Artist, Musician) Week”**  
+Our students do not just learn about PE, Art and Music content during classroom lessons. During this week in October, they will be having activities during Recess that will excite them and turn them into young Sportsman, Artists and Musicians.  
+For our I am Sportsman activity (2022), our students raced as “Formula 1” drivers as they controlled their skates around a circuit as they competed with their friends. Our Primary 3 students (2023) became archers as they engaged in an archery activity. Primary 4 students experienced playing a game of “Seated Volleyball” with their friends.  
+This year, we will be having new activities for our Primary 5 students during the week.
+
+
+
 
 
 old-------------------------------
