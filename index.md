@@ -22,7 +22,7 @@ sections:
           description: Click here for more info!
           url: /information/virtual-open-house/
   - infobar:
-      title: Northshore Primary School is in the News!
+      title: Northshore Primary School in the News!
       button: Click here
       url: /about-us/publicity/inthenews
   - infobar:
