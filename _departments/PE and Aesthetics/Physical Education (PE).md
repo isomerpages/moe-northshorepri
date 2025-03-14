@@ -8,11 +8,19 @@ variant: markdown
 # **Physical Education (PE)**
 
 **Overview**  
+
 The Northshore Primary Physical Education Programme aims to develop every student’s physical, mental, ethical and social wellness. We believe that PE is just as important as other subjects.  Through PE, students acquire the knowledge, skills, right attitudes and values towards the pursuit of a lifelong physically active and healthy lifestyle individually and with others. Using the skills acquired, we encourage our students to be engaged in Sports in both recreational and competitive platforms.
 
 **PE Framework and syllabus**
 
 ![](/images/PE_Pic01.jpg)
+
+**Key Programmes**  
+
+**Primary 3 Swimsafer Programme**  
+Our Primary 3 students will be embarking on their Swimsafer Programme in Term 2.  SwimSafer is a national water safety programme introduced by the National Water Safety Council (NWSC) in July 2010, with SwimSafer 2.0 launched in 2018. The programme aims to equip pupils with basic swimming skills as well as water safety awareness. The lessons are currently conducted during curriculum time and they are carried out by MOE-accredited vendors.
+
+old-------------------------------
 
 **Key Programmes**  
 
