@@ -11,13 +11,15 @@ The String Ensemble welcomes students with a love for music. Open to both beginn
 
 Through guided instruction and ensemble practices, students will develop essential musical skills and a deeper appreciation for orchestral music. In String Ensemble, students learn the importance of respect, teamwork and tenacity as they work together to perform as a group and play in harmony. Throughout the year, students will have opportunities to showcase their talents in school performances and events. This builds their self-confidence and spreads the joy of making music with others. 
 
-
 **Ensemble Practices**
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#0D0D0D">Days</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#0D0D0D">Timing</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#0D0D0D">Venue</span></th></tr></thead>
 <tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br><span style="color:#0D0D0D;background-color:white">Tuesdays &amp; Fridays</span>  </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br><span style="color:#0D0D0D;background-color:white">2pm – 3.30pm</span>  </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br><span style="color:#0D0D0D;background-color:white">Band Room</span>  </td></tr></tbody></table>  
 
 **Photos**
+![](/images/CCA_String_Ensemble_Pic01.jpg)
+![](/images/CCA_String_Ensemble_Pic02.jpg)
+
 
 **Teachers-In-Charge**
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">CCA Teachers</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Email Address</span></th></tr></thead>
