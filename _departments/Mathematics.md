@@ -51,6 +51,6 @@ Students participating in Math games during Let’s Play Math!
 Students went on a mathematical exploration outside of the classroom during Math Day Out!  
 
 * **Math  UPS<sup>2</sup> Approach to Problem Solving**  
-Problem solving is an essential component in the teaching and learning of Mathematics.  Students will be introduced to the Math UPS<sup>2</sup> and encouraged to use varied strategies to solve problems, to seek alternative solutions to problems and to create, formulate or extend problems.
+Problem solving is an essential component in the teaching and learning of Mathematics.  Students will be encouraged to use varied strategies to solve problems, to seek alternative solutions to problems and to create, formulate or extend problems.  Students will learn the different heuristics skills for problem solving, with an emphasis in model drawing.
 
 ![](/images/Math_Pic04.jpg)
