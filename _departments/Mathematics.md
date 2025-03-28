@@ -55,6 +55,6 @@ Problem solving is an essential component in the teaching and learning of Mathem
 
 ![](/images/Math_Pic05.jpg)
 
-Video
+**Video**  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k53xUbzH3vg?wmode=transparent&amp;playlist=k53xUbzH3vg&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
