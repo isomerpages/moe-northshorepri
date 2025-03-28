@@ -37,9 +37,9 @@ The programme is designed to provide early intervention in Mathematics to studen
 Math@Play programme, a unique feature of the Mathematics curriculum at Northshore Primary, aims to foster the joy of learning in Mathematics. Math@Play programmes gamify Math skills and concepts into games-based activities to stimulate greater students’ interests and build their confidence in learning Math.  Students are provided with opportunities to contextualise their learning of Math concepts in “real-world” (game) setting.  Such experiences allow students to seek out strategies to win games and experience fun in learning Math while reinforcing their mathematical skills and concepts.
 
   * Project <ins>**H**</ins>elp our <ins>**E**</ins>xplorers <ins>**L**</ins>earn <ins>**M**</ins>ath – Project H.E.L.M. (Home-School Partnership)
-  * Terrific Thursday
   * Let's Play Math!
   * Math Day Out!  
+  
 
 ![](/images/math%202.jpg)
 Primary 1 and Primary 2 students demonstrating their creativity by creating and playing games through the activities in Project H.E.L.M.  
