@@ -54,3 +54,7 @@ Students went on a mathematical exploration outside of the classroom during Math
 Problem solving is an essential component in the teaching and learning of Mathematics.  Students will be encouraged to use varied strategies to solve problems, to seek alternative solutions to problems and to create, formulate or extend problems.  Students will learn the different heuristics skills for problem solving, with an emphasis in model drawing.
 
 ![](/images/Math_Pic05.jpg)
+
+Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k53xUbzH3vg?wmode=transparent&amp;playlist=k53xUbzH3vg&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
