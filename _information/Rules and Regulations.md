@@ -49,9 +49,18 @@ All Northshoreans are expected to demonstrate exemplary behaviour by observing t
 
 Misbehaviour will not be tolerated and will be dealt with accordingly.  The school adopts the Restorative Approach to manage students. This approach encourages students to be accountable for their actions and empowering them to exercise better self-control and self-discipline in future. It also helps the child to recognise that we address specific behaviours as the problem, and not the child.  Where necessary, the assistance of students’ parents/guardians will be sought to obtain home support for remedial action.
 
-**Attendance**  
+**Personal Possessions**  
+Northshoreans should be responsible for their belongings and take good care of them when in school. Students should not bring items that may disrupt learning or endanger others.
 
-**Attendance**  
+•	Students are not allowed to have in their possession any weapons. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.  
+•	Students are not allowed to bring electronic devices and items that may disrupt learning such as toys, games or cards to school.  
+•	Students are not allowed to bring devices to school without a written consent from the school.  
+•	Any item deemed inappropriate for school will be taken away at the teachers’ discretion.
+
+
+**Our Mobile Device Policy**  
+
+
 
 **Attendance**  
 
