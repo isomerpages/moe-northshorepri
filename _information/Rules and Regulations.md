@@ -37,7 +37,13 @@ Uniform consists of:
 •	The name tag of the student should be sewn below the school crest.  
 •	The uniform is to be worn with black shoes and white socks.  Shoes must be full black (including black shoes laces).  Only plain white socks or socks with the Northshore label are to be worn. Socks must be above ankle.  
 
-**Attendance**  
+**Grooming**  
+•	Students must always be neat in appearance.  
+•	Students must be clean-shaven with no facial hair.    
+•	Students are to maintain a neat hairdo; fancy hairstyles are not allowed.  
+•	No dyeing, tinting or highlighting of hair.  Student with such hair will be required to dye their hair back to its original colour.  
+•	Fingernails should be trimmed and kept short.  Nail polish is not allowed.
+
 **Attendance**  
 **Attendance**  
 
