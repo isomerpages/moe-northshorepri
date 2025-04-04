@@ -24,9 +24,13 @@ Northshoreans must be punctual for all activities.  Students who reach school af
 **Leaving School during Curriculum Hours**  
 School hours are from 7.30 a.m. to 1.30 p.m.  No student is allowed to leave the school during curriculum hours without being accompanied by a parent/ guardian.
 
-**Attendance**  
-**Attendance**  
+**Attire and Grooming**  
+Proper attire and grooming have a positive impact on the image of the school and the students.  Every Northshorean must project an appropriate and well-groomed appearance and wear the school uniform with pride.  
+Northshoreans are to wear the prescribed school uniform and modification to the school uniform is not allowed. Students should not wear jewellery, ornaments or fashion accessories.
 
+**Attendance**  
+**Attendance**  
+**Attendance**  
 
 
 
