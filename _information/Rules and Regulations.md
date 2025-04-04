@@ -45,9 +45,9 @@ Uniform consists of:
 •	Fingernails should be trimmed and kept short.  Nail polish is not allowed.
 
 **Behaviour**  
-All Northshoreans are expected to demonstrate exemplary behaviour by observing the school values.  They are expected to demonstrate Self-discipline, eMpathy, Adaptability, Respect to school staff, peers and school property and Tenacity.
-Misbehaviour will not be tolerated and will be dealt with accordingly.  The school adopts the Restorative Approach to manage students. This approach encourages students to be accountable for their actions and empowering them to exercise better self-control and self-discipline in future. It also helps the child to recognise that we address specific behaviours as the problem, and not the child.  Where necessary, the assistance of students’ parents/guardians will be sought to obtain home support for remedial action.
+All Northshoreans are expected to demonstrate exemplary behaviour by observing the school values.  They are expected to demonstrate Self-discipline, eMpathy, Adaptability, Respect to school staff, peers and school property and Tenacity. 
 
+Misbehaviour will not be tolerated and will be dealt with accordingly.  The school adopts the Restorative Approach to manage students. This approach encourages students to be accountable for their actions and empowering them to exercise better self-control and self-discipline in future. It also helps the child to recognise that we address specific behaviours as the problem, and not the child.  Where necessary, the assistance of students’ parents/guardians will be sought to obtain home support for remedial action.
 
 **Attendance**  
 
