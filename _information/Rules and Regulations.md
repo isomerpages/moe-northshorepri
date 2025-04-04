@@ -62,7 +62,7 @@ All unauthorized electronic, communication, entertainment or gaming devices capa
 
 Students are not allowed to take any forms of visual or audio recordings, such as photographs or videos, within the school compound and vicinity without the school’s permission.
 
-In case of emergency, parents/guardians can call the General Office at Tel: 6202 6490 if they need to contact their child/ward urgently. Students can also contact their parents/guardians, if necessary, by using the phone in the General Office.
+In case of emergency, parents/guardians can call the General Office at Tel: <ins>6202 6490</ins>  if they need to contact their child/ward urgently. Students can also contact their parents/guardians, if necessary, by using the phone in the General Office.
 
 If parents / guardians need to contact their child/ward after school hours, please inform your child’s/ward’s Form Teacher or approach the General Office for the ‘Device Contract’ form.  The form should be completed by the parent/guardian and acknowledged by the Form Teacher before your child/ward can bring his/her mobile device to school.
 
