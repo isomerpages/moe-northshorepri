@@ -10,10 +10,10 @@ variant: markdown
 
 Northshore Primary School is committed to providing a safe and supportive learning environment for all Northshoreans.  The goal of school discipline is to help students develop Self-discipline, eMpathy, Adaptability, Respect and Tenacity (SMART) through making good choices that will enable them to experience success in life.  
 
-**Code of Conduct and School Rules **
+**Code of Conduct and School Rules**
 
 
-
+Project <ins>**H**</ins>elp our
 
 
 old----------------------------
@@ -42,7 +42,7 @@ old----------------------------
 
 *   Hair must not be tinted or dyed.
 *   Short hair: Length of hair must be above the shoulder. Hair must not touch eyebrows.
-*   Long hair: Hair past shoulder length must be neatly plaited down the whole length. 
+*   Long hair: Hair past shoulder length must be neatly plaited down the whole length.&nbsp;
 *   Only when hair cannot be plaited, a ponytail must be neatly tied.
 
 ### Jewellery / Ornaments / Appearance
