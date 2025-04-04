@@ -44,7 +44,9 @@ Uniform consists of:
 •	No dyeing, tinting or highlighting of hair.  Student with such hair will be required to dye their hair back to its original colour.  
 •	Fingernails should be trimmed and kept short.  Nail polish is not allowed.
 
-**Attendance**  
+**Behaviour**  
+
+
 **Attendance**  
 
 
