@@ -18,6 +18,17 @@ Northshoreans who are Singapore Citizens must sing the National Anthem and take 
 **Attendance**  
 It is compulsory for every Northshoreans to attend school. Absence from school must be supported by a medical certificate from doctors registered with the Singapore Medical Council. Students who are in school and not feeling well must inform their teacher.
 
+**Late-coming**  
+Northshoreans must be punctual for all activities.  Students who reach school after 7.30 a.m. are considered late.  Their parents will be informed after three incidents of late-coming.  From the fourth incidence of late-coming, their names will be recorded and submitted to the School Leaders.  Regular late-coming will affect the students’ conduct grade at each semester.
+
+**Leaving School during Curriculum Hours**  
+School hours are from 7.30 a.m. to 1.30 p.m.  No student is allowed to leave the school during curriculum hours without being accompanied by a parent/ guardian.
+
+**Attendance**  
+**Attendance**  
+
+
+
 
 
 old----------------------------
