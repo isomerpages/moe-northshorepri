@@ -51,6 +51,9 @@ Misbehaviour will not be tolerated and will be dealt with accordingly.  The scho
 
 **Attendance**  
 
+**Attendance**  
+
+**Attendance**  
 
 
 
