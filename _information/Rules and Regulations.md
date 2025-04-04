@@ -73,6 +73,12 @@ Students must be responsible for their own personal belongings, including their 
 We seek all parents’ cooperation in ensuring that our school is a safe and healthy environment where all students use technology appropriately and within certain boundaries. We seek your acknowledgement of this note and your kind cooperation.
 
 
+
+
+
+
+
+
 old----------------------------
 
 *   Pupils who are Singapore Citizens must sing the National Anthem and take the Pledge.
