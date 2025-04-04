@@ -8,7 +8,7 @@ variant: markdown
 
 ### National Anthem / Pledge Taking
 
-Northshore Primary School is committed to providing a safe and supportive learning environment for all Northshoreans.  The goal of school discipline is to help students develop Self-discipline, eMpathy, Adaptability, Respect and Tenacity (SMART) through making good choices that will enable them to experience success in life.  
+Northshore Primary School is committed to providing a safe and supportive learning environment for all Northshoreans.  The goal of school discipline is to help students develop **S**elf-discipline, e**M**pathy, **A**daptability, **R**espect and **T**enacity (SMART) through making good choices that will enable them to experience success in life.  
 
 **Code of Conduct and School Rules**
 
