@@ -195,4 +195,40 @@ school.</p>
 <p>Fingernails are to be kept short and neat. No nail varnish is allowed.</p>
 </li>
 </ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>dd</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>dd</p>
+</th>
+<th rowspan="3" colspan="1">
+<p>d</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>dd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ddf</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>dd</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
