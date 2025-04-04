@@ -58,11 +58,19 @@ Northshoreans should be responsible for their belongings and take good care of t
 •	Any item deemed inappropriate for school will be taken away at the teachers’ discretion.
 
 **Our Mobile Device Policy**  
+All unauthorized electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information are strongly discouraged to be brought to school.  
 
+Students are not allowed to take any forms of visual or audio recordings, such as photographs or videos, within the school compound and vicinity without the school’s permission.
 
+In case of emergency, parents/guardians can call the General Office at Tel: 6202 6490 if they need to contact their child/ward urgently. Students can also contact their parents/guardians, if necessary, by using the phone in the General Office.
 
-**Attendance**  
+If parents / guardians need to contact their child/ward after school hours, please inform your child’s/ward’s Form Teacher or approach the General Office for the ‘Device Contract’ form.  The form should be completed by the parent/guardian and acknowledged by the Form Teacher before your child/ward can bring his/her mobile device to school.
 
+The school reserves the right to confiscate and check the content of the device(s) if the student is deemed to have used the device(s) inappropriately. 
+
+Students must be responsible for their own personal belongings, including their mobile devices. The school will not be held accountable for any damage or loss.
+
+We seek all parents’ cooperation in ensuring that our school is a safe and healthy environment where all students use technology appropriately and within certain boundaries. We seek your acknowledgement of this note and your kind cooperation.
 
 
 old----------------------------
