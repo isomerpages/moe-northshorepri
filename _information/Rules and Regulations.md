@@ -15,6 +15,9 @@ Northshore Primary School is committed to providing a safe and supportive learni
 **Morning Assembly**  
 Northshoreans who are Singapore Citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart. Students who are not Singapore Citizens are expected to stand at attention and observe the flag-raising and pledge-taking ceremony with respect.
 
+**Attendance**  
+It is compulsory for every Northshoreans to attend school. Absence from school must be supported by a medical certificate from doctors registered with the Singapore Medical Council. Students who are in school and not feeling well must inform their teacher.
+
 
 
 old----------------------------
