@@ -28,6 +28,15 @@ School hours are from 7.30 a.m. to 1.30 p.m.  No student is allowed to leave the
 Proper attire and grooming have a positive impact on the image of the school and the students.  Every Northshorean must project an appropriate and well-groomed appearance and wear the school uniform with pride.  
 Northshoreans are to wear the prescribed school uniform and modification to the school uniform is not allowed. Students should not wear jewellery, ornaments or fashion accessories.
 
+Uniform consists of:  
+•	School T-shirt  
+•	School skirt/School shorts  
+•	School PE shorts are be worn only on days when there are PAL and/or PE lessons.   
+•	School T-shirts must be tucked out.    
+•	School skirt should be knee length.  
+•	The name tag of the student should be sewn below the school crest.  
+•	The uniform is to be worn with black shoes and white socks.  Shoes must be full black (including black shoes laces).  Only plain white socks or socks with the Northshore label are to be worn. Socks must be above ankle.  
+
 **Attendance**  
 **Attendance**  
 **Attendance**  
