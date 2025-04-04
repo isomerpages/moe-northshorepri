@@ -57,7 +57,6 @@ Northshoreans should be responsible for their belongings and take good care of t
 •	Students are not allowed to bring devices to school without a written consent from the school.  
 •	Any item deemed inappropriate for school will be taken away at the teachers’ discretion.
 
-
 **Our Mobile Device Policy**  
 
 
