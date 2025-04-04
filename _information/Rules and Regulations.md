@@ -12,8 +12,9 @@ Northshore Primary School is committed to providing a safe and supportive learni
 
 **Code of Conduct and School Rules**
 
+**Morning Assembly**  
+Northshoreans who are Singapore Citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart. Students who are not Singapore Citizens are expected to stand at attention and observe the flag-raising and pledge-taking ceremony with respect.
 
-Project <ins>**H**</ins>elp our
 
 
 old----------------------------
