@@ -11,9 +11,8 @@ At Northshore, we develop student leadership in each and every Northshorean.  We
 
 Our leadership framework provides opportunities for students to grow in responsibility and leadership skills, with each tier designed to challenge and support their personal growth. The framework is structured across three distinct tiers, allowing students to progressively take on more significant roles.
 
-**Tier 1: Class Committee Roles – Introduction to Leadership**
+**Tier 1: Class Committee Roles – Introduction to Leadership**  
 In Tier 1, every student has the opportunity to participate in class committee roles. These positions offer a first step toward leadership, providing students with hands-on experience in organising and working with others. It is a great introduction to the responsibilities and teamwork needed to succeed as a leader, setting the foundation for future leadership opportunities.
 
-**Tier 2: Specialist Leaders – Developing Leadership Skills**
+**Tier 2: Specialist Leaders – Developing Leadership Skills**  
 In Tier 2, students from Primary 3 and Primary 4 are selected as specialist leaders, responsible for leading teams of Junior Prefects, Peer Support Leaders (PSLs), and CCA Leaders. These leaders play a more focused role in school life, guiding their teams and contributing to the smooth running of various activities. Specialist leaders refine their leadership skills and take on greater responsibility, creating a bridge between the foundational roles of Tier 1 and the executive positions in Tier 3.
-
