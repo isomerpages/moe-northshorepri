@@ -22,3 +22,6 @@ Tier 3 is reserved for students who demonstrate excellence in leadership. This t
 
 Students are given the opportunity to self-nominate for leadership roles. For the senior prefects’ role, the students will also campaign to garner the support of the school population for their nomination and appointment. All student leaders are guided to perform their roles diligently. Student Leaders are developed in both their interpersonal and intrapersonal skills through the exposure and experiences provided in their roles to lead the school community.
 
+**Roles and Responsibilities of Student Leaders (Tier 2 and Tier 3)**  
+Our student leaders at Northshore Primary School perform various duties that help to shape a positive and well-functioning school environment.  
+
