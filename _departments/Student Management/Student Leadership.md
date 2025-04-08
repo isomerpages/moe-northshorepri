@@ -16,3 +16,8 @@ In Tier 1, every student has the opportunity to participate in class committee r
 
 **Tier 2: Specialist Leaders – Developing Leadership Skills**  
 In Tier 2, students from Primary 3 and Primary 4 are selected as specialist leaders, responsible for leading teams of Junior Prefects, Peer Support Leaders (PSLs), and CCA Leaders. These leaders play a more focused role in school life, guiding their teams and contributing to the smooth running of various activities. Specialist leaders refine their leadership skills and take on greater responsibility, creating a bridge between the foundational roles of Tier 1 and the executive positions in Tier 3.
+
+**Tier 3: Executive Leadership – Excellence and Mentorship**  
+Tier 3 is reserved for students who demonstrate excellence in leadership. This tier includes our Head Prefect, Vice Head Prefect, Executive Committee Members, Senior Prefects, PSLs, and CCA Leaders. These students take on the highest level of responsibility, not only leading by example but also mentoring and guiding students from lower tiers. Their leadership extends throughout the school, serving as role models in character, academic achievement, and community involvement.
+
+   
