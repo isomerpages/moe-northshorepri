@@ -11,3 +11,4 @@ At Northshore, we develop student leadership in each and every Northshorean.  We
 
 Our leadership framework provides opportunities for students to grow in responsibility and leadership skills, with each tier designed to challenge and support their personal growth. The framework is structured across three distinct tiers, allowing students to progressively take on more significant roles.
 
+**Tier 1: Class Committee Roles – Introduction to Leadership**
