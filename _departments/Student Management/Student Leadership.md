@@ -20,4 +20,5 @@ In Tier 2, students from Primary 3 and Primary 4 are selected as specialist lead
 **Tier 3: Executive Leadership – Excellence and Mentorship**  
 Tier 3 is reserved for students who demonstrate excellence in leadership. This tier includes our Head Prefect, Vice Head Prefect, Executive Committee Members, Senior Prefects, PSLs, and CCA Leaders. These students take on the highest level of responsibility, not only leading by example but also mentoring and guiding students from lower tiers. Their leadership extends throughout the school, serving as role models in character, academic achievement, and community involvement.
 
-   
+Students are given the opportunity to self-nominate for leadership roles. For the senior prefects’ role, the students will also campaign to garner the support of the school population for their nomination and appointment. All student leaders are guided to perform their roles diligently. Student Leaders are developed in both their interpersonal and intrapersonal skills through the exposure and experiences provided in their roles to lead the school community.
+
