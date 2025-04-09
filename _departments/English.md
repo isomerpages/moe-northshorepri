@@ -18,6 +18,8 @@ To promote the joy of learning, hands-on activities such as making noodles, flip
 
 photo1
 
+**(ii) Read On Board**
+
 
 
 
