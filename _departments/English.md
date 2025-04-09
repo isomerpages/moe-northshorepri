@@ -40,6 +40,7 @@ The programme aims to enable students to read and spell independently as well as
 The Reading Remediation Programme (RRP) aims to raise the reading competency of students who are not making sufficient progress in the development of literacy skills at the end of Primary 2 at the word and text levels. The objectives are to enable identified Primary 3 and 4 students to read grade-level texts with fluency, and to demonstrate understanding of these texts. 
 
 **Useful Links for Parents** 
+Please click on the following link for information on: 
 
 
 
