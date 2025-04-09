@@ -43,11 +43,13 @@ The Reading Remediation Programme (RRP) aims to raise the reading competency of 
 Please click on the following link for information on: 
 
 a) English Language Curriculum  
+[https://www.moe.gov.sg/primary/curriculum/syllabus](https://www.moe.gov.sg/primary/curriculum/syllabus)
 
 b) List of Recommended books  
+[https://www.nlb.gov.sg/main/site/discovereads/preschoolers/reading-recommendations/booklists](https://www.nlb.gov.sg/main/site/discovereads/preschoolers/reading-recommendations/booklists)
 
 c) NLB E-Books  
-
+[https://eresources.nlb.gov.sg/main/Pages/Primary](https://eresources.nlb.gov.sg/main/Pages/Primary)
 
 
 
