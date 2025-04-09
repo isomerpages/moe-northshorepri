@@ -24,6 +24,8 @@ For Silent Reading, students are required to read an English storybook, every od
 A period each week in the English curricula is dedicated to teach library etiquette, skills and expose students to various genres of stories. The students can definitely look forward to more exciting materials and activities in the library, adopting the theme **‘To Travel Far, There Is No Better Ship Than A Book’**.
 
 **(iii) Learning Through Games and Activities**
+To promote critical thinking and sportsmanship, students get to play and have fun through English-based educational games and activities during lessons. The department also encourages active participation in the library during recesses and our annual EL Week, a carnival of language games and fun.
+
 
 
 
