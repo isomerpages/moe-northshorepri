@@ -16,4 +16,12 @@ The Student Development Team (SDT) adopts a structured, level-specific approach 
 **Key Programmes**  
 
 **S.M.A.R.T Beginning - Learn and Grow Programme**  
-To ensure a smooth transition for our students and their parents, the programme is held during the first few days of school. There are opportunities for students to interact with classmates and teachers and learn about the school compound and rules.
+To ensure a smooth transition for our students and their parents, the programme is held during the first few days of school. There are opportunities for students to interact with classmates and teachers and learn about the school compound and rules.  
+
+The orientation program aims to:
+
+
+**Formation @ Northshore**
+At the end of every year, as part of our ENJOY programme, Northshore Primary School unites to create a human formation. Together with school staff and students, our partners in education – our SAC and PSG members – are invited to be part of the formation.  
+
+Each year has been symbolised by a meaningful emblem that reflects our collective growth.  The first year laid the foundation with a heart, representing compassion and the warmth of our community. The second year built upon this with a house, signifying a safe and welcoming space for all. In the third year, a flower blossomed, embodying growth, creativity, and new possibilities. In the coming years, we are planning to form an anchor, representing stability, resilience, and the strength of our bonds and a star, symbolizing aspiration, excellence, and the bright future we create together.
