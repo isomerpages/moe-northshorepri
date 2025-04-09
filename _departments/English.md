@@ -42,6 +42,12 @@ The Reading Remediation Programme (RRP) aims to raise the reading competency of 
 **Useful Links for Parents** 
 Please click on the following link for information on: 
 
+a) English Language Curriculum  
+
+b) List of Recommended books  
+
+c) NLB E-Books  
+
 
 
 
