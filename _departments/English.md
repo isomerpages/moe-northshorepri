@@ -36,7 +36,7 @@ The School-based Dyslexia Remediation (SDR) Programme2.0 is a specialized and in
 
 The programme aims to enable students to read and spell independently as well as understand a variety of texts.
 
-**(v) School-based Dyslexia Remediation Programme (SDR)**  
+**(vi) Reading Remediation Programme (RRP)**  
 
 
 
