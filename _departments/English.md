@@ -34,6 +34,10 @@ The Learning Support Programme (LSP) is a MOE-developed early intervention effor
 **(v) School-based Dyslexia Remediation Programme (SDR)**  
 The School-based Dyslexia Remediation (SDR) Programme2.0 is a specialized and intensive literacy intervention programme. It addresses the individual literacy needs of Primary 3 and 4 identified students with dyslexia, particularly those with significant difficulties in reading and spelling. 
 
+The programme aims to enable students to read and spell independently as well as understand a variety of texts.
+
+**(v) School-based Dyslexia Remediation Programme (SDR)**  
+
 
 
 
