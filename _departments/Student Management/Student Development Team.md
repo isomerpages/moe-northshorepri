@@ -13,3 +13,7 @@ photo1
 
 The Student Development Team (SDT) adopts a structured, level-specific approach to nurturing students' growth in learning and care. In **Lower Primary**, the focus is on self-awareness and self-management, encouraging students to take responsibility for their actions and words. As they progress to **Middle Primary**, they learn to build positive relationships within the school through self-management and relationship skills, fostering a sense of care for their peers. By **Upper Primary**, students are guided to extend their care beyond the school community, becoming self-directed learners and responsible citizens who collaborate and excel together. This progressive framework ensures holistic development, equipping students with the values and skills needed for personal and social success.  
 
+**Key Programmes**  
+
+**S.M.A.R.T Beginning - Learn and Grow Programme**  
+To ensure a smooth transition for our students and their parents, the programme is held during the first few days of school. There are opportunities for students to interact with classmates and teachers and learn about the school compound and rules.
