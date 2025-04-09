@@ -21,7 +21,9 @@ photo1
 **(ii) Read On Board**
 For Silent Reading, students are required to read an English storybook, every odd week, from the time they arrive at their classrooms to 7.30am. He/She can read any book of his/her choice during this time. Students can also read a variety of stories from a range of class library books available. We hope to cultivate a routine of self-directed and independent reading, as well as inculcate a love for reading.
 
-A period each week in the English curricula is dedicated to teach library etiquette, skills and expose students to various genres of stories. The students can definitely look forward to more exciting materials and activities in the library, adopting the theme ‘To Travel Far, There Is No Better Ship Than A Book’.
+A period each week in the English curricula is dedicated to teach library etiquette, skills and expose students to various genres of stories. The students can definitely look forward to more exciting materials and activities in the library, adopting the theme **‘To Travel Far, There Is No Better Ship Than A Book’**.
+
+**(iii) Learning Through Games and Activities**
 
 
 
