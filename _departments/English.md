@@ -11,7 +11,9 @@ Our English syllabus is developed based on the MOE English Syllabus 2020 and ali
 
 STELLAR is an interactive literacy programme that fosters confidence in learning English using children’s literature. Students will also engage in various theme-based experiences which deepen their learning and understanding.
 
+**Key Programmes**
 
+**(i) Stellar Hands-on Activities**
 
 
 old------------------------------------
