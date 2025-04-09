@@ -23,9 +23,13 @@ For Silent Reading, students are required to read an English storybook, every od
 
 A period each week in the English curricula is dedicated to teach library etiquette, skills and expose students to various genres of stories. The students can definitely look forward to more exciting materials and activities in the library, adopting the theme **‘To Travel Far, There Is No Better Ship Than A Book’**.
 
-**(iii) Learning Through Games and Activities**
+**(iii) Learning Through Games and Activities**  
 To promote critical thinking and sportsmanship, students get to play and have fun through English-based educational games and activities during lessons. The department also encourages active participation in the library during recesses and our annual EL Week, a carnival of language games and fun.
 
+photo2
+
+**(iv) Learning Support Programme (LSP)**  
+The Learning Support Programme (LSP) is a MOE-developed early intervention effort to help students strengthen their basic literacy skills. Identified Primary 1 and 2 students will receive additional help in oral and reading skills in English through a daily 30-minute lesson conducted within curriculum time. The aim of the programme is to equip these students with basic oral language, reading and spelling skills in English so that they can learn in the regular classes.
 
 
 
