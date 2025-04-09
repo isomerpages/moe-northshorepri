@@ -14,6 +14,12 @@ STELLAR is an interactive literacy programme that fosters confidence in learning
 **Key Programmes**
 
 **(i) Stellar Hands-on Activities**
+To promote the joy of learning, hands-on activities such as making noodles, flipping roti pratas, replicating Van Gogh’s artwork, making ice-cream, constructing 3D dinosaurs are conducted in-class. Students get to activate their creativity and thinking skills as they put what they have read into practice.  
+
+photo1
+
+
+
 
 
 old------------------------------------
