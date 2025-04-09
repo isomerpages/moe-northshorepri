@@ -24,6 +24,7 @@ The orientation program aims to:
 2.	Introduce students to the school culture, familiarizing them with its values and aligning expectations.  
 3.	Foster positive relationships between teachers and students, as well as among peers.  
 
+photo2
 
 
 **Formation @ Northshore**  
