@@ -32,6 +32,8 @@ photo2
 The Learning Support Programme (LSP) is a MOE-developed early intervention effort to help students strengthen their basic literacy skills. Identified Primary 1 and 2 students will receive additional help in oral and reading skills in English through a daily 30-minute lesson conducted within curriculum time. The aim of the programme is to equip these students with basic oral language, reading and spelling skills in English so that they can learn in the regular classes.
 
 **(v) School-based Dyslexia Remediation Programme (SDR)**  
+The School-based Dyslexia Remediation (SDR) Programme2.0 is a specialized and intensive literacy intervention programme. It addresses the individual literacy needs of Primary 3 and 4 identified students with dyslexia, particularly those with significant difficulties in reading and spelling. 
+
 
 
 
