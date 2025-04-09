@@ -16,7 +16,7 @@ STELLAR is an interactive literacy programme that fosters confidence in learning
 **(i) Stellar Hands-on Activities**
 To promote the joy of learning, hands-on activities such as making noodles, flipping roti pratas, replicating Van Gogh’s artwork, making ice-cream, constructing 3D dinosaurs are conducted in-class. Students get to activate their creativity and thinking skills as they put what they have read into practice.  
 
-photo1
+![](/images/EL_Pic01.jpg)
 
 **(ii) Read On Board**
 For Silent Reading, students are required to read an English storybook, every odd week, from the time they arrive at their classrooms to 7.30am. He/She can read any book of his/her choice during this time. Students can also read a variety of stories from a range of class library books available. We hope to cultivate a routine of self-directed and independent reading, as well as inculcate a love for reading.
@@ -26,7 +26,7 @@ A period each week in the English curricula is dedicated to teach library etique
 **(iii) Learning Through Games and Activities**  
 To promote critical thinking and sportsmanship, students get to play and have fun through English-based educational games and activities during lessons. The department also encourages active participation in the library during recesses and our annual EL Week, a carnival of language games and fun.
 
-photo2
+![](/images/EL_Pic02.jpg)
 
 **(iv) Learning Support Programme (LSP)**  
 The Learning Support Programme (LSP) is a MOE-developed early intervention effort to help students strengthen their basic literacy skills. Identified Primary 1 and 2 students will receive additional help in oral and reading skills in English through a daily 30-minute lesson conducted within curriculum time. The aim of the programme is to equip these students with basic oral language, reading and spelling skills in English so that they can learn in the regular classes.
