@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Student Management/Student Development Team.md
-      - Student Management/Student Leadership.md
-      - Student Management/Discipline.md
       - Student Management/.keep
+      - Student Management/Discipline.md
+      - Student Management/Student Leadership.md
+      - Student Management/Student Development Team.md
       - English.md
       - Science.md
       - Mother Tongue.md
