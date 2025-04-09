@@ -11,7 +11,5 @@ The Student Development Team (SDT) strives to create a caring and supportive sch
 
 photo1
 
-The Student Development Team (SDT) adopts a structured, level-specific approach to nurturing students' growth in learning and care. In Lower Primary, the focus is on self-awareness and self-management, encouraging students to take responsibility for their actions and words. As they progress to Middle Primary, they learn to build positive relationships within the school through self-management and relationship skills, fostering a sense of care for their peers. By Upper Primary, students are guided to extend their care beyond the school community, becoming self-directed learners and responsible citizens who collaborate and excel together. This progressive framework ensures holistic development, equipping students with the values and skills needed for personal and social success.
-
-photo1
+The Student Development Team (SDT) adopts a structured, level-specific approach to nurturing students' growth in learning and care. In **Lower Primary**, the focus is on self-awareness and self-management, encouraging students to take responsibility for their actions and words. As they progress to **Middle Primary**, they learn to build positive relationships within the school through self-management and relationship skills, fostering a sense of care for their peers. By **Upper Primary**, students are guided to extend their care beyond the school community, becoming self-directed learners and responsible citizens who collaborate and excel together. This progressive framework ensures holistic development, equipping students with the values and skills needed for personal and social success.
 
