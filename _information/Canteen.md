@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h1><strong>Canteen</strong></h1>
-Working In Progress3..
+Working In Progress5..
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Attendance Related Offences</span><br>   <br>• Late coming <br>• Leaving school ground without permission   <br>• Skipping Classes   <br>• Truancy   <br>    </td>
