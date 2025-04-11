@@ -5,9 +5,9 @@ description: ""
 variant: markdown
 ---
 <h1><strong>Canteen</strong></h1>
-Working In Progress6..
+Working In Progress7..
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 1275px"><colgroup><col style="width: 345px"><col style="width: 930px"></colgroup>
+<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 1255px"><colgroup><col style="width: 325px"><col style="width: 930px"></colgroup>
 <thead>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Attendance Related Offences</span><br>   <br>• Late coming <br>• Leaving school ground without permission   <br>• Skipping Classes   <br>• Truancy   <br>    </td>
 <td rowspan="4" style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> The following measure(s) serve as a guide and can be meted out by the school authorities.                                   <br>   <br>• Apology   <br>• Caning   <br>• Compensation   <br>• Corrective Work   <br>• Counselling   <br>• Home Involvement   <br>• Police Assistance   <br>• Referral Agencies   <br>• Suspension   <br>• Warning<br>   <br>    <br>This table serves only as a guide. It is not possible to list the details of all offences and their consequences.<br> <br>The school reserves the right to take any other action deemed appropriate by the school in the best interest of our students, staff and the community.<br>   <br>    </td></tr>
