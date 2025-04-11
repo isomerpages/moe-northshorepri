@@ -5,7 +5,18 @@ description: ""
 variant: markdown
 ---
 <h1><strong>Canteen</strong></h1>
-Working In Progress9..
+Working In Progress10..
+
+<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 797px"><colgroup><col style="width: 333px"><col style="width: 464px"></colgroup>
+<thead>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Attendance Related Offences</span><br>   <br>• Late coming <br>• Leaving school ground without permission   <br>• Skipping Classes   <br>• Truancy   <br>    </td>
+<td rowspan="4" style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> The following measure(s) serve as a guide and can be meted out by the school authorities.                                   <br>   <br>• Apology   <br>• Caning   <br>• Compensation   <br>• Corrective Work   <br>• Counselling   <br>• Home Involvement   <br>• Police Assistance   <br>• Referral Agencies   <br>• Suspension   <br>• Warning<br>   <br>    <br>This table serves only as a guide. It is not possible to list the details of all offences and their consequences.<br> <br>The school reserves the right to take any other action deemed appropriate by the school in the best interest of our students, staff and the community.<br>   <br>    </td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">General Misconduct/Unacceptable Behaviour</span><br>   <br>• Bullying   <br>• Cheating in assessment   <br>• Disruptive behaviour   <br>• Forgery   <br>• Engaging in activities of Buying/Selling/   <br>  Borrowing/Lending/Trading among peers <br>• Improper attire and grooming   <br>• Littering   <br>• Not doing class assignments   <br>• Open defiance and / or rudeness    <br>• Public Nuisance   <br>• Using vulgar language<br>       </td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Other Serious Offences</span><br>   <br>• Alcohol abuse   <br>• Assault   <br>• Drug abuse   <br>• Fighting   <br>• Gambling   <br>• Gangsterism   <br>• Inhalant abuse   <br>• Pornography   <br>• Possession of weapons / inappropriate materials   <br>• Sexual misconduct   <br>• Smoking / Vaping<br>       </td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> <span style="font-weight:bold;color:black">Theft / Damage of Property</span><br>   <br>• Arson  • Theft    • Vandalism<br>       </td></tr></thead></table>
+
+
+
+Old--------------
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 797px"><colgroup><col style="width: 333px"><col style="width: 464px"></colgroup>
 <thead>
