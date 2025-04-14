@@ -123,7 +123,6 @@ their mobile devices. The school will not be held accountable for any damage
 or loss.</p>
 <p>We seek all parents’ cooperation in ensuring that our school is a safe
 and healthy environment where all students use technology appropriately
-and within certain boundaries. We seek your acknowledgement of this note
-and your kind cooperation.</p>
+and within certain boundaries.</p>
 <p></p>
 <p></p>
