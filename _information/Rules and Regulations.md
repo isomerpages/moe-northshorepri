@@ -75,7 +75,7 @@ also helps the child to recognise that we address specific behaviours as
 the problem, and not the child. Where necessary, the assistance of students’
 parents/guardians will be sought to obtain home support for remedial action.</p>
 
-Start table
+The table below shows the list of offences.
 <table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 776px"><colgroup><col style="width: 321px"><col style="width: 455px"></colgroup>
 <thead>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;font-style:inherit">Attendance Related Offences</span><br><span style="color:#323232">• Late coming</span><br><span style="color:#323232">• Leaving school ground without permission</span><br><span style="color:#323232">• Skipping Classes</span><br><span style="color:#323232">• Truancy</span><br></td>
