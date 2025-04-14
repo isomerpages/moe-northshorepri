@@ -87,11 +87,6 @@ The table below shows the list of offences.
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;font-style:inherit">Other Serious Offences</span><br><span style="color:#323232">• Alcohol abuse</span><br><span style="color:#323232">• Assault</span><br><span style="color:#323232">• Drug abuse</span><br><span style="color:#323232">• Fighting</span><br><span style="color:#323232">• Gambling</span><br><span style="color:#323232">• Gangsterism</span><br><span style="color:#323232">• Inhalant abuse</span><br><span style="color:#323232">• Pornography</span><br><span style="color:#323232">• Possession of weapons / inappropriate materials</span><br><span style="color:#323232">• Sexual misconduct</span><br><span style="color:#323232">• Smoking / Vaping</span><br></td></tr>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;font-style:inherit;color:black">Theft / Damage of Property</span><br><span style="color:#323232">• Arson • Theft • Vandalism</span></td></tr></thead></table>
 
-
-
-End table
-
-
 <p><strong>Personal Possessions</strong>
 <br>Northshoreans should be responsible for their belongings and take good
 care of them when in school. Students should not bring items that may disrupt
