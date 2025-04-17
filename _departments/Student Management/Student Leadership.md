@@ -32,6 +32,6 @@ Our student leaders at Northshore Primary School perform various duties that hel
 •	**School Events**: Student leaders also assist in organizing school events such as Teacher’s Day, contributing to the celebration and appreciation of teachers and staff.  
 •	**Voices of Northshoreans**: At Northshore Primary School, every student has a voice in shaping the school’s future. Through Voices of Northshoreans, students are encouraged to share their ideas on how to improve the school environment. Their suggestions are carefully reviewed by a dedicated team of teachers and Prefects before being submitted to the Principal for final consideration. Successful ideas that enhance the school experience are implemented, and students who contribute meaningful changes are recognized for their efforts. As a token of appreciation, specially made bookmarks are given to students who have suggested meaningful and feasible ideas. This initiative empowers students to take an active role in making Northshore Primary a better place for everyone. Every idea counts, and every voice matters!  
 
-![](/images/SLS_Pic02.jpg)
+![](/images/SLS_Pic02_1.jpg)
 ![](/images/SLS_Pic03.jpg)
 ![](/images/SLS_Pic04.jpg)
