@@ -19,6 +19,9 @@ In Tier 1, every student has the opportunity to participate in class committee r
 **Tier 2: Specialist Leaders – Developing Leadership Skills**  
 In Tier 2, students from Primary 3 and Primary 4 are selected as specialist leaders, responsible for leading teams of Junior Prefects, Peer Support Leaders (PSLs), and CCA Leaders. These leaders play a more focused role in school life, guiding their teams and contributing to the smooth running of various activities. Specialist leaders refine their leadership skills and take on greater responsibility, creating a bridge between the foundational roles of Tier 1 and the executive positions in Tier 3.
 
+![](/images/SLS_Pic03.jpg)
+![](/images/SLS_Pic04.jpg)
+
 **Tier 3: Executive Leadership – Excellence and Mentorship**  
 Tier 3 is reserved for students who demonstrate excellence in leadership. This tier includes our Head Prefect, Vice Head Prefect, Executive Committee Members, Senior Prefects, PSLs, and CCA Leaders. These students take on the highest level of responsibility, not only leading by example but also mentoring and guiding students from lower tiers. Their leadership extends throughout the school, serving as role models in character, academic achievement, and community involvement.
 
@@ -33,5 +36,3 @@ Our student leaders at Northshore Primary School perform various duties that hel
 •	**Voices of Northshoreans**: At Northshore Primary School, every student has a voice in shaping the school’s future. Through Voices of Northshoreans, students are encouraged to share their ideas on how to improve the school environment. Their suggestions are carefully reviewed by a dedicated team of teachers and Prefects before being submitted to the Principal for final consideration. Successful ideas that enhance the school experience are implemented, and students who contribute meaningful changes are recognized for their efforts. As a token of appreciation, specially made bookmarks are given to students who have suggested meaningful and feasible ideas. This initiative empowers students to take an active role in making Northshore Primary a better place for everyone. Every idea counts, and every voice matters!  
 
 ![](/images/SLS_Pic02_1.jpg)
-![](/images/SLS_Pic03.jpg)
-![](/images/SLS_Pic04.jpg)
