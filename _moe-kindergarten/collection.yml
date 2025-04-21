@@ -2,7 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Open House 2025.md
       - Kindergarten Information.md
       - Our EYC Partners.md
       - Our Learning Environment.md
