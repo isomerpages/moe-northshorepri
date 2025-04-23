@@ -3,6 +3,7 @@ title: Character and Citizenship Education (CCE)
 permalink: /departments/character-and-citizenship-education-cce/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 # **Character and Citizenship Education (CCE)**
 
@@ -17,33 +18,8 @@ The “2E” approach is as follows: 
 *   Engage (Tier 1): Engage and develop all students holistically through intentional teaching of knowledge, social-emotional skills, values and attitudes.
 *   Empower (Tier 2): Empower students who exhibit greater aptitude and interest to drive ground-up initiatives, lead actively in school programmes and be a positive peer influence.
 
-  
 
 ### Key School-based Initiatives
-
-_**S.M.A.R.T Beg****inning - Learn and Grow Programme**_
-
-An orientation programme with the following objectives:  
-
-1.    To help our new students adjust to a new environment by easing them into new routines.  
-2.    To induct our new students into the school culture by familiarising them with school values and aligning expectations with them.   
-3.    To build positive teacher-student relationship and peer relationship.   
-4.    To engage parents in building positive home-school partnership in shaping positive values and attitudes.
-
-![](/images/2022-Cce_Pic01.jpg)
-Bonding as students create their unique class tree here.
-
-![](/images/2022-Cce_Pic02.jpg)
-Discovering Northshore's facilities.
-
-![](/images/2022-Cce_Pic03.jpg)
-Discovering Northshore's flora and fauna.
-
-![](/images/2022-Cce_Pic04.jpg)
-Interactive exploration of the school.
-
-![](/images/2022-Cce_Pic05.jpg)
-P2 seniors welcoming their P1 juniors with a message from the heart.
 
 **EnJoy - Ending the Year with JOY**  
 An appreciation day with the following objectives:  
