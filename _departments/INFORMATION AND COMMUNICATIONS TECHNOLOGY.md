@@ -16,7 +16,10 @@ Our students develop essential digital competencies through the “Find, Think, 
 At Northshore Primary School, our EdTech curriculum is designed to progressively equip students with essential digital skills and competencies aligned with the MOE's Baseline ICT Standards. With a strong focus on foundational ICT skills, responsible digital citizenship, and exposure to emerging technologies, Northshoreans are empowered to become confident, collaborative, and future-ready digital learners.  
 
 **Signature Programmes**  
+
+
 **Developing Teachers, Deepening EdTech Practices**  
+Our educators are empowered through ongoing Professional Development tailored to strengthen their EdTech practices. Through trainings, workshops, mentoring, and peer collaboration, our teachers explore new digital pedagogies and innovate their classroom practices. This professional growth supports the creation of meaningful and tech-enriched learning experiences for our students.
 
 **Cyber Wellness Education**  
 Cyber wellness education is integrated into our Character and Citizenship Education curriculum, helping students develop responsible digital habits and positive online behaviour. With a strong foundation in values and digital skills, Northshoreans grow into confident digital learners with the courage to explore, passion to learn, and heart to serve.
