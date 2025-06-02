@@ -11,3 +11,6 @@ In line with the EdTech Masterplan 2030 vision to “prepare students for a tech
 
 Our students develop essential digital competencies through the “Find, Think, Apply, Create” framework, which is embedded into a progressive ICT curriculum. This curriculum integrates Baseline ICT Standards and New Media Literacies to ensure a strong foundation in digital learning.
 
+
+**EdTech Programme Overview**  
+
