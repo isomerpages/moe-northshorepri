@@ -17,4 +17,6 @@ At Northshore Primary School, our EdTech curriculum is designed to progressively
 
 **Signature Programmes**  
 **Developing Teachers, Deepening EdTech Practices**  
-**Cyber Wellness Education**
+
+**Cyber Wellness Education**  
+Cyber wellness education is integrated into our Character and Citizenship Education curriculum, helping students develop responsible digital habits and positive online behaviour. With a strong foundation in values and digital skills, Northshoreans grow into confident digital learners with the courage to explore, passion to learn, and heart to serve.
