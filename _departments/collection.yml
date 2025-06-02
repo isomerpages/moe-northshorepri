@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - INFORMATION AND COMMUNICATIONS TECHNOLOGY.md
+      - Information And Communications Technology.md
       - English.md
       - Science.md
       - Mother Tongue.md
