@@ -13,4 +13,8 @@ Our students develop essential digital competencies through the “Find, Think, 
 
 
 **EdTech Programme Overview**  
-At Northshore Primary School, our EdTech curriculum is designed to progressively equip students with essential digital skills and competencies aligned with the MOE's Baseline ICT Standards. With a strong focus on foundational ICT skills, responsible digital citizenship, and exposure to emerging technologies, Northshoreans are empowered to become confident, collaborative, and future-ready digital learners.
+At Northshore Primary School, our EdTech curriculum is designed to progressively equip students with essential digital skills and competencies aligned with the MOE's Baseline ICT Standards. With a strong focus on foundational ICT skills, responsible digital citizenship, and exposure to emerging technologies, Northshoreans are empowered to become confident, collaborative, and future-ready digital learners.  
+
+**EdTech Programme Overview**  
+**EdTech Programme Overview**  
+**EdTech Programme Overview**  
