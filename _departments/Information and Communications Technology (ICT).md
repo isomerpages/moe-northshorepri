@@ -27,7 +27,7 @@ At Northshore Primary School, our EdTech curriculum is designed to progressively
 **Signature Programmes**  
 
 • **imaginEErs – Creativity Unlocked**  
-Our  [ALP](https://www.northshorepri.moe.edu.sg/departments/applied-learning-programme-alp/)  programme, “imaginEErs – Creativity Unlocked”, engages students in exciting, hands-on S.T.E.M. (Science, Technology, Engineering, and Mathematics) activities. Students embark on imaginative learning adventures that spark curiosity and creativity while building critical and inventive thinking skills to solve real-world problems. This programme also fosters essential communication and collaboration skills.  
+Our  [ALP](https://www.northshorepri.moe.edu.sg/departments/applied-learning-programme-alp/)  programme, “imaginEErs – Creativity Unlocked: Excite. Explore. Excel”, engages students in exciting, hands-on S.T.E.M. (Science, Technology, Engineering, and Mathematics) activities. Students embark on imaginative learning adventures that spark curiosity and creativity while building critical and inventive thinking skills to solve real-world problems. This programme also fosters essential communication and collaboration skills.  
 • **Makerspace**  
 The Makerspace ecosystem encourages design thinking and innovation through hands-on creation and prototyping, giving students the space and tools to explore and build.  
 • **Media &amp; STEM Club**  
