@@ -31,7 +31,7 @@ Our  [ALP](https://www.northshorepri.moe.edu.sg/departments/applied-learning-pro
 • **Makerspace**  
 The Makerspace ecosystem encourages design thinking and innovation through hands-on creation and prototyping, giving students the space and tools to explore and build.  
 • **Media &amp; STEM Club**  
-Through our co-curricular activities in Media &amp; STEM , students explore coding and programming using platforms such as Scratch. They learn to create digital artefacts, develop, test, and debug digital solutions, gaining practical skills in a collaborative and supportive environment.
+Through our co-curricular activities in [Media &amp; STEM](https://www.northshorepri.moe.edu.sg/departments/co-curricular-activities-cca/media-n-stem-club/) Media &amp; STEM , students explore coding and programming using platforms such as Scratch. They learn to create digital artefacts, develop, test, and debug digital solutions, gaining practical skills in a collaborative and supportive environment.
 
 **Developing Teachers, Deepening EdTech Practices**  
 Our educators are empowered through ongoing Professional Development tailored to strengthen their EdTech practices. Through trainings, workshops, mentoring, and peer collaboration, our teachers explore new digital pedagogies and innovate their classroom practices. This professional growth supports the creation of meaningful and tech-enriched learning experiences for our students.
