@@ -31,7 +31,7 @@ sections:
       button: Click here
       url: /Building-Northshore-Primary
   - infopic:
-      title: Northshore Primary School Open House 2025
+      title: Northshore Primary School Virtual Open House 2025
       subtitle: Dear parents
       id: infopic
       description: Scan code to register
