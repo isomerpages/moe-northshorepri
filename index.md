@@ -21,6 +21,12 @@ sections:
         - title: Virtual Open House
           description: Click here for more info!
           url: /information/virtual-open-house/
+  - infopic:
+      title: Northshore Primary School Virtual Open House 2025
+      subtitle: Dear parents
+      id: infopic
+      image: /images/Pri_Open_House_2025.jpg
+      alt: Image alt text
   - infobar:
       title: Northshore Primary School in the News!
       button: Click here
@@ -30,10 +36,4 @@ sections:
       description: Click on the button below to see the process of Northshore taking shape!
       button: Click here
       url: /Building-Northshore-Primary
-  - infopic:
-      title: Northshore Primary School Virtual Open House 2025
-      subtitle: Dear parents
-      id: infopic
-      image: /images/Pri_Open_House_2025.jpg
-      alt: Image alt text
 ---
