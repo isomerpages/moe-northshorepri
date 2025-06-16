@@ -34,7 +34,6 @@ sections:
       title: Northshore Primary School Virtual Open House 2025
       subtitle: Dear parents
       id: infopic
-      description: Scan code to register
       image: /images/Pri_Open_House_2025.jpg
       alt: Image alt text
 ---
