@@ -30,4 +30,11 @@ sections:
       description: Click on the button below to see the process of Northshore taking shape!
       button: Click here
       url: /Building-Northshore-Primary
+  - infopic:
+      title: Northshore Primary School Open House 2025
+      subtitle: Dear parents
+      id: infopic
+      description: Scan code to register
+      image: /images/Pri_Open_House_2025.jpg
+      alt: Image alt text
 ---
