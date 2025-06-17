@@ -35,9 +35,7 @@ b) SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
 
 ### Student iCON
 
-Onboarding students for Zoom:   
-[Student_Zoom_Onboarding_Guide.pdf](/files/Student_Zoom_Onboarding_Guide.pdf)  
-  
+ 
 Guide for students to sign in to Google Classroom and Change of password:  
 [User Guide on how to sign in to your Google Classroom and change password.pdf](/files/User%20Guide%20on%20how%20to%20sign%20in%20to%20your%20Google%20Classroom%20and%20change%20password.pdf)  
   
