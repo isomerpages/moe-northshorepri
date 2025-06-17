@@ -22,10 +22,10 @@ The SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe
 
 You can refer to the following guides: 
 
-a) Annex A – instructions for you to assist your child with his/her initial login, and Annex B – a set of Frequently Asked Questions (FAQs) on SLS (for Primary 1).  
+a) Annex A – instructions for you to assist your child with his/her initial login, and Annex B – a set of Frequently Asked Questions (FAQs) on SLS (for Primary 1 students).  
 [SLS Annexes A & B](/files/SLS_for_Pri_1__Annexes_A___B_.pdf)
 
-b) SLS Account Management – Guide for Students (for Primary 2 and aboves).  
+b) SLS Account Management – Guide (for Primary 2 students and aboves).  
 [SLS Account Management Guide](/files/SLS_Account_Management___Guide_for_Students__Pri_.pdf)
 
 For technical assistance, you may contact:  
