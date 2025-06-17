@@ -20,22 +20,13 @@ The SLS is an online platform with tools and curriculum-aligned resources for al
 
 The SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)[.](https://learning.moe.edu.sg/)
 
-You can refer to the following annexes: 
+You can refer to the following guides: 
 
-a) Annex A – instructions for you to assist your child with his/her initial login, and  
-b) Annex B – a set of Frequently Asked Questions (FAQs) on SLS.
-
-[Getting started with SLS Annexes A & B.pdf](/files/Getting%20started%20with%20SLS%20Annexes%20A%20%20B.pdf)  
-
-
-New:  
 a) Annex A – instructions for you to assist your child with his/her initial login, and Annex B – a set of Frequently Asked Questions (FAQs) on SLS (for Primary 1).  
 [SLS Annexes A & B](/files/SLS_for_Pri_1__Annexes_A___B_.pdf)
 
 b) SLS Account Management – Guide for Students (for Primary 2 and aboves).  
 [SLS Account Management Guide](/files/SLS_Account_Management___Guide_for_Students__Pri_.pdf)
-
-End new
 
 For technical assistance, you may contact:  
 
