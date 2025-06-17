@@ -29,9 +29,11 @@ b) Annex B – a set of Frequently Asked Questions (FAQs) on SLS.
 
 
 New:  
-a) For Primary 1. Annex A – instructions for you to assist your child with his/her initial login, and Annex B – a set of Frequently Asked Questions (FAQs) on SLS.  
-b) For Primary 2-5. SLS Account Management – Guide for Students.
+a) Annex A – instructions for you to assist your child with his/her initial login, and Annex B – a set of Frequently Asked Questions (FAQs) on SLS.  (For Primary 1)  
+[SLS Annexes A & B](/files/SLS_for_Pri_1__Annexes_A___B_.pdf)
 
+b) SLS Account Management – Guide for Students for Primary 2-5.  
+[SLS Account Management Guide](/files/SLS_Account_Management___Guide_for_Students__Pri_.pdf)
 
 End new
 
