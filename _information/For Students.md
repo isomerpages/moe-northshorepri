@@ -27,6 +27,14 @@ b) Annex B – a set of Frequently Asked Questions (FAQs) on SLS.
 
 [Getting started with SLS Annexes A & B.pdf](/files/Getting%20started%20with%20SLS%20Annexes%20A%20%20B.pdf)  
 
+
+New:  
+a) For Primary 1. Annex A – instructions for you to assist your child with his/her initial login, and Annex B – a set of Frequently Asked Questions (FAQs) on SLS.  
+b) For Primary 2-5. SLS Account Management – Guide for Students.
+
+
+End new
+
 For technical assistance, you may contact:  
 
 a) School-based Helpdesk   at [Ng_Choon_hong@schools.gov.sg](mailto:Ng_Choon_hong@schools.gov.sg) or 62026490.  
