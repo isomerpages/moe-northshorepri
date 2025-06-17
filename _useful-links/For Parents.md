@@ -29,6 +29,12 @@ a) Annex A – instructions for you to assist your child with his/her initial l
 b) Annex B – a set of Frequently Asked Questions (FAQs) on SLS.   
 [Getting started with SLS Annexes A & B.pdf](/files/Getting%20started%20with%20SLS%20Annexes%20A%20%20B.pdf)  
 
+
+New
+
+End new
+
+
 For technical assistance, you may contact:  
 a) School-based Helpdesk at Ng\_Choon\_hong@schools.gov.sg or 62026490.  
 b) SLS Helpdesk at helpdesk@sls.ufinity.com or 6702 6513.
