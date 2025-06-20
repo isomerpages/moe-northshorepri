@@ -2,6 +2,7 @@
 title: For Students
 permalink: /information/for-students/
 description: ""
+variant: markdown
 ---
 # **For Students**
 
@@ -19,12 +20,13 @@ The SLS is an online platform with tools and curriculum-aligned resources for al
 
 The SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)[.](https://learning.moe.edu.sg/)
 
-You can refer to the following annexes: 
+You can refer to the following guides: 
 
-a) Annex A – instructions for you to assist your child with his/her initial login, and  
-b) Annex B – a set of Frequently Asked Questions (FAQs) on SLS.
+a) Annex A – instructions for you to assist your child with his/her initial login, and Annex B – a set of Frequently Asked Questions (FAQs) on SLS (for Primary 1 students).  
+[SLS Annexes A & B](/files/SLS_for_Pri_1__Annexes_A___B_.pdf)
 
-[Getting started with SLS Annexes A & B.pdf](/files/Getting%20started%20with%20SLS%20Annexes%20A%20%20B.pdf)  
+b) SLS Account Management – Guide (for Primary 2 students and aboves).  
+[SLS Account Management Guide](/files/SLS_Account_Management___Guide_for_Students__Pri_.pdf)
 
 For technical assistance, you may contact:  
 
@@ -33,9 +35,7 @@ b) SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
 
 ### Student iCON
 
-Onboarding students for Zoom:   
-[Student_Zoom_Onboarding_Guide.pdf](/files/Student_Zoom_Onboarding_Guide.pdf)  
-  
+ 
 Guide for students to sign in to Google Classroom and Change of password:  
 [User Guide on how to sign in to your Google Classroom and change password.pdf](/files/User%20Guide%20on%20how%20to%20sign%20in%20to%20your%20Google%20Classroom%20and%20change%20password.pdf)  
   
