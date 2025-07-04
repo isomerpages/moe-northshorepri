@@ -6,6 +6,4 @@ variant: markdown
 ---
 # **Organisation Chart**
 
-![](/images/School_Org_Chart_updated_Feb_2025_with_MK.jpg)
-
 ![](/images/School_Org_Chart_updated_Jul_2025_with_MK.jpg)
