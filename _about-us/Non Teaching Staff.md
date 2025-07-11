@@ -12,7 +12,7 @@ variant: markdown
 | Mdm Catherine Ong 	| Vice Principal (Admin) 	| [ong_yin_peng@schools.gov.sg](mailto:ong_yin_peng@schools.gov.sg) 	|
 | Mdm Gan Ser Min 	| Vice Principal (Academic) 	| [gan_ser_min@schools.gov.sg](mailto:gan_ser_min@schools.gov.sg) 	|
 | Mdm Syahira 	| Special Educational Needs Officer 	| [nurul_syahira_suhaimi@schools.gov.sg](mailto:nurul_syahira_suhaimi@schools.gov.sg) 	|
-| Miss Ong Zhen Hui 	| Special Educational Needs Officer 	| [ong_zhen_hui_a@schools.gov.sg](mailto:ong_zhen_hui_a@schools.gov.sg) 	|
+| Ms Nora Fernandez 	| Special Educational Needs Officer 	| [nora_fernandez_c@schools.gov.sg](mailto:nora_fernandez_c@schools.gov.sg) 	|
 | Ms Yvonne Chua 	| School Counsellor 	| [chua_shih_teng_yvonne@schools.gov.sg](mailto:chua_shih_teng_yvonne@schools.gov.sg) 	|
 | Mdm Rashidah 	| Administration Manager 	| [rashidah_mohamed_rashid@schools.gov.sg](mailto:rashidah_mohamed_rashid@schools.gov.sg) 	|
 | Mr Shahri 	| Operations Manager 	| [shahri_hairalah@schools.gov.sg](mailto:shahri_hairalah@schools.gov.sg) 	|
