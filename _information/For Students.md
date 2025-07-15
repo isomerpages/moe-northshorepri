@@ -45,8 +45,8 @@ Student iCON onboarding and Change of password guide:
 Google Takeout Guide to Back Up Student iCON Data:  
 [ Google_Takeout_Guide_for_Student_iCON.pptx](https://docs.google.com/presentation/d/1ghX6AGzLh9xo2XPB-cDYp3d1FQQo688K/edit?usp=drive_link&ouid=100938070840720001712&rtpof=true&sd=true)
 
-Quick Guide on Student iCON Management and Housekeeping:
-
+Quick Guide on Student iCON Management and Housekeeping:  
+[Quick_Guide_on_Student_iCON_Data_Management.pptx](https://docs.google.com/presentation/d/1ozgCCfOhx6M_ykAIXeqOZciRN661aeEc/edit?usp=drive_link&ouid=100938070840720001712&rtpof=true&sd=true)
 
 
 ![](/images/Student%20iCON%20-%20Student%20EDM%20Onboarding%20%20Introducing%20Student%20iCON.jpg)
