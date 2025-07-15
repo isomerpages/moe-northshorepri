@@ -4,8 +4,8 @@ permalink: /information/hbl/
 variant: markdown
 description: ""
 ---
-# **Home Based Learning**
+# **Home-based Learning**
 
-<strong>Home Based Learning (HBL) Matters</strong>
+<strong>Home-based Learning (HBL) Matters</strong>
 
-Work in Progress..
+Work in Progress.
