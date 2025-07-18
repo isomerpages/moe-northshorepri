@@ -25,7 +25,7 @@ You can refer to the following guides: 
 a) Annex A – instructions for you to assist your child with his/her initial login, and Annex B – a set of Frequently Asked Questions (FAQs) on SLS (for Primary 1 students).  
 [SLS Annexes A & B](/files/SLS_for_Pri_1__Annexes_A___B_.pdf)
 
-b) SLS Account Management – Guide (for Primary 2 students and aboves).  
+b) SLS Account Management – Guide (for Primary 2 - 5 students).  
 [SLS Account Management Guide](/files/SLS_Account_Management___Guide_for_Students__Pri_.pdf)
 
 For technical assistance, you may contact:  
@@ -41,6 +41,13 @@ Guide for students to sign in to Google Classroom and Change of password:
   
 Student iCON onboarding and Change of password guide:  
 [Student iCON Onboarding Guide.pdf](/files/Student%20iCON%20Onboarding%20Guide.pdf)
+
+Google Takeout Guide to Back Up Student iCON Data:  
+[ Google_Takeout_Guide_for_Student_iCON.pptx](https://docs.google.com/presentation/d/1ghX6AGzLh9xo2XPB-cDYp3d1FQQo688K/edit?usp=drive_link&ouid=100938070840720001712&rtpof=true&sd=true)
+
+Quick Guide on Student iCON Management and Housekeeping:  
+[Quick_Guide_on_Student_iCON_Data_Management.pptx](https://docs.google.com/presentation/d/1ozgCCfOhx6M_ykAIXeqOZciRN661aeEc/edit?usp=drive_link&ouid=100938070840720001712&rtpof=true&sd=true)
+
 
 ![](/images/Student%20iCON%20-%20Student%20EDM%20Onboarding%20%20Introducing%20Student%20iCON.jpg)
 
