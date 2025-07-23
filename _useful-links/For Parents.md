@@ -22,8 +22,6 @@ The SLS is an online platform with tools and curriculum-aligned resources for al
   
 **ACCESS TO SLS**
 
-The SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)[.](https://learning.moe.edu.sg/)
-
 The SLS can be accessed from [https://www.learning.moe.edu.sg/](https://www.learning.moe.edu.sg/)  
 
 You can refer to the following guides:   
