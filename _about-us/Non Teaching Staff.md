@@ -15,11 +15,12 @@ variant: markdown
 | Ms Nora Fernandez 	| Special Educational Needs Officer 	| [nora_fernandez_c@schools.gov.sg](mailto:nora_fernandez_c@schools.gov.sg) 	|
 | Ms Yvonne Chua 	| School Counsellor 	| [chua_shih_teng_yvonne@schools.gov.sg](mailto:chua_shih_teng_yvonne@schools.gov.sg) 	|
 | Mdm Rashidah 	| Administration Manager 	| [rashidah_mohamed_rashid@schools.gov.sg](mailto:rashidah_mohamed_rashid@schools.gov.sg) 	|
-| Mr Shahri 	| Operations Manager 	| [shahri_hairalah@schools.gov.sg](mailto:shahri_hairalah@schools.gov.sg) 	|
+| Mr Dexter Siow 	| Operations Manager 	| [Siow_Yoon_Chat_A@schools.gov.sg](mailto:Siow_Yoon_Chat_A@schools.gov.sg) 	|
 | Ms Thosani 	| Administrative Executive 	| [thosani_rajendran@schools.gov.sg](mailto:thosani_rajendran@schools.gov.sg) 	|
 | Mr Derrick Ng 	| ICT Manager 	| [ng_choon_hong@schools.gov.sg](mailto:ng_choon_hong@schools.gov.sg) 	|
 | Mrs Kanaesan Yasothai 	| Corporate Support Officer 	| [kanaesan_yasothai@schools.gov.sg](mailto:kanaesan_yasothai@schools.gov.sg) 	|
 | Mdm Haslinda 	| Corporate Support Officer 	| [norhaslinda_subaat@schools.gov.sg](mailto:norhaslinda_subaat@schools.gov.sg) 	|
 | Mdm Irene Wong 	| Corporate Support Officer 	| [wong_siew_hong@schools.gov.sg](mailto:wong_siew_hong_subaat@schools.gov.sg) 	|
+| Mdm Siti Suhaila 	| Corporate Support Officer 	| [Siti_Suhaila_Senin@schools.gov.sg](mailto:Siti_Suhaila_Senin@schools.gov.sg) 	|
 | Mdm Denise Tan 	| Receptionist 1 	| [denise_tan_geok_lin@moe.edu.sg](mailto:denise_tan_geok_lin@moe.edu.sg) 	|
 | Mdm Suzieana 	| Receptionist 2| [suzieana_ahmad@moe.edu.sg](mailto:suzieana_ahmad@moe.edu.sg) 	|
