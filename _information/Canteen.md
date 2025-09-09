@@ -12,9 +12,7 @@ variant: markdown
 ![](/images/T3_Tappee_4.jpg)  
 ![](/images/T3_Tappee_5.jpg)
 
-test
-
-![](/images/2025__T4_Tapee_3.jpg)
+test2
 
 ![](/images/2025_T4_Tapee_3_11.jpg)
 ![](/images/2025_T4_Tapee_3_22.jpg)
