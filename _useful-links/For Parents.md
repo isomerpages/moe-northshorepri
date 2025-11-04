@@ -12,7 +12,7 @@ variant: markdown
 
 Technology is an essential part of learning in today’s world. 
 
-This Acceptable Use Policy (AUP) establishes guidelines on the appropriate use of EdTech resources to help you understand how to use these resources safely and responsibly, in line with efforts to develop your digital literacies and growth as digitally responsible citizens.
+This Acceptable Use Policy (AUP) establishes guidelines on the appropriate use of EdTech resources to help you understand how to use these resources safely and responsibly, in line with efforts to develop your digital literacies and growth as digitally responsible citizens.  
 
 EdTech resources include the following, but are not limited to:
 -	Learning devices (e.g. school devices)  
@@ -20,21 +20,22 @@ EdTech resources include the following, but are not limited to:
 
 For more information, please refer to:  
 Student Kit on Cyber Wellness and Learning with a Learning Device (Primary) –
-
 https://go.gov.sg/cw-studentkitpri
 
 **General**
-1. You should not attempt to access data, system and information that you are not authorised to. 
-2. You are reminded that the use of learning devices and school’s EdTech resources should solely be for the purpose of learning. 
+1. You should not attempt to access data, system and information that you are not authorised to.  
+2. You are reminded that the use of learning devices and school’s EdTech resources should solely be for the purpose of learning.  
 
 **Being a Responsible Digital Citizen**  
 3. You should interact with others in a respectful and responsible way. You should not post online remarks that are 
-	• racially and/or religiously insensitive,
-	• vulgar and/or offensive, or
-	• hurtful to others.
-4. You should not use any devices to
-	• store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others).
+	• racially and/or religiously insensitive,  
+	• vulgar and/or offensive, or  
+	• hurtful to others.  
+	
+4. You should not use any devices to  
+	• store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others).  
 	• make threats, cause harassment or embarrassment, impersonate or intimidate others.
+	
 5. You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).  
 
 Non-compliance with the above will lead to disciplinary action in accordance with our school rules.
