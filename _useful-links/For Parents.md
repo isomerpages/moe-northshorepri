@@ -8,6 +8,12 @@ variant: markdown
 
 ### Acceptable Use Policy (AUP) for use of EdTech Resources
 
+**Purpose of the Acceptable Use Policy (AUP)**
+
+
+
+
+
 
 
 
