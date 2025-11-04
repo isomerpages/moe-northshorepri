@@ -24,6 +24,8 @@ Student Kit on Cyber Wellness and Learning with a Learning Device (Primary) –
 https://go.gov.sg/cw-studentkitpri
 
 **General**
+1. You should not attempt to access data, system and information that you are not authorised to. 
+2. You are reminded that the use of learning devices and school’s EdTech resources should solely be for the purpose of learning. 
 
 
 
