@@ -37,6 +37,7 @@ https://go.gov.sg/cw-studentkitpri
 	• make threats, cause harassment or embarrassment, impersonate or intimidate others.
 5. You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).
 
+Non-compliance with the above will lead to disciplinary action in accordance with our school rules.
 
 
 ### Common links
