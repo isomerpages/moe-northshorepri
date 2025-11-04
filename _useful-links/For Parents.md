@@ -28,7 +28,7 @@ https://go.gov.sg/cw-studentkitpri
 
 
 
-### Common Site links
+### Common links
 
 *   [Parents Gateway (MOE)](https://pg.moe.edu.sg/)
 *   [Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
