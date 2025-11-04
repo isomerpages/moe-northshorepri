@@ -56,6 +56,11 @@ Non-compliance with the above will lead to disciplinary action in accordance wit
 13. You should exercise caution regarding the limitations of AI tools, including potential inaccuracies / fabricated responses, inherent biases and outdated information.
 
 **Digital Wellbeing and Balance**  
+14. You are reminded to balance screentime with other activities  including physical exercise and face-to-face social interactions.  
+15. You should avoid excessive use of your devices outside learning hours.  
+16. You should take regular breaks to rest your eyes and mind.  
+17. You are reminded to practice good sleep hygiene by not using your devices one hour before bedtime.  
+
 
 
 ### Common links for Parents
