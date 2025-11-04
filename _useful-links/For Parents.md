@@ -6,6 +6,7 @@ variant: markdown
 ---
 # **For Parents**
 
+### Acceptable Use Policy (AUP) for use of EdTech Resources
 
 
 
