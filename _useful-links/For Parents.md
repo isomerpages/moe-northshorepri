@@ -35,7 +35,7 @@ https://go.gov.sg/cw-studentkitpri
 4. You should not use any devices to
 	• store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others).
 	• make threats, cause harassment or embarrassment, impersonate or intimidate others.
-5. You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).
+5. You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).  
 
 Non-compliance with the above will lead to disciplinary action in accordance with our school rules.
 
