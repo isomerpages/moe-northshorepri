@@ -55,7 +55,7 @@ Non-compliance with the above will lead to disciplinary action in accordance wit
 12. You are reminded to develop online safety habits. This includes not disclosing personal access credentials (e.g. MIMS password, etc.), sensitive personal data (e.g. home address, passwords) online or on AI platforms, verifying credibility of online content before sharing, avoiding clicking on suspicious links or downloading unknown files, and being cautious when interacting with others online (e.g. on social media) by not engaging with strangers.  
 13. You should exercise caution regarding the limitations of AI tools, including potential inaccuracies / fabricated responses, inherent biases and outdated information.
 
-**Being a Responsible Digital Citizen**  
+**Digital Wellbeing and Balance**  
 
 
 ### Common links for Parents
