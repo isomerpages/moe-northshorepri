@@ -46,8 +46,8 @@ Non-compliance with the above will lead to disciplinary action in accordance wit
 7. You should not use, copy, edit or share digital files in an unauthorised or illegal manner.
 
 **Using Artificial Intelligence (AI)**  
-8.  You must ensure that you meet the minimum age requirement specified in each AI tool's age restrictions before using it.
-9.  If the use of AI is permitted, you should acknowledge the use of AI in your homework as required.
+8.  You must ensure that you meet the minimum age requirement specified in each AI tool's age restrictions before using it.  
+9.  If the use of AI is permitted, you should acknowledge the use of AI in your homework as required.  
 10. You are to practice academic integrity and be responsible for your own learning when using AI. Understand that you are ultimately short-changing yourself if you pass off other’s work as your own.
 
 
