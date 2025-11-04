@@ -27,6 +27,7 @@ https://go.gov.sg/cw-studentkitpri
 1. You should not attempt to access data, system and information that you are not authorised to. 
 2. You are reminded that the use of learning devices and school’s EdTech resources should solely be for the purpose of learning. 
 
+**Being a Responsible Digital Citizen**
 
 
 
