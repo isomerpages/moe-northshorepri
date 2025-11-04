@@ -40,6 +40,16 @@ https://go.gov.sg/cw-studentkitpri
 Non-compliance with the above will lead to disciplinary action in accordance with our school rules.
 
 
+**Respecting Copyright**  
+6. You are reminded to obtain explicit permission from the content owner(s) before downloading, copying or sharing any copyrighted materials (e.g. pictures, videos, music).
+7. You should not use, copy, edit or share digital files in an unauthorised or illegal manner.
+
+
+**Being a Responsible Digital Citizen**  
+**Being a Responsible Digital Citizen**  
+**Being a Responsible Digital Citizen**  
+
+
 ### Common links
 
 *   [Parents Gateway (MOE)](https://pg.moe.edu.sg/)
