@@ -27,7 +27,15 @@ https://go.gov.sg/cw-studentkitpri
 1. You should not attempt to access data, system and information that you are not authorised to. 
 2. You are reminded that the use of learning devices and school’s EdTech resources should solely be for the purpose of learning. 
 
-**Being a Responsible Digital Citizen**
+**Being a Responsible Digital Citizen**  
+3. You should interact with others in a respectful and responsible way. You should not post online remarks that are 
+	• racially and/or religiously insensitive,
+	• vulgar and/or offensive, or
+	• hurtful to others.
+4. You should not use any devices to
+	• store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others).
+	• make threats, cause harassment or embarrassment, impersonate or intimidate others.
+5. You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).
 
 
 
