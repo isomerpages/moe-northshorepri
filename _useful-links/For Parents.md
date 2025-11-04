@@ -18,7 +18,8 @@ EdTech resources include the following, but are not limited to:
 -	Learning devices (e.g. school devices)  
 -	ICT system accounts (e.g. Singapore Student Learning Space (SLS), iCON); and school internet networks.
 
-
+For more information, please refer to:  
+Student Kit on Cyber Wellness and Learning with a Learning Device (Primary) –
 
 
 
