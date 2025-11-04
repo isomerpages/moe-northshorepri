@@ -50,11 +50,13 @@ Non-compliance with the above will lead to disciplinary action in accordance wit
 10. You are to practice academic integrity and be responsible for your own learning when using AI. Understand that you are ultimately short-changing yourself if you pass off other’s work as your own.
 
 
-**Being a Responsible Digital Citizen**  
+**Staying Safe and Secure online**  
+
+
 **Being a Responsible Digital Citizen**  
 
 
-### Common links
+### Common links for Parents
 
 *   [Parents Gateway (MOE)](https://pg.moe.edu.sg/)
 *   [Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
