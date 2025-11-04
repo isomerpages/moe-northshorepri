@@ -21,6 +21,8 @@ EdTech resources include the following, but are not limited to:
 For more information, please refer to:  
 Student Kit on Cyber Wellness and Learning with a Learning Device (Primary) –
 
+https://go.gov.sg/cw-studentkitpri
+
 
 
 
