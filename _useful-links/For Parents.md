@@ -40,7 +40,6 @@ Student Kit on Cyber Wellness and Learning with a Learning Device (Primary) –
 
 Non-compliance with the above will lead to disciplinary action in accordance with our school rules.
 
-
 **Respecting Copyright**  
 6. You are reminded to obtain explicit permission from the content owner(s) before downloading, copying or sharing any copyrighted materials (e.g. pictures, videos, music).  
 7. You should not use, copy, edit or share digital files in an unauthorised or illegal manner.
@@ -49,7 +48,6 @@ Non-compliance with the above will lead to disciplinary action in accordance wit
 8.  You must ensure that you meet the minimum age requirement specified in each AI tool's age restrictions before using it.  
 9.  If the use of AI is permitted, you should acknowledge the use of AI in your homework as required.  
 10. You are to practice academic integrity and be responsible for your own learning when using AI. Understand that you are ultimately short-changing yourself if you pass off other’s work as your own.
-
 
 **Staying Safe and Secure online**  
 11. You should report any incidents (e.g. unusual device behaviour or inappropriate use of devices), to your Form Teacher.  
