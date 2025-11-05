@@ -62,8 +62,6 @@ Non-compliance with the above will lead to disciplinary action in accordance wit
 16. You should take regular breaks to rest your eyes and mind.  
 17. You are reminded to practice good sleep hygiene by not using your devices one hour before bedtime.  
 
-
-
 ### Common links for Parents
 
 *   [Parents Gateway (MOE)](https://pg.moe.edu.sg/)
