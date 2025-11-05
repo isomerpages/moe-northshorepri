@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Acceptable Use Policy (AUP) for use of EdTech Resources</h3>
-<p><strong>Purpose of the Acceptable Use Policy (AUP)..</strong>
+<p><strong>Purpose of the Acceptable Use Policy (AUP)......</strong>
 </p>
 <p>Technology is an essential part of learning in today’s world.</p>
 <p>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
@@ -36,15 +36,29 @@ resources should solely be for the purpose of learning.</p>
 </p>
 <p>3. You should interact with others in a respectful and responsible way.
 You should not post online remarks that are</p>
-<p>• racially and/or religiously insensitive,</p>
-<p>• vulgar and/or offensive, or</p>
-<p>• hurtful to others.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>racially and/or religiously insensitive,</p>
+</li>
+<li>
+<p>vulgar and/or offensive, or</p>
+</li>
+<li>
+<p>hurtful to others.</p>
+</li>
+</ul>
 <p>4. You should not use any devices to</p>
-<p>• store, modify, create or share content (e.g. documents, presentations,
+<ul data-tight="true" class="tight">
+<li>
+<p>store, modify, create or share content (e.g. documents, presentations,
 pictures and videos) that is inappropriate (e.g. indecent, pornographic,
 defamatory, hurtful to self or others).</p>
-<p>• make threats, cause harassment or embarrassment, impersonate or intimidate
+</li>
+<li>
+<p>make threats, cause harassment or embarrassment, impersonate or intimidate
 others.</p>
+</li>
+</ul>
 <p>5. You should not use MOE/school-deployed ICT system accounts for any
 commercial activities (e.g. buying and selling of goods and services).</p>
 <p>Non-compliance with the above will lead to disciplinary action in accordance
