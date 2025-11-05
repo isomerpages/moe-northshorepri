@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Acceptable Use Policy (AUP) for use of EdTech Resources</h3>
-<p><strong>Purpose of the Acceptable Use Policy (AUP)</strong>
+<p><strong>Purpose of the Acceptable Use Policy (AUP)..</strong>
 </p>
 <p>Technology is an essential part of learning in today’s world.</p>
 <p>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
@@ -24,15 +24,15 @@ and school internet networks.</p>
 </ul>
 <p>For more information, please refer to:
 <br>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary)
-– <a href="https://go.gov.sg/cw-studentkitpri" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkitpri </a>
+– <a href="https://go.gov.sg/cw-studentkitpri" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkitpri</a>
 </p>
-<p><strong>General</strong> 
+<p><strong>General</strong>
 </p>
 <p>1. You should not attempt to access data, system and information that
 you are not authorised to.</p>
 <p>2. You are reminded that the use of learning devices and school’s EdTech
 resources should solely be for the purpose of learning.</p>
-<p><strong>Being a Responsible Digital Citizen</strong> 
+<p><strong>Being a Responsible Digital Citizen</strong>
 </p>
 <p>3. You should interact with others in a respectful and responsible way.
 You should not post online remarks that are</p>
@@ -49,14 +49,14 @@ others.</p>
 commercial activities (e.g. buying and selling of goods and services).</p>
 <p>Non-compliance with the above will lead to disciplinary action in accordance
 with our school rules.</p>
-<p><strong>Respecting Copyright</strong> 
+<p><strong>Respecting Copyright</strong>
 </p>
 <p>6. You are reminded to obtain explicit permission from the content owner(s)
 before downloading, copying or sharing any copyrighted materials (e.g.
 pictures, videos, music).</p>
 <p>7. You should not use, copy, edit or share digital files in an unauthorised
 or illegal manner.</p>
-<p><strong>Using Artificial Intelligence (AI)</strong> 
+<p><strong>Using Artificial Intelligence (AI)</strong>
 </p>
 <p>8. You must ensure that you meet the minimum age requirement specified
 in each AI tool's age restrictions before using it.</p>
@@ -65,7 +65,7 @@ in your homework as required.</p>
 <p>10. You are to practice academic integrity and be responsible for your
 own learning when using AI. Understand that you are ultimately short-changing
 yourself if you pass off other’s work as your own.</p>
-<p><strong>Staying Safe and Secure online</strong> 
+<p><strong>Staying Safe and Secure online</strong>
 </p>
 <p>11. You should report any incidents (e.g. unusual device behaviour or
 inappropriate use of devices), to your Form Teacher.</p>
@@ -79,7 +79,7 @@ strangers.</p>
 <p>13. You should exercise caution regarding the limitations of AI tools,
 including potential inaccuracies / fabricated responses, inherent biases
 and outdated information.</p>
-<p><strong>Digital Wellbeing and Balance</strong> 
+<p><strong>Digital Wellbeing and Balance</strong>
 </p>
 <p>14. You are reminded to balance screentime with other activities including
 physical exercise and face-to-face social interactions.</p>
