@@ -27,7 +27,7 @@ https://go.gov.sg/cw-studentkitpri
 2. You are reminded that the use of learning devices and school’s EdTech resources should solely be for the purpose of learning.  
 
 **Being a Responsible Digital Citizen**  
-3. You should interact with others in a respectful and responsible way. You should not post online remarks that are 
+3. You should interact with others in a respectful and responsible way. You should not post online remarks that are  
 	• racially and/or religiously insensitive,  
 	• vulgar and/or offensive, or  
 	• hurtful to others.  
