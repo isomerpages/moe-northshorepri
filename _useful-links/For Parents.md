@@ -72,6 +72,7 @@ Non-compliance with the above will lead to disciplinary action in accordance wit
 ### Student Learning Space
 
 **HOW SINGAPORE STUDENT LEARNING SPACE SUPPORTS LEARNING**  
+
 As part of Ministry of Education's (MOE) commitment to nurture future-ready learners, an online learning platform known as the _**Singapore Student Learning Space (SLS**)_ is made available to the students.  
   
 The SLS is an online platform with tools and curriculum-aligned resources for all students to learn at their own pace and collaboratively. With the SLS, students can take greater ownership of their learning and pick up skills and habits that prepare them for lifelong learning. Teachers will also use the SLS to complement classroom teaching and learning.  
