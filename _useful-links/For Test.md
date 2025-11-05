@@ -101,4 +101,3 @@ physical exercise and face-to-face social interactions.</p>
 <p>16. You should take regular breaks to rest your eyes and mind.</p>
 <p>17. You are reminded to practice good sleep hygiene by not using your
 devices one hour before bedtime.</p>
-<p>before bedtime.</p>
