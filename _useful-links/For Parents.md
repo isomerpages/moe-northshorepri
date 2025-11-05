@@ -20,7 +20,7 @@ EdTech resources include the following, but are not limited to:
 
 For more information, please refer to:  
 Student Kit on Cyber Wellness and Learning with a Learning Device (Primary) –
-https://go.gov.sg/cw-studentkitpri
+[https://go.gov.sg/cw-studentkitpri](https://go.gov.sg/cw-studentkitpri)
 
 **General**
 1. You should not attempt to access data, system and information that you are not authorised to.  
