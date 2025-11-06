@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>For Parents</strong></h1>
-<h3>Acceptable Use Policy (AUP) for use of EdTech Resources.</h3>
+<h3>Acceptable Use Policy (AUP) for use of EdTech Resources</h3>
 <p><strong>Purpose of the Acceptable Use Policy (AUP)</strong>
 </p>
 <p>Technology is an essential part of learning in today’s world.</p>
