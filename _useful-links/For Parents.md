@@ -100,7 +100,8 @@ and outdated information.</p>
 physical exercise and face-to-face social interactions.</p>
 <p>15. You should avoid excessive use of your devices outside learning hours.</p>
 <p>16. You should take regular breaks to rest your eyes and mind.</p>
-<p>17. You are reminded to practice good sleep hygiene by not using</p>
+<p>17. You are reminded to practice good sleep hygiene by not using your
+devices one hour before bedtime.</p>
 <h3>Common links for Parents</h3>
 <ul data-tight="true" class="tight">
 <li>
