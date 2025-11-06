@@ -102,7 +102,7 @@ physical exercise and face-to-face social interactions.</p>
 <p>16. You should take regular breaks to rest your eyes and mind.</p>
 <p>17. You are reminded to practice good sleep hygiene by not using your
 devices one hour before bedtime.</p>
-<h3>Common links for Parents</h3>
+<h3>Useful links for Parents</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway (MOE)</a>
