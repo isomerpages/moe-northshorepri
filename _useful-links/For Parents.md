@@ -95,7 +95,7 @@ devices one hour before bedtime.</p>
 <p></p>
 <p></p>
 <p></p>
-<p>test1</p>
+<p>End test</p>
 <p></p>
 <p></p>
 <p><strong>Purpose of the Acceptable Use Policy (AUP)</strong>
