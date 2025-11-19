@@ -123,8 +123,12 @@ you are not authorised to.</p>
 resources should solely be for the purpose of learning.</p>
 <p><strong>Being a Responsible Digital Citizen</strong>
 </p>
-<p>3. You should interact with others in a respectful and responsible way.
-You should not post online remarks that are</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>You should interact with others in a respectful and responsible way. You
+should not post online remarks that are</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>racially and/or religiously insensitive,</p>
