@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>For Parents</strong></h1>
 <h3>Acceptable Use Policy (AUP) for use of EdTech Resources</h3>
-<p>Test..</p>
+<p>Test2</p>
 <p><strong>General</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -21,8 +21,12 @@ resources should solely be for the purpose of learning.</p>
 </ol>
 <p><strong>Being a Responsible Digital Citizen</strong>
 </p>
-<p>3. You should interact with others in a respectful and responsible way.
-You should not post online remarks that are</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>You should interact with others in a respectful and responsible way. You
+should not post online remarks that are</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>racially and/or religiously insensitive,</p>
