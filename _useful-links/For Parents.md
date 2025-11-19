@@ -48,7 +48,6 @@ defamatory, hurtful to self or others).</p>
 <li>
 <p>make threats, cause harassment or embarrassment, impersonate or intimidate
 others.</p>
-<p></p>
 </li>
 </ul>
 <ol start="5" data-tight="true" class="tight">
