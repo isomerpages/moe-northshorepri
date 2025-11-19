@@ -9,8 +9,12 @@ variant: tiptap
 <p>Test</p>
 <p><strong>General</strong>
 </p>
-<p>1. You should not attempt to access data, system and information that
-you are not authorised to.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>You should not attempt to access data, system and information that you
+are not authorised to.</p>
+</li>
+</ol>
 <p>2. You are reminded that the use of learning devices and school’s EdTech
 resources should solely be for the purpose of learning.</p>
 <p><strong>Being a Responsible Digital Citizen</strong>
