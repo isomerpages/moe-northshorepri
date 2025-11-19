@@ -61,11 +61,18 @@ activities (e.g. buying and selling of goods and services).</p>
 with our school rules.</p>
 <p><strong>Respecting Copyright</strong>
 </p>
-<p>6. You are reminded to obtain explicit permission from the content owner(s)
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>You are reminded to obtain explicit permission from the content owner(s)
 before downloading, copying or sharing any copyrighted materials (e.g.
 pictures, videos, music).</p>
-<p>7. You should not use, copy, edit or share digital files in an unauthorised
+<p></p>
+</li>
+<li>
+<p>You should not use, copy, edit or share digital files in an unauthorised
 or illegal manner.</p>
+</li>
+</ol>
 <p><strong>Using Artificial Intelligence (AI)</strong>
 </p>
 <p>8. You must ensure that you meet the minimum age requirement specified
