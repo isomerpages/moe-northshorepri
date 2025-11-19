@@ -75,35 +75,60 @@ or illegal manner.</p>
 </ol>
 <p><strong>Using Artificial Intelligence (AI)</strong>
 </p>
-<p>8. You must ensure that you meet the minimum age requirement specified
-in each AI tool's age restrictions before using it.</p>
-<p>9. If the use of AI is permitted, you should acknowledge the use of AI
-in your homework as required.</p>
-<p>10. You are to practice academic integrity and be responsible for your
-own learning when using AI. Understand that you are ultimately short-changing
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>You must ensure that you meet the minimum age requirement specified in
+each AI tool's age restrictions before using it.</p>
+</li>
+<li>
+<p>If the use of AI is permitted, you should acknowledge the use of AI in
+your homework as required.</p>
+</li>
+<li>
+<p>You are to practice academic integrity and be responsible for your own
+learning when using AI. Understand that you are ultimately short-changing
 yourself if you pass off other’s work as your own.</p>
+</li>
+</ol>
 <p><strong>Staying Safe and Secure online</strong>
 </p>
-<p>11. You should report any incidents (e.g. unusual device behaviour or
-inappropriate use of devices), to your Form Teacher.</p>
-<p>12. You are reminded to develop online safety habits. This includes not
-disclosing personal access credentials (e.g. MIMS password, etc.), sensitive
-personal data (e.g. home address, passwords) online or on AI platforms,
-verifying credibility of online content before sharing, avoiding clicking
-on suspicious links or downloading unknown files, and being cautious when
-interacting with others online (e.g. on social media) by not engaging with
-strangers.</p>
-<p>13. You should exercise caution regarding the limitations of AI tools,
-including potential inaccuracies / fabricated responses, inherent biases
-and outdated information.</p>
+<ol start="11" data-tight="true" class="tight">
+<li>
+<p>You should report any incidents (e.g. unusual device behaviour or inappropriate
+use of devices), to your Form Teacher.</p>
+</li>
+<li>
+<p>You are reminded to develop online safety habits. This includes not disclosing
+personal access credentials (e.g. MIMS password, etc.), sensitive personal
+data (e.g. home address, passwords) online or on AI platforms, verifying
+credibility of online content before sharing, avoiding clicking on suspicious
+links or downloading unknown files, and being cautious when interacting
+with others online (e.g. on social media) by not engaging with strangers.</p>
+</li>
+<li>
+<p>You should exercise caution regarding the limitations of AI tools, including
+potential inaccuracies / fabricated responses, inherent biases and outdated
+information.</p>
+</li>
+</ol>
 <p><strong>Digital Wellbeing and Balance</strong>
 </p>
-<p>14. You are reminded to balance screentime with other activities including
+<ol start="14" data-tight="true" class="tight">
+<li>
+<p>You are reminded to balance screentime with other activities including
 physical exercise and face-to-face social interactions.</p>
-<p>15. You should avoid excessive use of your devices outside learning hours.</p>
-<p>16. You should take regular breaks to rest your eyes and mind.</p>
-<p>17. You are reminded to practice good sleep hygiene by not using your
-devices one hour before bedtime.</p>
+</li>
+<li>
+<p>You should avoid excessive use of your devices outside learning hours.</p>
+</li>
+<li>
+<p>You should take regular breaks to rest your eyes and mind.</p>
+</li>
+<li>
+<p>You are reminded to practice good sleep hygiene by not using your devices
+one hour before bedtime.</p>
+</li>
+</ol>
 <p></p>
 <p></p>
 <p></p>
