@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>For Parents</strong></h1>
 <h3>Acceptable Use Policy (AUP) for use of EdTech Resources</h3>
-<p>Test2</p>
+<p>Test3</p>
 <p><strong>General</strong>
 </p>
 <ol data-tight="true" class="tight">
