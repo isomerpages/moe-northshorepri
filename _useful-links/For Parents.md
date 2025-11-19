@@ -156,8 +156,12 @@ defamatory, hurtful to self or others).</p>
 others.</p>
 </li>
 </ul>
-<p>5. You should not use MOE/school-deployed ICT system accounts for any
-commercial activities (e.g. buying and selling of goods and services).</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>You should not use MOE/school-deployed ICT system accounts for any commercial
+activities (e.g. buying and selling of goods and services).</p>
+</li>
+</ol>
 <p>Non-compliance with the above will lead to disciplinary action in accordance
 with our school rules.</p>
 <p><strong>Respecting Copyright</strong>
