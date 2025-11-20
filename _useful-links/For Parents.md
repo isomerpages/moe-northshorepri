@@ -6,7 +6,27 @@ variant: tiptap
 ---
 <h1><strong>For Parents</strong></h1>
 <h3>Acceptable Use Policy (AUP) for use of EdTech Resources</h3>
-<p>Test5</p>
+<p><strong>Purpose of the Acceptable Use Policy (AUP)</strong>
+</p>
+<p>Technology is an essential part of learning in today’s world.</p>
+<p>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
+use of EdTech resources to help you understand how to use these resources
+safely and responsibly, in line with efforts to develop your digital literacies
+and growth as digitally responsible citizens.</p>
+<p>EdTech resources include the following, but are not limited to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning devices (e.g. school devices)</p>
+</li>
+<li>
+<p>ICT system accounts (e.g. Singapore Student Learning Space (SLS), iCON);
+and school internet networks.</p>
+</li>
+</ul>
+<p>For more information, please refer to:
+<br>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary)
+– <a href="https://go.gov.sg/cw-studentkitpri" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkitpri</a>
+</p>
 <p><strong>General</strong>
 </p>
 <ol data-tight="true" class="tight">
