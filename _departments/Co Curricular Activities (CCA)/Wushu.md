@@ -19,6 +19,10 @@ Wushu provides a holistic blend of physical fitness, discipline, and cultural im
 **Video 2**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YcW0mBigdqo?wmode=transparent&amp;playlist=YcW0mBigdqo&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+**Video 3**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YAmGTSqszBQ?wmode=transparent&amp;playlist=YAmGTSqszBQ&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
 **Photos**
 ![](/images/Wushu_pic01.jpg)
 ![](/images/Wushu_pic02.jpg)
