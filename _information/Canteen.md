@@ -10,9 +10,3 @@ variant: markdown
 
 [Click here to see full menu](/files/Tappee_Term_1_2026.pdf)
 
-old
-
-![](/images/2025_T4_Tapee_1.jpg)
-![](/images/2025_T4_Tapee_2.jpg)
-![](/images/2025_T4_Tapee_3_11.jpg)
-![](/images/2025_T4_Tapee_3_22.jpg)
