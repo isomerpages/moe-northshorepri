@@ -108,6 +108,13 @@ from sexuality-related risks.</p>
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>Term 2 Week 2&nbsp;&nbsp;&nbsp;</td></tr>
 </tbody></table> 
 
+new
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P5_Sexuality_education_logo3_1.jpg">
+</div>
+
+End new
+
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
 <ol start="8">
