@@ -108,7 +108,6 @@ from sexuality-related risks.</p>
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>Term 2 Week 2&nbsp;&nbsp;&nbsp;</td></tr>
 </tbody></table> 
 
-new
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P6_Sexuality_education_logo4.jpg">
 </div>
@@ -124,8 +123,6 @@ new
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Are We More than Friends?<br>   <br>Lesson 2<br>(60 min)<br></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.   </td>
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Term 1 Week 9   </td></tr>
 </tbody></table>
-
-End new
 
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
