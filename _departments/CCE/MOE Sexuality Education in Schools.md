@@ -110,7 +110,7 @@ from sexuality-related risks.</p>
 
 new
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P5_Sexuality_education_logo3_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P6_Sexuality_education_logo4.jpg">
 </div>
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 1104px"><colgroup><col style="width: 147px"><col style="width: 198px"><col style="width: 642px"><col style="width: 117px"></colgroup>
