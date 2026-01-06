@@ -88,7 +88,7 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
-<p><strong>At Northshore Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Northshore Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P5_Sexuality_education_logo3.jpg">
