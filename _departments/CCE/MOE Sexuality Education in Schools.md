@@ -91,7 +91,7 @@ from sexuality-related risks.</p>
 <p><strong>At Northshore Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P5_Sexuality_education_logo3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P5_Sexuality_education_logo3_1.jpg">
 </div>
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead>
