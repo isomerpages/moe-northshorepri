@@ -106,11 +106,11 @@ from sexuality-related risks.</p>
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>Term 2 Week 1&nbsp;&nbsp;&nbsp;</td></tr>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Keeping Myself Safe<br>   <br>(60 min)<br>   <br>    </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br>   <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.   </td>
 <td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>Term 2 Week 2&nbsp;&nbsp;&nbsp;</td></tr>
-</tbody></table> 
+</tbody></table>  
 
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P6_Sexuality_education_logo4.jpg">
-</div>
+</div>  
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 795px"><colgroup><col style="width: 89px"><col style="width: 112px"><col style="width: 518px"><col style="width: 76px"></colgroup>
 <thead>
