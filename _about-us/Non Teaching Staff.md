@@ -12,7 +12,7 @@ variant: markdown
 | Mdm Catherine Ong 	| Vice Principal (Admin) 	| [ong_yin_peng@schools.gov.sg](mailto:ong_yin_peng@schools.gov.sg) 	|
 | Mdm Gan Ser Min 	| Vice Principal (Academic) 	| [gan_ser_min@schools.gov.sg](mailto:gan_ser_min@schools.gov.sg) 	|
 | Mdm Syahira 	| Special Educational Needs Officer 	| [nurul_syahira_suhaimi@schools.gov.sg](mailto:nurul_syahira_suhaimi@schools.gov.sg) 	|
-| Ms Nora Fernandez 	| Special Educational Needs Officer 	| [nora_fernandez_c@schools.gov.sg](mailto:nora_fernandez_c@schools.gov.sg) 	|
+| Ms Faiqah 	| Special Educational Needs Officer 	| [faiqah_irwan_shah_abdullah@schools.gov.sg](mailto:Faiqah_Irwan_Shah_Abdullah@schools.gov.sg) 	|
 | Ms Yvonne Chua 	| School Counsellor 	| [chua_shih_teng_yvonne@schools.gov.sg](mailto:chua_shih_teng_yvonne@schools.gov.sg) 	|
 | Mdm Rashidah 	| Administration Manager 	| [rashidah_mohamed_rashid@schools.gov.sg](mailto:rashidah_mohamed_rashid@schools.gov.sg) 	|
 | Mr Dexter Siow 	| Operations Manager 	| [Siow_Yoon_Chat_A@schools.gov.sg](mailto:Siow_Yoon_Chat_A@schools.gov.sg) 	|
@@ -22,5 +22,4 @@ variant: markdown
 | Mdm Haslinda 	| Corporate Support Officer 	| [norhaslinda_subaat@schools.gov.sg](mailto:norhaslinda_subaat@schools.gov.sg) 	|
 | Mdm Irene Wong 	| Corporate Support Officer 	| [wong_siew_hong@schools.gov.sg](mailto:wong_siew_hong_subaat@schools.gov.sg) 	|
 | Mdm Siti Suhaila 	| Corporate Support Officer 	| [Siti_Suhaila_Senin@schools.gov.sg](mailto:Siti_Suhaila_Senin@schools.gov.sg) 	|
-| Mdm Denise Tan 	| Receptionist 1 	| [denise_tan_geok_lin@moe.edu.sg](mailto:denise_tan_geok_lin@moe.edu.sg) 	|
-| Mdm Suzieana 	| Receptionist 2| [suzieana_ahmad@moe.edu.sg](mailto:suzieana_ahmad@moe.edu.sg) 	|
+| Mdm Suzieana 	| Receptionist | [suzieana_ahmad@moe.edu.sg](mailto:suzieana_ahmad@moe.edu.sg) 	|
