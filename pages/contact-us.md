@@ -19,10 +19,9 @@ locations:
         time: Punggol Point - PW3
         description: ""
       - days: Bus Services
-        time: ""
-        description: |-
-          SBS: 84 (Outside the school, Punggol Way)
-          SBS: 384 (Opposite school main gate 1, Northshore Drive) 
+        time: ..
+        description: "SBS: 84 (Outside the school, Punggol Way) SBS: 384 (Opposite
+          school main gate 1, Northshore Drive)"
     maps_link: https://goo.gl/maps/JBmZdSHwBJkWtf759
     title: Mailing Address
 contacts:
@@ -41,4 +40,5 @@ contacts:
       - email: northshore_ps@moe.edu.sg
       - other: ""
     title: "Email:"
+feedback: https://form.gov.sg/#!/5f80cbfa53d3820011658ca9
 ---
