@@ -9,6 +9,8 @@ third_nav_title: Co Curricular Activities (CCA)
 
 New: 
 
+![](/images/Modular_pic01.jpg)
+
 Modular Sports CCA provides students with a dynamic and engaging platform to explore a variety of sports and games. Through participation in different sports modules, students develop their physical skills, coordination, and overall fitness in a structured and enjoyable environment.
 
 Beyond physical development, Modular Sports CCA emphasises key values such as teamwork, leadership, perseverance, and sportsmanship. Students learn to work collaboratively, demonstrate resilience in the face of challenges, and practise fair play. These experiences help nurture responsible, confident, and well-rounded individuals equipped with essential life skills.
