@@ -18,7 +18,7 @@ To find out more about our CCA, you may drop Mr Mark Lim an email.
 **Pack Meeting (CCA Sessions)**  
 
 Tuesdays, 2pm to 3:30pm  
-Please refer to Parents Gateway for the exact dates.
+Level of Students: P3 to P6.
 
 **Photos**
 ![](/images/Scouts_pic01_1.jpg)
@@ -35,4 +35,3 @@ Please refer to Parents Gateway for the exact dates.
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#303030">Ms Chua Wei Ting</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><a href="mailto:chua_wei_ting_b@schools.gov.sg"><span style="text-decoration:none">chua_wei_ting_b@schools.gov.sg</span></a>&nbsp;&nbsp;&nbsp;</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#303030">Mrs Sally Tay</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><a href="mailto:sally_tan_cai_feng@schools.gov.sg"><span style="text-decoration:none">sally_tan_cai_feng@schools.gov.sg</span></a><span style="color:#303030">  </span>&nbsp;&nbsp;&nbsp;</td></tr>
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#303030">Mr Idris</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><a href="mailto:mohamad_idris_asmuri@schools.gov.sg"><span style="text-decoration:none">mohamad_idris_asmuri@schools.gov.sg</span></a>&nbsp;&nbsp;&nbsp;</td></tr></tbody></table>
-
