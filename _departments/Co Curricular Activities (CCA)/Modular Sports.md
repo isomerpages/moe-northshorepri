@@ -28,7 +28,7 @@ Beyond physical skills, Modular Sports CCA places a strong emphasis on important
 </thead>
 <tbody>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#0D0D0D;background-color:white">Mondays</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br><span style="color:#0D0D0D;background-color:white">2:00pm – 3:30pm</span> </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br><span style="color:#0D0D0D;background-color:white">MPH</span> </td>
-<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br><span style="color:#0D0D0D;background-color:white">Primary 3, 4 &amp; 5</span> </td></tr>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br><span style="color:#0D0D0D;background-color:white">Primary 3 to 6</span> </td></tr>
 </tbody></table>  
 
 **Teachers-In-Charge**
