@@ -16,6 +16,10 @@ Through structured leadership roles and guided experiences, students develop con
 **Our Student Leadership Framework**  
 Northshore’s Student Leadership Framework provides a clear and progressive pathway for leadership development. Structured across four tiers, the framework guides students from leading themselves to serving beyond the school. Each tier builds on the previous one, allowing students to take on increasing responsibility while strengthening character and leadership capacity.
 
+**Tier 1: Leadership for Self**  
+**Developing Personal Responsibility**  
+
+
 
 
 old:
