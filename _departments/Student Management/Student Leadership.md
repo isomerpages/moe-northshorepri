@@ -7,7 +7,6 @@ third_nav_title: Student Management
 ---
 # **Student Leadership**
 
-
 **Student Leadership at Northshore Primary School**  
 At Northshore Primary School, one of our school’s visions is having a **Heart to Serve**. Guided by this vision and anchored in our SMART values of **Self-discipline, Empathy, Respect, Adaptability, and Tenacity**, the Student Leadership Programme provides meaningful opportunities for students to grow as responsible and caring leaders.  
 
@@ -15,6 +14,8 @@ Through structured leadership roles and guided experiences, students develop con
 
 **Our Student Leadership Framework**  
 Northshore’s Student Leadership Framework provides a clear and progressive pathway for leadership development. Structured across four tiers, the framework guides students from leading themselves to serving beyond the school. Each tier builds on the previous one, allowing students to take on increasing responsibility while strengthening character and leadership capacity.
+
+![](/images/SLS_Pic01_1.jpg)
 
 **Tier 1: Leadership for Self**  
 **Developing Personal Responsibility**  
