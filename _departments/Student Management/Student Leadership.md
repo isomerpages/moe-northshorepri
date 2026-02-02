@@ -34,7 +34,9 @@ Through the Voices of Northshoreans platform, student leaders help encourage stu
 The EXCO provides overall coordination and leadership direction, working closely with teachers to support school initiatives. EXCO members also mentor and guide other student leaders, helping them grow in confidence, adaptability, and tenacity as they carry out their responsibilities.
 
 
-
+**Tier 4: Leadership for Community**  
+**Serving Beyond the School**  
+Tier 4 provides opportunities for students to extend their leadership beyond the school. Through community engagement and service-learning experiences, students apply the school’s SMART values in authentic contexts. These experiences help students develop empathy, adaptability, and a strong sense of social responsibility while contributing meaningfully to the wider community.
 
 
 
