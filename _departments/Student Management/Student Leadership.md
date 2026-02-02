@@ -18,6 +18,9 @@ Northshore’s Student Leadership Framework provides a clear and progressive pat
 
 **Tier 1: Leadership for Self**  
 **Developing Personal Responsibility**  
+Leadership begins with self. In Tier 1, all students are taught to take ownership of their actions by practising the school’s SMART values in their daily routines and behaviour. Through classroom expectations and personal responsibilities, students develop self-discipline, demonstrate respect, and build tenacity. This tier establishes the foundation for leadership by emphasising self-management and accountability.
+
+
 
 
 
