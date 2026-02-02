@@ -27,6 +27,11 @@ At this tier, student leaders also support school life through specific responsi
 
 **Tier 3: Leadership for School**  
 **Leading Through Service**  
+Tier 3 comprises school-based leadership roles such as Prefects, Peer Support Leaders (PSLs), CCA Leaders, Senior Prefects, and the Executive Committee (EXCO). Collectively, these student leaders play an important role in supporting the daily operations of the school and promoting a positive school culture.
+Student leaders assist in maintaining a safe and orderly environment, particularly during recess, where Prefects support their peers by guiding behaviour and addressing minor issues with care and respect. They also support school routines, facilitate peer engagement, and contribute to the planning and conduct of school programmes and events such as Teachers’ Day.
+
+Through the Voices of Northshoreans platform, student leaders help encourage student participation in shaping the school environment. Students are invited to share ideas and suggestions to improve school life. These ideas are reviewed by a team of teachers and Prefects before being submitted to the Principal for consideration. Feasible and meaningful suggestions are implemented where appropriate, and students who contribute constructive ideas are recognised for their efforts. This platform reinforces the belief that every voice matters and empowers students to take ownership of their school community.
+The EXCO provides overall coordination and leadership direction, working closely with teachers to support school initiatives. EXCO members also mentor and guide other student leaders, helping them grow in confidence, adaptability, and tenacity as they carry out their responsibilities.
 
 
 
