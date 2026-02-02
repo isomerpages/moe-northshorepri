@@ -25,6 +25,12 @@ Leadership begins with self. In Tier 1, all students are taught to take ownershi
 Tier 2 focuses on leadership within the class community. Students take on class-based roles and peer support responsibilities, learning to serve others with empathy and work collaboratively. Through these experiences, students practise adaptability, develop communication skills, and contribute to a positive and respectful class environment.
 At this tier, student leaders also support school life through specific responsibilities. Peer Support Leaders (PSLs), for example, facilitate simple and inclusive recess games, encouraging positive interactions, teamwork, and a sense of belonging among students. These responsibilities help students learn how to care for others while contributing to a joyful and supportive school environment.
 
+**Tier 3: Leadership for School**  
+**Leading Through Service**  
+
+
+
+
 
 
 old:
