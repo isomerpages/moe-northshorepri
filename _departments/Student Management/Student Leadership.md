@@ -38,6 +38,8 @@ The EXCO provides overall coordination and leadership direction, working closely
 **Serving Beyond the School**  
 Tier 4 provides opportunities for students to extend their leadership beyond the school. Through community engagement and service-learning experiences, students apply the school’s SMART values in authentic contexts. These experiences help students develop empathy, adaptability, and a strong sense of social responsibility while contributing meaningfully to the wider community.
 
+**Leading with a Heart to Serve**  
+At Northshore Primary School, student leaders are ambassadors of the school. They are expected to model the SMART values in their conduct and interactions, serving others with responsibility and care. Through consistent service and positive influence, student leaders support the daily life of the school and help create a safe, caring, and respectful environment for all.
 
 
 old:
