@@ -19,7 +19,6 @@ In the CCA, our players will:
 4. enhance their ability to trust and let go when playing with their partners and learn about respect and sportsmanship while playing with their opponents. 
 5. build social connections and enhance their communication skills. 
 
-The CCA consists of the recreation group and the school team. Both sessions are conducted by professional coaches engaged by the school. Our school Team will participate in the National School Games in Semester 2, 2025. 
 
 **Training Days and Timings**  
 
