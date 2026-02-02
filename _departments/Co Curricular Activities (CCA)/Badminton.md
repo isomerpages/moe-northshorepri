@@ -7,7 +7,9 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 # **Badminton**
 
-Our Badminton CCA has entered its second year in 2025 with 54 active and enthusiastic young players.
+The Badminton Co-Curricular Activity (CCA) provides students with structured and progressive training in the sport.
+
+Training sessions are conducted regularly and focus on developing fundamental skills such as footwork, strokes, and game tactics. Students are guided by teachers and coaches through drills, practice matches, and fitness activities to support skill development and physical conditioning. Opportunities are also provided for students to apply their learning during friendly games and competitions, helping them improve through guided practice and experience.
 
 In the CCA, our players will:
 
