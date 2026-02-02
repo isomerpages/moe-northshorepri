@@ -9,7 +9,9 @@ third_nav_title: Student Management
 
 
 **Student Leadership at Northshore Primary School**  
+At Northshore Primary School, one of our school’s visions is having a Heart to Serve. Guided by this vision and anchored in our SMART values of Self-discipline, Empathy, Respect, Adaptability, and Tenacity, the Student Leadership Programme provides meaningful opportunities for students to grow as responsible and caring leaders.  
 
+Through structured leadership roles and guided experiences, students develop confidence, responsibility, and strong interpersonal and intrapersonal skills. These experiences support their holistic development and prepare them to contribute positively to the school and the wider community.
 
 
 old:
