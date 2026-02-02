@@ -13,6 +13,8 @@ At Northshore Primary School, one of our school’s visions is having a Heart to
 
 Through structured leadership roles and guided experiences, students develop confidence, responsibility, and strong interpersonal and intrapersonal skills. These experiences support their holistic development and prepare them to contribute positively to the school and the wider community.
 
+**Our Student Leadership Framework**  
+
 
 old:
 
