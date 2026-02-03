@@ -34,6 +34,8 @@ Student leaders assist in maintaining a safe and orderly environment, particular
 Through the Voices of Northshoreans platform, student leaders help encourage student participation in shaping the school environment. Students are invited to share ideas and suggestions to improve school life. These ideas are reviewed by a team of teachers and Prefects before being submitted to the Principal for consideration. Feasible and meaningful suggestions are implemented where appropriate, and students who contribute constructive ideas are recognised for their efforts. This platform reinforces the belief that every voice matters and empowers students to take ownership of their school community.
 The EXCO provides overall coordination and leadership direction, working closely with teachers to support school initiatives. EXCO members also mentor and guide other student leaders, helping them grow in confidence, adaptability, and tenacity as they carry out their responsibilities.
 
+![](/images/SLS_Pic03.jpg)
+![](/images/SLS_Pic04.jpg)
 
 **Tier 4: Leadership for Community**  
 **Serving Beyond the School**  
