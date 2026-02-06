@@ -19,3 +19,5 @@ Nurture students' self-awareness to support them in discovering how they can mea
 Develop students' self-directedness and confidence to explore and leverage education and career opportunities while respecting the value of all occupations.
 * Staying relevant - How do I get there?  
 Build students' adaptability and resilience to embrace the need for lifelong learning.
+
+**MySkillsFuture portal**  
