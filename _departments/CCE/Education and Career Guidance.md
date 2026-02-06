@@ -24,4 +24,5 @@ Build students' adaptability and resilience to embrace the need for lifelong lea
 [MySkillsFuture portal ](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)  is a one-stop portal with information and tools to explore various education and career pathways for all students from Primary 5 to junior colleges and Millennia Institute.
 
 **ECG Google Site**  
-Parents and students can access information on PSLE matters, secondary schools and Full Subject-Based Banding (Full SBB) through our NSPS ECG Google Site. There are also resources for strengths and interests exploration.
+Parents and students can access information on PSLE matters, secondary schools and Full Subject-Based Banding (Full SBB) through our [NSPS ECG Google Site.](https://sites.google.com/moe.edu.sg/nsps-ecg/)  There are also resources for strengths and interests exploration.
+
