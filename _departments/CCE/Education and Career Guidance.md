@@ -31,5 +31,7 @@ Source: [https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-car
 **MySkillsFuture portal**  
 [MySkillsFuture portal ](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)  is a one-stop portal with information and tools to explore various education and career pathways for all students from Primary 5 to junior colleges and Millennia Institute.
 
+<p style="font-size: 12px;">Source: [https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)</p>
+
 **ECG Google Site**  
 Parents and students can access information on PSLE matters, secondary schools and Full Subject-Based Banding (Full SBB) through our [NSPS ECG Google Site.](https://sites.google.com/moe.edu.sg/nsps-ecg/)  There are also resources for strengths and interests exploration.
