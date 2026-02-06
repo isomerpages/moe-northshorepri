@@ -12,6 +12,10 @@ third_nav_title: CCE
 Education and Career Guidance (ECG) helps students develop a sense of purpose in life. By nurturing self-awareness and self-directedness for lifelong learning, ECG helps students develop a growth mindset, adaptability and a resilient attitude to embrace future opportunities and appreciate the value of all occupations.
 
 **Goals of ECG**  
+
+<img style="width:40%" align="left" src="/images/music_pic00.jpg">   
+
+
 The goals of ECG (Figure 1) are to support students in:
 * **Discovering purpose** - Who am I?  
 Nurture students' self-awareness to support them in discovering how they can meaningfully play a part in their community.
