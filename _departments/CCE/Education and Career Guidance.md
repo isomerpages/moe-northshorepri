@@ -13,7 +13,11 @@ Education and Career Guidance (ECG) helps students develop a sense of purpose in
 
 **Goals of ECG**  
 
-<img style="width:40%" align="left" src="/images/music_pic00.jpg">   
+<img style="width:80%" align="left" src="/images/ECG_Pic02.jpg">   
+
+<br clear="left">  
+
+
 
 
 The goals of ECG (Figure 1) are to support students in:
