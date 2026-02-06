@@ -20,6 +20,9 @@ Develop students' self-directedness and confidence to explore and leverage educa
 * **Staying relevant** - How do I get there?  
 Build students' adaptability and resilience to embrace the need for lifelong learning.
 
+Source: [https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)
+
+
 **MySkillsFuture portal**  
 [MySkillsFuture portal ](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)  is a one-stop portal with information and tools to explore various education and career pathways for all students from Primary 5 to junior colleges and Millennia Institute.
 
