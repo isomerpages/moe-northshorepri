@@ -21,3 +21,6 @@ Develop students' self-directedness and confidence to explore and leverage educa
 Build students' adaptability and resilience to embrace the need for lifelong learning.
 
 **MySkillsFuture portal**  
+MySkillsFuture portal is a one-stop portal with information and tools to explore various education and career pathways for all students from Primary 5 to junior colleges and Millennia Institute.
+
+**MySkillsFuture portal**  
