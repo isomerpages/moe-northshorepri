@@ -25,7 +25,7 @@ Develop students' self-directedness and confidence to explore and leverage educa
 * **Staying relevant** - How do I get there?  
 Build students' adaptability and resilience to embrace the need for lifelong learning.
 
-Source: [https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)
+<small>Source: [https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)</small>
 
 
 **MySkillsFuture portal**  
@@ -35,3 +35,5 @@ Source: [https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-car
 
 **ECG Google Site**  
 Parents and students can access information on PSLE matters, secondary schools and Full Subject-Based Banding (Full SBB) through our [NSPS ECG Google Site.](https://sites.google.com/moe.edu.sg/nsps-ecg/)  There are also resources for strengths and interests exploration.
+
+This is standard text, and this part is <small>smaller text</small>.
