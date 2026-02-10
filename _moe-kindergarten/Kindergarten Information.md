@@ -2,12 +2,14 @@
 title: Kindergarten Information
 permalink: /moe-kindergarten/kindergarten-information/
 description: ""
+variant: markdown
 ---
 # **Kindergarten Information**
 
 **MOE Kindergarten @ Northshore is located at 30 Northshore Drive, Singapore 828671**
 
-  
+Click [here](https://staging-lite.d2iqm1fu172bk3.amplifyapp.com/moe-kindergarten/mk-open-house-2026/) for more information on our  <span style="color: red; font-size: 2em; font-weight: bold;">Open House.</span>
+
 
 ### Programmes and Operating Hours
 
