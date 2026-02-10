@@ -2,6 +2,7 @@
 title: Kindergarten Information
 permalink: /moe-kindergarten/kindergarten-information/
 description: ""
+variant: markdown
 ---
 # **Kindergarten Information**
 
@@ -19,4 +20,6 @@ KCare: 7 am to 7 pm
 
 ### For more information on MOE Kindergartens
 
-Please visit the MOE website at&nbsp;[https://moe.gov.sg/preschool/moe-kindergarten](https://moe.gov.sg/preschool/moe-kindergarten)
+Please visit the MOE website at&nbsp;[https://moe.gov.sg/preschool/moe-kindergarten](https://moe.gov.sg/preschool/moe-kindergarten)  
+
+Click [here](https://staging-lite.d2iqm1fu172bk3.amplifyapp.com/moe-kindergarten/mk-open-house-2026/) for more information on our Open House
