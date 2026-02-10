@@ -8,7 +8,7 @@ variant: markdown
 
 **MOE Kindergarten @ Northshore is located at 30 Northshore Drive, Singapore 828671**
 
-**Click [here](https://staging-lite.d2iqm1fu172bk3.amplifyapp.com/moe-kindergarten/mk-open-house-2026/) for more information on our**  <span style="color: red; font-size: 2em; font-weight: bold;">Open House.</span>
+Click [here](https://staging-lite.d2iqm1fu172bk3.amplifyapp.com/moe-kindergarten/mk-open-house-2026/) for more information on our  <span style="color: red; font-size: 2em; font-weight: bold;">Open House.</span>
 
 
 ### Programmes and Operating Hours
@@ -22,4 +22,3 @@ KCare: 7 am to 7 pm
 ### For more information on MOE Kindergartens
 
 Please visit the MOE website at&nbsp;[https://moe.gov.sg/preschool/moe-kindergarten](https://moe.gov.sg/preschool/moe-kindergarten)
-
