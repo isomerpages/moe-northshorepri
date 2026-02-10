@@ -4,7 +4,7 @@ permalink: /moe-kindergarten/mk-open-house-2026/
 variant: markdown
 description: ""
 ---
-# **MK Open House**
+# **MK Open House 2026**
 
 Click [here](https://staging-lite.d2iqm1fu172bk3.amplifyapp.com/moe-kindergarten/mk-open-house-2026/) for more information on our Open House
 
