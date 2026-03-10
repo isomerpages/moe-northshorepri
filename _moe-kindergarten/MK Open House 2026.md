@@ -10,3 +10,5 @@ description: ""
 ![](/images/Mk_Open_House_2026.jpg)  
 
 ![](/images/MK_Getting_here_2026.jpg)
+
+Click here to access the slides for more information about MK@Northshore
