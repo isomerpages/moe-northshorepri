@@ -51,3 +51,9 @@ Mdm Ong believes that staff and student’s safety is of utmost importance and t
 
 Ms Tan was appointed Vice-Principal of Northshore Primary School on 6 April 2026, following her return from professional development leave. Her experience as an educator spans 30 years across diverse educational institutions including Nanyang Junior College, CHIJ St Nicholas Girls' School, Townsville Primary School, and Ang Mo Kio Primary School.  
 
+Ms Tan graduated from the National University of Singapore (NUS) with a Master's degree in Chinese Studies and from the Nanyang Technological University (NTU) with a Master's degree in Public Administration. Throughout her career in the education service, she has been recognized with several awards including the Post Graduate Scholarship, National Day Award (Commendation), the COVID-19 Resilience Medal, and the Public Administration Medal (Bronze).  
+
+Ms Tan believes that every child can learn and is committed to developing in students a passion for learning that will enable them to become lifelong learners. She recognizes that in our constantly changing world, the ability to continue learning is important, and this passion for learning must be built on good character. Ms Tan believes in nurturing strong character from a young age, as she sees this as the foundation for meaningful learning.  
+
+With her experience across different school environments, Ms Tan looks forward to her role at Northshore Primary School, where she hopes to develop students who possess both academic capability and strong values to navigate an ever-changing world.
+
