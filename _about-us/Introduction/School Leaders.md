@@ -47,6 +47,7 @@ Mdm Ong believes that staff and student’s safety is of utmost importance and t
 
 ### Vice-Principal: Ms Tan Siew Khim
 
-<img src="/images/Mdm%20Ong.jpg" style="width:230px;height:300px;margin-left:15px;" align="right">
+<img src="/images/Tan_Siew_Khim.jpg" style="width:230px;height:300px;margin-left:15px;" align="right">
 
-Ms Tan was appointed Vice-Principal of Northshore Primary School on 6 April 2026, following her return from professional development leave. Her experience as an educator spans 30 years across diverse educational institutions including Nanyang Junior College, CHIJ St Nicholas Girls' School, Townsville Primary School, and Ang Mo Kio Primary School.
+Ms Tan was appointed Vice-Principal of Northshore Primary School on 6 April 2026, following her return from professional development leave. Her experience as an educator spans 30 years across diverse educational institutions including Nanyang Junior College, CHIJ St Nicholas Girls' School, Townsville Primary School, and Ang Mo Kio Primary School.  
+
