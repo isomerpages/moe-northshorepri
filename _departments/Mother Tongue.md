@@ -38,3 +38,4 @@ Hangzhou West Lake:
 
 **I am a little Tour Guide**
 ![](/images/Little%20Tour%20Guide%20poster.jpg)
+Click the link in each letter below to explore more.
