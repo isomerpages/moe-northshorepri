@@ -28,8 +28,12 @@ New:
 ![](/images/2026_MT_Pic07a.jpg)
 Click the [link](https://www.thinglink.com/scene/2052573889766097764) to explore more.
 
+**I am a little Tour Guide**
+![](/images/Little%20Tour%20Guide%20poster.jpg)
+Click the link in each letter below to explore more:   
+[**A**](https://www.thinglink.com/card/1601590443823333379) \- Level 1, [**B**](https://www.thinglink.com/card/1601590550530621443) \- Level 2, [**C**](https://www.thinglink.com/card/1601590664309506051) \- Level 4, [**D**](https://www.thinglink.com/card/1603704273437196291) \- Level 5, [**E**](https://www.thinglink.com/card/1601590849827766275) \- Level 7
 
-End new:
+End new---------------------------------------->:
 
 
 ![](/images/MT_chinese_pic01.jpg)
