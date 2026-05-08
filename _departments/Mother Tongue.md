@@ -17,18 +17,16 @@ The development of language skills has to work closely with the development of c
 
 New:
 
-![](/images/2026_MT_Pic01_a.jpg)
-![](/images/2026_MT_Pic02.jpg)
-![](/images/2026_MT_Pic03.jpg)
-![](/images/2026_MT_Pic04.jpg)
-![](/images/2026_MT_Pic05.jpg)
-![](/images/2026_MT_Pic06.jpg)
+![](/images/2026_MT_Pic01a.jpg)
+![](/images/2026_MT_Pic02a.jpg)
+![](/images/2026_MT_Pic03a.jpg)
+![](/images/2026_MT_Pic04a.jpg)
+![](/images/2026_MT_Pic05a.jpg)
+![](/images/2026_MT_Pic06a.jpg)
 
 **I am a little Tour Guide (P4)**
-
-![](/images/2026_MT_Pic07.jpg)
-Click the link below to explore more: 
-[https://www.thinglink.com/scene/2052573889766097764](https://www.thinglink.com/scene/2052573889766097764)
+![](/images/2026_MT_Pic07a.jpg)
+Click the link  below to explore more: 
 
 
 End new:
