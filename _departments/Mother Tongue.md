@@ -30,6 +30,10 @@ Click the [link](https://www.thinglink.com/scene/2052573889766097764) to explore
 
 **I am a little Tour Guide (P5 Overseas Immersion):**
 
+Yiwu Socks Factory:  
+
+Hangzhou West Lake:
+
 
 
 **I am a little Tour Guide**
