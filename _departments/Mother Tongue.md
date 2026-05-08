@@ -26,7 +26,7 @@ New:
 
 **I am a little Tour Guide (P4)**
 ![](/images/2026_MT_Pic07a.jpg)
-Click the [link](https://www.thinglink.com/scene/2052573889766097764) to explore more: 
+Click the [link](https://www.thinglink.com/scene/2052573889766097764) to explore more.
 
 
 End new:
