@@ -24,7 +24,7 @@ New:
 ![](/images/2026_MT_Pic05.jpg)
 ![](/images/2026_MT_Pic06.jpg)
 
-**I am a little Tour Guide (P4) **
+**I am a little Tour Guide (P4)**
 
 ![](/images/2026_MT_Pic07.jpg)
 Click the link below to explore more: 
