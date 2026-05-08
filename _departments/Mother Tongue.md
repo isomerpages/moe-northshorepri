@@ -17,6 +17,18 @@ The development of language skills has to work closely with the development of c
 
 New:
 
+![](/images/2026_MT_Pic01.jpg)
+![](/images/2026_MT_Pic02.jpg)
+![](/images/2026_MT_Pic03.jpg)
+![](/images/2026_MT_Pic04.jpg)
+![](/images/2026_MT_Pic05.jpg)
+![](/images/2026_MT_Pic06.jpg)
+
+**I am a little Tour Guide (P4) **
+
+![](/images/2026_MT_Pic07.jpg)
+Click the link below to explore more: 
+
 
 
 End new:
