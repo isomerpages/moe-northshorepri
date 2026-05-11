@@ -1,0 +1,38 @@
+---
+title: String Ensemble
+permalink: /departments/co-curricular-activities-cca/string-ensemble/
+variant: markdown
+description: ""
+third_nav_title: Co Curricular Activities (CCA)
+---
+# **String Ensemble**
+
+Northshore String Ensemble welcomes students with a love for music. Open to both beginners and experienced players, the ensemble provides students with the opportunity to learn and perform on string instruments such as the violin and cello. It introduces students to the fundamentals of music theory and technical aspects of instruments in the string family.
+
+In the process, students learn the importance of respect, teamwork and tenacity as they work together to perform as a group and play in harmony. Throughout the year, students will have opportunities to showcase their talents in school performances and events. This builds their self-confidence and spreads the joy of making music with others.
+
+
+**Ensemble Practices**
+
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead>
+<tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:#0D0D0D">Day</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:#0D0D0D">Timings</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:#0D0D0D">Venue</span></th>
+<th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:#0D0D0D">Student groups</span></th></tr>
+</thead>
+<tbody>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#303030">Tuesdays</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#0D0D0D;background-color:white">2:00pm – 3:30pm</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#0D0D0D;background-color:white">Band Room</span>&nbsp;&nbsp;&nbsp;</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br><span style="color:#0D0D0D;background-color:white">Primary 3</span></td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#303030">Fridays</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#0D0D0D;background-color:white">2:00pm – 3:30pm</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#0D0D0D;background-color:white">Band Room</span>&nbsp;&nbsp;&nbsp;</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br><span style="color:#0D0D0D;background-color:white">Primary 4 to 6</span> </td></tr>
+</tbody></table>
+
+**Photos**
+![](/images/CCA_String_Ensemble_Pic01.jpg)
+![](/images/CCA_String_Ensemble_Pic02.jpg)
+
+
+**Teachers-In-Charge**
+
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><span style="color:black">CCA Teachers</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><span style="color:black">Email Address</span></th></tr></thead>
+<tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br>Ms Denisa Tan (Teacher in Charge) </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br><a rel="noopener noreferrer" target="_blank" href="mailto:denisa_tan_xin_yi@schools.gov.sg">denisa_tan_xin_yi@schools.gov.sg</a>   </td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br>Mr Wang Hup Ann </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br><a rel="noopener noreferrer" target="_blank" href="mailto:wang_hup_ann@schools.gov.sg">wang_hup_ann@schools.gov.sg</a> </td></tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br>Ms Quah Hui Ling </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br><a rel="noopener noreferrer" target="_blank" href="mailto:quah_hui_ling@schools.gov.sg">quah_hui_ling@schools.gov.sg</a> </td></tr></tbody></table>

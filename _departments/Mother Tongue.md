@@ -1,0 +1,42 @@
+---
+title: Mother Tongue
+permalink: /departments/mother-tongue/
+description: ""
+variant: markdown
+---
+# **Mother Tongue**
+
+**Curriculum**  
+Our MTL curriculum aims to equip our students with the competencies required in using their MTL to communicate proficiently in everyday life. In addition, we want to help our students gain awareness of their cultural identity, find their roots as well as develop in them an appreciation for the richness of the culture and history of the respective MTL.
+
+**Curriculum Approach**  
+Our teaching is focused on developing oracy skills at the lower primary before the learning of reading and writing. Oracy learning begins with listening activities (e.g. listening to a story narration, watching an animation or video), followed by oral practices set in authentic contexts. Interactive oral practices (e.g. role-play, pair/group discussion) encourages students to use the oral vocabulary and sentence structures that they have learnt and thus helps to build up foundational language skills. As students progress to upper primary, learning progresses from reading to oracy and writing. Reading activities will be supplemented by oral presentations and similarly writing activities could be preceded by oral activities which allows students to verbally present their ideas before expressing them in writing.
+
+**Programmes**  
+The development of language skills has to work closely with the development of cultural awareness. The Cultural Exposure Programme provides platforms for students to use and learn the language and culture beyond the classroom and school. Activities such as speech and drama, watching cultural performances provide opportunities for students to use MTL and experience the culture. Activities during the MTL Fortnights and Language and Cultural Camps provides an immersive environment for students to learn and use MTL in a more in-depth manner, and to appreciate MTL cultures through hands-on task such as craftwork making and storytelling.
+
+New:
+
+![](/images/2026_MT_Pic01a.jpg)
+![](/images/2026_MT_Pic02a.jpg)
+![](/images/2026_MT_Pic03a.jpg)
+![](/images/2026_MT_Pic04a.jpg)
+![](/images/2026_MT_Pic05a.jpg)
+![](/images/2026_MT_Pic06a.jpg)
+
+**I am a little Tour Guide (P4)**
+![](/images/2026_MT_Pic07a.jpg)
+Click the [link](https://www.thinglink.com/scene/2052573889766097764) to explore more.
+
+**I am a little Tour Guide (P5 Overseas Immersion):**
+
+Yiwu Socks Factory: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mjbrUE0avjI?wmode=transparent&amp;playlist=mjbrUE0avjI;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>  
+
+Hangzhou West Lake:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GuvQl_H7V0g?wmode=transparent&amp;playlist=GuvQl_H7V0g;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>  
+
+**I am a little Tour Guide**
+![](/images/Little%20Tour%20Guide%20poster.jpg)
+Click the link in each letter below to explore more:  
+**[A](https://www.thinglink.com/card/1601590443823333379)- Level 1, **B** - Level 2, **C** - Level 4, **D** - Level 5, **E** - Level 7
