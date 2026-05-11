@@ -6,7 +6,7 @@ variant: markdown
 ---
 # **Mother Tongue**
 
-**Curriculum **  
+**Curriculum**  
 Our MTL curriculum aims to equip our students with the competencies required in using their MTL to communicate proficiently in everyday life. In addition, we want to help our students gain awareness of their cultural identity, find their roots as well as develop in them an appreciation for the richness of the culture and history of the respective MTL.
 
 **Curriculum Approach**  
