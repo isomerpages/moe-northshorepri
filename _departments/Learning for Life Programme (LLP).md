@@ -31,12 +31,17 @@ LLP Focus 
 
 **Recycle Right Campaign**  
 The school’s environmental efforts are brought to life through our Eco-Explorers, a dedicated group of classroom leaders who support the Recycle Right Campaign in their daily routines. They monitor recycling practices, empty class recycling bags into the Bloobin, and guide their peers to recycle correctly. Through these actions, they promote proper recycling habits and model environmental responsibility for the school community.  
+![](/images/2026_LLP_Pic07.jpg)
 
-**Commemorative Events (World Water Day and Earth Day)**   
+**Commemorative Events (World Water Day and Earth Day)**  
+![](/images/2026_LLP_Pic08.jpg)
 Students learn positive environmental habits through play during assembly programmes, cultivating self-discipline and adaptability in their actions. As they engage with others in various level activities, they demonstrate empathy and respect for the environment, while building the tenacity to adopt and sustain responsible habits.  
 
 **Outdoor Education Day Camps (Primary 3 and Primary 4)**   
+![](/images/2026_LLP_Pic09.jpg)
 Middle Primary students explore their surroundings with curiosity and respect, developing self-discipline and adaptability through supervised, hands-on experiences. As they learn essential life skills such as outdoor cooking and first aid, they practice empathy, support one another, and build tenacity in overcoming new challenges.   
 
 **Outdoor Education Camp (Primary 5)**
-Through a range of outdoor activities and team challenges, our Primary 5 students will have the opportunity to demonstrate self-discipline and adaptability while supporting one another with empathy and respect. By working through obstacles together with determination and tenacity, they will strengthen their bonds with peers and teachers, building a unified and resilient team prepared to face future challenges. 
+
+
+Through a range of outdoor activities and team challenges, our Primary 5 students will have the opportunity to demonstrate self-discipline and adaptability while supporting one another with empathy and respect. By working through obstacles together with determination and tenacity, they will strengthen their bonds with peers and teachers, building a unified and resilient team prepared to face future challenges.
