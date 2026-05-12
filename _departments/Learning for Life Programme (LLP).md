@@ -33,4 +33,10 @@ LLP Focus 
 The school’s environmental efforts are brought to life through our Eco-Explorers, a dedicated group of classroom leaders who support the Recycle Right Campaign in their daily routines. They monitor recycling practices, empty class recycling bags into the Bloobin, and guide their peers to recycle correctly. Through these actions, they promote proper recycling habits and model environmental responsibility for the school community.  
 
 **Commemorative Events (World Water Day and Earth Day)**   
-Students learn positive environmental habits through play during assembly programmes, cultivating self-discipline and adaptability in their actions. As they engage with others in various level activities, they demonstrate empathy and respect for the environment, while building the tenacity to adopt and sustain responsible habits.
+Students learn positive environmental habits through play during assembly programmes, cultivating self-discipline and adaptability in their actions. As they engage with others in various level activities, they demonstrate empathy and respect for the environment, while building the tenacity to adopt and sustain responsible habits.  
+
+**Outdoor Education Day Camps (Primary 3 and Primary 4)**   
+Middle Primary students explore their surroundings with curiosity and respect, developing self-discipline and adaptability through supervised, hands-on experiences. As they learn essential life skills such as outdoor cooking and first aid, they practice empathy, support one another, and build tenacity in overcoming new challenges.   
+
+**Outdoor Education Day Camps (Primary 3 and Primary 4)**   
+
