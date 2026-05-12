@@ -35,8 +35,13 @@ End old pic
 
 **Primary 1 to 5 “I am SAM (Sportsman, Artist, Musician) Week”**  
 
+Our Primary 1 to 5 students do not just learn about Physical Education, Art and Music during classroom lessons. Through our annual “I am SAM (Sportsman, Artist, Musician) Week”, students are given opportunities to explore their talents, creativity and teamwork through a variety of engaging and meaningful experiences held during recess and selected activity periods.
 
+Throughout the week, students participate in specially curated sports, art and music activities that encourage them to discover new interests, build confidence and enjoy learning beyond the classroom. Students take part in exciting physical challenges, hands-on art experiences and interactive music sessions that allow them to express themselves creatively while learning to work together with their peers.
 
+Past sports activities have included skating circuits inspired by Formula 1 racing, archery sessions and seated volleyball games. Students have also enjoyed creating collaborative artworks, craft activities and participating in music games, rhythm challenges and percussion-based activities that promote creativity and self-expression. Each year, new activities are introduced to provide fresh and memorable experiences for our students.
+
+“I am SAM Week” continues to be a highlight of the school calendar, nurturing students to become active sportsmen, creative artists and confident musicians while fostering school spirit, friendship and a love for learning.
 
 
 Old:   
