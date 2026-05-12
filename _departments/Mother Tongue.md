@@ -39,4 +39,4 @@ Hangzhou West Lake:
 **I am a little Tour Guide**
 ![](/images/Little%20Tour%20Guide%20poster.jpg)
 Click the link in each letter below to explore more:  
-**[A](https://www.thinglink.com/card/1601590443823333379)- Level 1, **B** - Level 2, **C** - Level 4, **D** - Level 5, **E** - Level 7
+[A](https://www.thinglink.com/card/1601590443823333379)- Level 1, [B](https://www.thinglink.com/card/1601590550530621443) - Level 2,  [C](https://www.thinglink.com/card/1601590664309506051)- Level 4, **D** - Level 5, **E** - Level 7
