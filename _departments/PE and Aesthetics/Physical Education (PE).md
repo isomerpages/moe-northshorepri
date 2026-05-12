@@ -43,6 +43,7 @@ Past sports activities have included skating circuits inspired by Formula 1 raci
 
 “I am SAM Week” continues to be a highlight of the school calendar, nurturing students to become active sportsmen, creative artists and confident musicians while fostering school spirit, friendship and a love for learning.
 
+![](/images/2026_PE_Pic08.jpg)
 
 Old:   
 Our students do not just learn about PE, Art and Music content during classroom lessons. During this week in October, they will be having activities during Recess that will excite them and turn them into young Sportsman, Artists and Musicians.  
