@@ -28,8 +28,7 @@ New:
 ![](/images/2026_MT_Pic07a.jpg)
 Click the [link](https://www.thinglink.com/scene/2052573889766097764) to explore more.
 
-**I am a little Tour Guide (P5 Overseas Immersion):**
-
+**I am a little Tour Guide (P5 Overseas Immersion):**  
 Yiwu Socks Factory: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mjbrUE0avjI?wmode=transparent&amp;playlist=mjbrUE0avjI;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>  
 
