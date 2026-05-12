@@ -15,8 +15,6 @@ Our teaching is focused on developing oracy skills at the lower primary before t
 **Programmes**  
 The development of language skills has to work closely with the development of cultural awareness. The Cultural Exposure Programme provides platforms for students to use and learn the language and culture beyond the classroom and school. Activities such as speech and drama, watching cultural performances provide opportunities for students to use MTL and experience the culture. Activities during the MTL Fortnights and Language and Cultural Camps provides an immersive environment for students to learn and use MTL in a more in-depth manner, and to appreciate MTL cultures through hands-on task such as craftwork making and storytelling.
 
-New:
-
 ![](/images/2026_MT_Pic01a.jpg)
 ![](/images/2026_MT_Pic02a.jpg)
 ![](/images/2026_MT_Pic03a.jpg)
