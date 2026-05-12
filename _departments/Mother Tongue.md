@@ -24,7 +24,7 @@ The development of language skills has to work closely with the development of c
 
 **I am a little Tour Guide (P4)**
 ![](/images/2026_MT_Pic07a.jpg)
-Click the [link](https://www.thinglink.com/scene/2052573889766097764) to explore more.
+Click this [link](https://www.thinglink.com/scene/2052573889766097764) to explore more.
 
 **I am a little Tour Guide (P5 Overseas Immersion):**  
 Yiwu Socks Factory: 
