@@ -39,13 +39,6 @@ Past sports activities have included skating circuits inspired by Formula 1 raci
 
 ![](/images/2026_PE_Pic08.jpg)
 
-Old:   
-Our students do not just learn about PE, Art and Music content during classroom lessons. During this week in October, they will be having activities during Recess that will excite them and turn them into young Sportsman, Artists and Musicians.  
-For our I am Sportsman activity (2022), our students raced as “Formula 1” drivers as they controlled their skates around a circuit as they competed with their friends. Our Primary 3 students (2023) became archers as they engaged in an archery activity. Primary 4 students experienced playing a game of “Seated Volleyball” with their friends.  
-This year, we will be having new activities for our Primary 5 students during the week.
-
-End old.
-
 **SEP (Sports Education Programme)**  
 The school partners Sport Singapore (SportsSG) in introducing unique sports programmes to our students to encourage sports participation and increase sporting opportunities. SEP programmes caters for development of skills and sports knowledge of students and help promote active participation of sports. It also promotes team spirit and character building, and to arouse interest in continual sports participation amongst students. 
 
