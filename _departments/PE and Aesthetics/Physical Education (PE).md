@@ -27,12 +27,6 @@ The school organises the Lower Primary Games Day as a whole school in August. On
 
 ![](/images/2026_PE_Pic03_02.jpg)
 
-
-Old pic
-![](/images/PE_Pic03_01.jpg)
-End old pic
-
-
 **Primary 1 to 5 “I am SAM (Sportsman, Artist, Musician) Week”**  
 
 Our Primary 1 to 5 students do not just learn about Physical Education, Art and Music during classroom lessons. Through our annual “I am SAM (Sportsman, Artist, Musician) Week”, students are given opportunities to explore their talents, creativity and teamwork through a variety of engaging and meaningful experiences held during recess and selected activity periods.
