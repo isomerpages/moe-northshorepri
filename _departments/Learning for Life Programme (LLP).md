@@ -22,14 +22,8 @@ LLP Focus 
      Allowing learners opportunities to explore sustainability issues, engage in problem solving, and work towards making positive change for the environment.  
 		 
 **Key Programmes**  
-![](/images/LLP_Pic001.jpg)
-
-![](/images/LLP_Pic002.jpg)
 
 ![](/images/LLP_Pic003.jpg)
-
-![](/images/LLP_Pic004_1.jpg)
-![](/images/LLP_Pic04_2.jpg)
 
 ![](/images/LLP_Pic005.jpg)
 
