@@ -7,5 +7,4 @@ variant: markdown
 # **School Advisory Committee**
 
 
-![](/images/SAC_13Mar_2025_2.jpg)
-
+![](/images/SAC_May_2026.jpg)
