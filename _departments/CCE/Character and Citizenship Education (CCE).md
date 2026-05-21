@@ -53,7 +53,11 @@ Mekong River simulation
 ![ASEAN sights and sounds in a rubiks cube](/images/2026_CCE_Pic11.jpg)
 ASEAN sights and sounds in a rubiks cube
 
+![About Wayang Kulit](/images/2026_CCE_Pic12.jpg)
+About Wayang Kulit
 
+![About Tinikling: Traditional Philippine folk dance](/images/2026_CCE_Pic13.jpg)
+About Tinikling: Traditional Philippine folk dance
 
 
 
