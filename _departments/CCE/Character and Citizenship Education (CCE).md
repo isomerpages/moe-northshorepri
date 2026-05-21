@@ -73,7 +73,7 @@ Exploring cultures throughsthe arts
 ![Primary 3 Racial Harmony Day experience in Social Studies](/images/2026_CCE_Pic17.jpg)
 Primary 3 Racial Harmony Day experience in Social Studies
 
-
+**Heart To Serve:**  
 
 
 
