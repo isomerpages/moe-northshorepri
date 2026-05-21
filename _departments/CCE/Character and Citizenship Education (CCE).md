@@ -15,6 +15,9 @@ Through our **Education and Career Guidance (ECG)** efforts, students are equipp
 
 **Zones of Regulation in-house curriculum** helps students build emotional awareness and self-management skills. This provides the foundation for emotional resilience and adaptability, enabling them to take the courage to explore new opportunities and be tenacious through challenges.
 
+![Exchanging for an encouragement sticker that puts us in the green zone](/images/2026_CCE_Pic01.jpg)
+Exchanging for an encouragement sticker that puts us in the green zone
+
 
 
 old--------------------------------->
