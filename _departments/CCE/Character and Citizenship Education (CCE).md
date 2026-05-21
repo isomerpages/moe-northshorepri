@@ -18,6 +18,13 @@ Through our **Education and Career Guidance (ECG)** efforts, students are equipp
 ![Exchanging for an encouragement sticker that puts us in the green zone](/images/2026_CCE_Pic01.jpg)
 Exchanging for an encouragement sticker that puts us in the green zone
 
+![Voting for my favourite fidget tool](/images/2026_CCE_Pic02.jpg)
+Voting for my favourite fidget tool
+
+
+
+
+
 
 
 old--------------------------------->
