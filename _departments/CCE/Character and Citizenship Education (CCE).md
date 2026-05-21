@@ -59,8 +59,7 @@ About Wayang Kulit
 ![About Tinikling: Traditional Philippine folk dance](/images/2026_CCE_Pic13.jpg)
 About Tinikling: Traditional Philippine folk dance
 
-
-
+**Racial Harmony Day:**  
 
 
 
