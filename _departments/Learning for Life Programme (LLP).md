@@ -39,7 +39,7 @@ Students learn positive environmental habits through play during assembly progra
 
 **Outdoor Education Day Camps (Primary 3 and Primary 4)**   
 ![](/images/2026_LLP_Pic09.jpg)
-Middle Primary students explore their surroundings with curiosity and respect, developing self-discipline and adaptability through supervised, hands-on experiences. As they learn essential life skills such as outdoor cooking and first aid, they practice empathy, support one another, and build tenacity in overcoming new challenges.   
+Middle Primary students explore their surroundings with curiosity and respect, developing self-discipline and adaptability through supervised, hands-on experiences. As they learn essential life skills such as outdoor cooking and first aid, they practise empathy, support one another, and build tenacity in overcoming new challenges.   
 
 **Outdoor Education Camp (Primary 5)**
 ![](/images/2026_LLP_Pic10.jpg)
