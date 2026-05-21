@@ -98,6 +98,13 @@ Representing the primary 4 cohort to give out children’s day goodie bags
 ![P5 students preparing to teach the P2 juniors about sign language](/images/2026_CCE_Pic23.jpg)
 P5 students preparing to teach the P2 juniors about sign language
 
+![Our P5 students in action, teaching their juniors](/images/2026_CCE_Pic24.jpg)
+Our P5 students in action, teaching their juniors
+
+![P5 students teaching the P2 students about braille](/images/2026_CCE_Pic25.jpg)
+P5 students teaching the P2 students about braille
+
+
 old--------------------------------->
 
 CCE aims to develop good character, resilience, social-emotional well-being, future readiness and active citizenship in our students.  CCE lessons include CCE Form Teacher Guidance Period (CCE FTGP), CCE Mother Tongue Languages (CCE MTL) and Programme for Active Learning (PAL).  Key student development experiences provide an authentic learning platform that contribute to the holistic development of Northshoreans.  
