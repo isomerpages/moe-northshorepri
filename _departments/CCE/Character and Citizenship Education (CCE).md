@@ -61,6 +61,12 @@ About Tinikling: Traditional Philippine folk dance
 
 **Racial Harmony Day:**  
 
+![Experiencing traditional games that bond](/images/2026_CCE_Pic14.jpg)
+Experiencing traditional games that bond
+
+
+
+
 
 
 old--------------------------------->
