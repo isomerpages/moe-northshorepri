@@ -37,6 +37,10 @@ Getting up close with police officers
 ![Civil Defence: Learning to pack a ready bag](/images/2026_CCE_Pic06.jpg)
 Civil Defence: Learning to pack a ready bag
 
+![Economic Defence: Learning to spend wisely](/images/2026_CCE_Pic07.jpg)
+Economic Defence: Learning to spend wisely
+
+
 
 
 
