@@ -64,6 +64,8 @@ About Tinikling: Traditional Philippine folk dance
 ![Experiencing traditional games that bond](/images/2026_CCE_Pic14.jpg)
 Experiencing traditional games that bond
 
+![Reimagining the future of public housing for social mixing](/images/2026_CCE_Pic15.jpg)
+Reimagining the future of public housing for social mixing
 
 
 
