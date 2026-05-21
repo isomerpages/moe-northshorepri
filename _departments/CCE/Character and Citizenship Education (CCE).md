@@ -34,6 +34,8 @@ Passion to Learn is expressed through hands-on, experiential learning during Nat
 ![Getting up close with police officers](/images/2026_CCE_Pic05.jpg)
 Getting up close with police officers
 
+![Civil Defence: Learning to pack a ready bag](/images/2026_CCE_Pic06.jpg)
+Civil Defence: Learning to pack a ready bag
 
 
 
