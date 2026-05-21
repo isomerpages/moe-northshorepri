@@ -21,6 +21,8 @@ Exchanging for an encouragement sticker that puts us in the green zone
 ![Voting for my favourite fidget tool](/images/2026_CCE_Pic02.jpg)
 Voting for my favourite fidget tool
 
+![Learning about box breathing](/images/2026_CCE_Pic03.jpg)
+Learning about box breathing
 
 
 
