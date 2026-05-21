@@ -47,7 +47,11 @@ Social Defence: Learning about hawker culture
 ![Knowing ASEAN cultures](/images/2026_LLP_Pic09.jpg)
 Knowing ASEAN cultures
 
+![Mekong River simulation](/images/2026_CCE_Pic10.jpg)
+Mekong River simulation
 
+![ASEAN sights and sounds in a rubiks cube](/images/2026_CCE_Pic11.jpg)
+ASEAN sights and sounds in a rubiks cube
 
 
 
