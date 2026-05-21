@@ -27,7 +27,7 @@ Learning about box breathing
 ![Lower primary classrooms have a rainbow cove for emotion regulation](/images/2026_CCE_Pic04.jpg)
 Lower primary classrooms have a rainbow cove for emotion regulation
 
-
+**Passion to Learn**  
 
 
 
