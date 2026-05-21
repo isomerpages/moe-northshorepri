@@ -80,6 +80,15 @@ Primary 3 Racial Harmony Day experience in Social Studies
 * The year also concludes with a time of reflection, where Northshoreans express appreciation to peers, teachers, and family members for gratitude is key to developing a tenacious mindset
 
 
+![Checking expiry dates from the Food from the Heart donation drive](/images/2026_CCE_Pic18.jpg)
+Checking expiry dates from the Food from the Heart donation drive
+
+![Inter-class games to raise awareness about Food from the Heart](/images/2026_CCE_Pic19.jpg)
+Inter-class games to raise awareness about Food from the Heart
+
+![Cleaning the school](/images/2026_CCE_Pic20.jpg)
+Cleaning the school
+
 
 
 
