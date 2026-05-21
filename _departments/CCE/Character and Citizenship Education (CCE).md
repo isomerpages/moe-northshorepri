@@ -43,7 +43,7 @@ Economic Defence: Learning to spend wisely
 ![Social Defence: Learning about hawker culture](/images/2026_CCE_Pic08.jpg)
 Social Defence: Learning about hawker culture
 
-
+**International Friendship Day:**  
 
 
 
