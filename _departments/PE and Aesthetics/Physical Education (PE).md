@@ -49,7 +49,7 @@ Our Primary 3 students participate in 5 lessons of Handball to understand the sk
 **Inter-Class Games & Games Carnival (P3–P6) at Northshore Primary School**  
 Alongside our Lower Primary Games Day, Northshore Primary School also organised an exciting Inter-Class Games and Games Carnival for our Primary 3 to Primary 6 students. The event brought together energy, teamwork, and sportsmanship as students represented their classes and participated in a variety of engaging activities.
 
-Students took part enthusiastically in both competitive and carnival-style games, cheering one another on and demonstrating resilience and fair play. The lively atmosphere reflected the school’s commitment to holistic development through physical education and character building.
+Students participated enthusiastically in both competitive and carnival-style games, cheering one another on and demonstrating resilience and fair play. The lively atmosphere reflected the school’s commitment to holistic development through physical education and character building.
 
 The Inter-Class Games and Games Carnival provided a meaningful platform for students to strengthen friendships, build teamwork, and embody values such as respect and perseverance.
 
