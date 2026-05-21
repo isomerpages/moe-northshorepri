@@ -30,8 +30,7 @@ Lower primary classrooms have a rainbow cove for emotion regulation
 **Passion to Learn**  
 Passion to Learn is expressed through hands-on, experiential learning during National Education commemorative days. Cohort activities are thoughtfully designed to ensure learning is active and memorable for students to develop strong citizenship disposition.
 
-
-
+**Total Defence Day:**  
 
 
 
