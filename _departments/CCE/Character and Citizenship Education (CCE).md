@@ -89,10 +89,14 @@ Inter-class games to raise awareness about Food from the Heart
 ![Cleaning the school](/images/2026_CCE_Pic20.jpg)
 Cleaning the school
 
+![Decorating children’s day goodie gags for Suncare SG](/images/2026_CCE_Pic21.jpg)
+Decorating children’s day goodie gags for Suncare SG
 
+![Representing the primary 4 cohort to give out children’s day goodie bags](/images/2026_CCE_Pic22.jpg)
+Representing the primary 4 cohort to give out children’s day goodie bags
 
-
-
+![P5 students preparing to teach the P2 juniors about sign language](/images/2026_CCE_Pic23.jpg)
+P5 students preparing to teach the P2 juniors about sign language
 
 old--------------------------------->
 
