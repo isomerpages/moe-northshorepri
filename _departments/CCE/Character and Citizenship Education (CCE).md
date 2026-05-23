@@ -44,7 +44,7 @@ Economic Defence: Learning to spend wisely
 Social Defence: Learning about hawker culture
 
 **International Friendship Day:**  
-![Knowing ASEAN cultures](/images/2026_LLP_Pic09.jpg)
+![Knowing ASEAN cultures](/images/2026_CCE_Pic09.jpg)
 Knowing ASEAN cultures
 
 ![Mekong River simulation](/images/2026_CCE_Pic10.jpg)
