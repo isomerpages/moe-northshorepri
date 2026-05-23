@@ -13,8 +13,7 @@ variant: markdown
 
 ![](/images/M1.jpg)
 
-**Primary Mathematics Syllabus**
-
+**Primary Mathematics Syllabus**  
 The Primary Mathematics Syllabus aims to enable all students to:  
 
 * Acquire mathematical concepts and skills for everyday use and for continuous learning in Mathematics.  
