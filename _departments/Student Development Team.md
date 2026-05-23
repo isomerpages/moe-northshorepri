@@ -39,4 +39,5 @@ Each year has been symbolised by a meaningful emblem that reflects our collectiv
 
 At the end of 2026, we look forward to coming together and forming a star, symbolising aspiration, excellence, and the bright future we create together.
 
+![Formation @ Northshore](/images/2026_SDT_pic05.jpg)
 ![](/images/SDT_pic05.jpg)
