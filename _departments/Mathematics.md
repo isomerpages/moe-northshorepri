@@ -35,8 +35,8 @@ Math@Play programmes are a unique feature of the Mathematics curriculum at North
 
   * Project <ins>**H**</ins>elp our <ins>**E**</ins>xplorers <ins>**L**</ins>earn <ins>**M**</ins>ath – Project H.E.L.M. (Home-School Partnership): Project Help our Explorers Learn Math involves Primary 1 and 2 students demonstrating their creativity by creating and playing games through home-school collaboration.
 
-  * Let's Play Math!
-  * Math Day Out!  
+  * Let's Play Math! &amp; Math Day Out!: Customised activities and trails where students explore, compete, and experience the joy of discovery of Mathematics while seeking out strategies to win and reinforcing their skills.
+ 
 
 
 
