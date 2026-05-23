@@ -52,8 +52,8 @@ Students engaging in a hands-on activity as part of the Project H.E.L.M. initiat
 ![Let’s Play Math!](/images/2026_Maths_pic03.jpg)
 Let’s Play Math! Students engaging in interactive recess games, where exploring mathematical concepts becomes an exciting discovery
 
-
-
+![Math Day Out!](/images/2026_Maths_pic04.jpg)
+Math Day Out! Students participating in an interactive learning trail, working together to solve challenges and discover Mathematics in the world around them
 
 
 
