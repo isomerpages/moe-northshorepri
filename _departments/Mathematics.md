@@ -25,8 +25,8 @@ ABL advocates the Concrete-Pictorial-Abstract (CPA) approach in the teaching and
 
 Students become Active Learners as they move through the different stages of learning, whilst strengthening their mastery of Math skills and concepts. ABL also leverages the use of technology to make good teaching better, creating a participatory, connected, and reflective Math classroom to nurture future-ready learners.
 
-
-
+![Moving from Concrete to Abstract: Active Learners engaged in purposeful play](/images/2026_Maths_pic01.jpg)
+Moving from Concrete to Abstract: Active Learners engaged in purposeful play
 
 
 Old--------------------------------------
