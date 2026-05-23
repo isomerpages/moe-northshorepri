@@ -47,22 +47,22 @@ This programme is designed to provide early intervention to students who need ad
 Primary 1 and Primary 2 students demonstrating their creativity by creating and playing games through the activities in Project H.E.L.M.  
 
 ![Students engaging in a hands-on activity](/images/2026_Maths_pic02.jpg)
-Students engaging in a hands-on activity as part of the Project H.E.L.M. initiative to reinforce mathematical concepts at home
+Students engaging in a hands-on activity as part of the Project H.E.L.M. initiative to reinforce mathematical concepts at home.
 
 ![Let’s Play Math!](/images/2026_Maths_pic03.jpg)
-Let’s Play Math! Students engaging in interactive recess games, where exploring mathematical concepts becomes an exciting discovery
+Let’s Play Math! Students engaging in interactive recess games, where exploring mathematical concepts becomes an exciting discovery.
 
 ![Math Day Out!](/images/2026_Maths_pic04.jpg)
-Math Day Out! Students participating in an interactive learning trail, working together to solve challenges and discover Mathematics in the world around them
+Math Day Out! Students participating in an interactive learning trail, working together to solve challenges and discover Mathematics in the world around them.
 
 ![Constructing and Flying Mathematical Kites](/images/2026_Maths_pic05.jpg)
-Constructing and Flying Mathematical Kites - Students applying geometric knowledge and measurements to design and fly their own kites, making Math comes alive
+Constructing and Flying Mathematical Kites - Students applying geometric knowledge and measurements to design and fly their own kites, making Math comes alive.
 
 **Math  UPS<sup>2</sup> Approach to Problem Solving**  
 Problem solving is an essential component in the teaching and learning of Mathematics. Students will be encouraged to use varied strategies to solve problems, to seek alternative solutions to problems and to create, formulate or extend problems.  Students will learn different heuristics skills for problem solving, with an emphasis in model drawing. 
 
 ![](/images/Math_Pic05.jpg)
-Math UPS<sup>2</sup>  is adapted from George Polya’s Four Steps Problem-Solving Approach
+Math UPS<sup>2</sup>  is adapted from George Polya’s Four Steps Problem-Solving Approach.
 
 **Video**  
 
