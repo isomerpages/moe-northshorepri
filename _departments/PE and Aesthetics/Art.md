@@ -3,12 +3,13 @@ title: Art
 permalink: /departments/pe-n-aesthetics/art/
 description: ""
 third_nav_title: PE and Aesthetics
+variant: markdown
 ---
 # **Art**
 
 **Art @ Northshore Primary School**  
   
-Art Education in primary school aims to allow every student to enjoy art, communicate visually and make meaning through connecting with society and culture. It provides a platform for all students to use Art as a medium to learn about oneself and the world.  
+Art Education in primary school aims to allow every student to enjoy art, communicate visually and make meaning through connecting with society and culture. It provides a platform for all students to use Art as a medium to learn about oneself and the world.
 
 <img style="width:50%" src="/images/art_pic00.jpg"> 
   
