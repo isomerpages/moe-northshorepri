@@ -37,7 +37,7 @@ Math@Play programmes are a unique feature of the Mathematics curriculum at North
 
   * Let's Play Math! &amp; Math Day Out!: Customised activities and trails where students explore, compete, and experience the joy of discovery of Mathematics while seeking out strategies to win and reinforcing their skills.
  
-
+**Enhanced Learning Support for Mathematics (Enhanced LSM)**
 
 
 
