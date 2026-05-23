@@ -29,7 +29,7 @@ Students explore different materials, techniques, and processes to discover new 
 
 **Make**    
 By exploring different techniques and experimenting with different materials to create art, students can discover new ways of expressing their ideas and bring their creative vision to life. Students are encouraged to take ownership of their artistic learning and develop a sense of confidence in their ability to create meaningful artwork.
-
+![Exploring different techniques](/images/2026_Art_pic02a.jpg)
 
 **Express**    
 Students can gain a deeper understanding of their artistic intent and develop their ability to communicate their ideas visually. Students are encouraged to be intentional about the message they want to convey through their artwork as well as to consider the best way to showcase their work to their intended audience. 
