@@ -49,9 +49,6 @@ Primary 1 and Primary 2 students demonstrating their creativity by creating and 
 ![Students engaging in a hands-on activity](/images/2026_Maths_pic02.jpg)
 Students engaging in a hands-on activity as part of the Project H.E.L.M. initiative to reinforce mathematical concepts at home.
 
-2:
-![](/images/2026_Maths_pic02.jpg)
-
 ![Let’s Play Math!](/images/2026_Maths_pic03.jpg)
 Let’s Play Math! Students engaging in interactive recess games, where exploring mathematical concepts becomes an exciting discovery.
 
