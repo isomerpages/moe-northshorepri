@@ -59,7 +59,9 @@ Math Day Out! Students participating in an interactive learning trail, working t
 Constructing and Flying Mathematical Kites - Students applying geometric knowledge and measurements to design and fly their own kites, making Math comes alive
 
 **Math  UPS<sup>2</sup> Approach to Problem Solving**  
-Problem solving is an essential component in the teaching and learning of Mathematics. Students will be encouraged to use varied strategies to solve problems, to seek alternative solutions to problems and to create, formulate or extend problems.  Students will learn different heuristics skills for problem solving, with an emphasis in model drawing.  
+Problem solving is an essential component in the teaching and learning of Mathematics. Students will be encouraged to use varied strategies to solve problems, to seek alternative solutions to problems and to create, formulate or extend problems.  Students will learn different heuristics skills for problem solving, with an emphasis in model drawing. 
+
+![](/images/Math_Pic05.jpg)
 
 
 Old--------------------------------------
