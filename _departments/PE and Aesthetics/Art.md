@@ -41,6 +41,6 @@ Students critically evaluate their own artwork and learning process. They also c
 
 **Key Programmes**  
 
-**‘Museum Based Learning in National Gallery Singapore **  
-**(Sportsman, Artist, Musician)**  
-During I am SAM week, students have an opportunity to creatively express themselves beyond the curriculum by exploring various artistic concepts using digital tools. Through interactive games and visual art experiences, students will be able to reinforce and apply what they have learned in the classroom while also expanding their creativity in collaboration with their peers.
+**‘Museum Based Learning in National Gallery Singapore**   
+
+As a core component of the MOE Art syllabus, the Museum Based Learning experience utilises the museum’s role as a custodian of culture and heritage to provide an authentic context for studying art. These experiences helped students understand how artworks tell stories and convey lessons regarding the diverse narratives of Singapore and the region. By participating as both artists and audience members, students developed a deeper appreciation for art and gained insights that will inform and inspire their own creative artmaking in future lessons.
