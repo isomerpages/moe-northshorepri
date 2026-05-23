@@ -9,7 +9,7 @@ variant: markdown
 
 The CCE curriculum, guided by the CCE 2021 Curriculum Frame aims to develop good character, resilience, social-emotional well-being, future readiness, and active citizenship in our students. At Northshore, our school-based CCE programmes align with our school vision and nurture S.M.A.R.T. values in our students.  
 
-**Courage to Explore**  
+ **<p style="text-align: center;">Courage to Explore.</p>**
 
 Through our **Education and Career Guidance (ECG)** efforts, students are equipped with the knowledge and skills to explore their secondary school options and future career pathways. Visit Northshore Primary School ECG page for more details and updates.   
 
@@ -105,15 +105,15 @@ Our P5 students in action, teaching their juniors
 P5 students teaching the P2 students about braille
 
 
-old--------------------------------->
+old---------------------------------&gt;
 
-CCE aims to develop good character, resilience, social-emotional well-being, future readiness and active citizenship in our students.  CCE lessons include CCE Form Teacher Guidance Period (CCE FTGP), CCE Mother Tongue Languages (CCE MTL) and Programme for Active Learning (PAL).  Key student development experiences provide an authentic learning platform that contribute to the holistic development of Northshoreans.  
+CCE&nbsp;aims to develop good character, resilience, social-emotional well-being, future readiness and active citizenship in our students.&nbsp; CCE lessons include CCE Form Teacher Guidance Period (CCE FTGP), CCE Mother Tongue Languages (CCE MTL) and Programme for Active Learning (PAL). &nbsp;Key student development experiences provide an authentic learning platform that contribute to the holistic development of Northshoreans.  
 
 **CCE at Northshore**  
 
 Northshore, CCE is guided by the School Vision and S.M.A.R.T¹ values. (¹S.M.A.R.T acronym: Self-discipline, eMpathy. Adaptability, Respect and Tenacity). The school uses a two-tier “2E” developmental and progressive approach to develop Northshoreans.
 
-The “2E” approach is as follows: 
+The “2E” approach is as follows:&nbsp;
 
 *   Engage (Tier 1): Engage and develop all students holistically through intentional teaching of knowledge, social-emotional skills, values and attitudes.
 *   Empower (Tier 2): Empower students who exhibit greater aptitude and interest to drive ground-up initiatives, lead actively in school programmes and be a positive peer influence.
@@ -124,8 +124,8 @@ The “2E” approach is as follows: 
 **EnJoy - Ending the Year with JOY**  
 An appreciation day with the following objectives:  
 
-1.    To strengthen teacher-student relationships, peer support and relationships.  
-2.    To consolidate the learning experiences and milestones of Northshoreans.
+1.&nbsp;&nbsp; &nbsp;To strengthen teacher-student relationships, peer support and relationships.  
+2.&nbsp;&nbsp; &nbsp;To consolidate the learning experiences and milestones of Northshoreans.
 
 ![](/images/2022-Cce_Pic06.jpg)
 Appreciating our grandparents
