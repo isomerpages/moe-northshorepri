@@ -18,7 +18,7 @@ The art syllabus framework emphasises three significant concepts which are: art 
 In Northshore Primary School, the art curriculum structures cognitive, psychomotor and affective development of our students through the five processes of **Art Inquiry**:
 
 **Connect &amp; Wonder**    
-Students investigate what inspires them, what they are curious about and what they want to express through their artwork. It requires them to connect with their emotions, experiences, and the world around them and wonder about the possibilities. Students are encouraged explore their creativity, experiment with different mediums and techniques so as to develop their own unique artistic voice.  
+Students investigate what inspires them, what they are curious about and what they want to express through their artwork. It requires them to connect with their emotions, experiences, and the world around them and wonder about the possibilities. Students are encouraged explore their creativity, experiment with different mediums and techniques so as to develop their own unique artistic voice.
 
 ![](/images/art_pic01.jpg)
 
