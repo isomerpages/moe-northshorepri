@@ -11,7 +11,7 @@ variant: markdown
 
 **Mathematics Curriculum Framework (Revised – 2021 Syllabus)**
 
-
+![](/images/M1.jpg)
 
 
 
