@@ -41,6 +41,6 @@ Students critically evaluate their own artwork and learning process. They also c
 
 **Key Programmes**  
 
-**‘I am SAM’ week**  
+**‘Museum Based Learning in National Gallery Singapore **  
 **(Sportsman, Artist, Musician)**  
 During I am SAM week, students have an opportunity to creatively express themselves beyond the curriculum by exploring various artistic concepts using digital tools. Through interactive games and visual art experiences, students will be able to reinforce and apply what they have learned in the classroom while also expanding their creativity in collaboration with their peers.
