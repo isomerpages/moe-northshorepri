@@ -40,8 +40,8 @@ Math@Play programmes are a unique feature of the Mathematics curriculum at North
 **Enhanced Learning Support for Mathematics (Enhanced LSM)**  
 This programme is designed to provide early intervention to students who need additional support in acquiring basic numeracy skills from Primary 1 to 4. Supported by trained teachers, the goals of Enhanced LSM are to:
 
-* Equip students with mathematical knowledge, skills, and dispositions so that they can learn mathematics with their peers.
-* Help students achieve an age-appropriate mathematical age.
+* **Equip** students with mathematical knowledge, skills, and dispositions so that they can learn mathematics with their peers.
+* **Help** students achieve an age-appropriate mathematical age.
 
 ![](/images/math%202.jpg)
 Primary 1 and Primary 2 students demonstrating their creativity by creating and playing games through the activities in Project H.E.L.M.  
