@@ -30,7 +30,13 @@ Moving from Concrete to Abstract: Active Learners engaged in purposeful play
 
 **Key Programmes**  
 
-**Math @ Play**
+**Math @ Play**  
+Math@Play programmes are a unique feature of the Mathematics curriculum at Northshore Primary and aim to foster the joy of learning. These programmes gamify Math skills and concepts into games-based activities to stimulate interest and build confidence. Students are provided with opportunities to contextualise their learning in “real-world” (game) settings.
+
+
+
+
+
 
 
 Old--------------------------------------
