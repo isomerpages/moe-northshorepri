@@ -9,7 +9,7 @@ variant: markdown
 **Engaging Explorers to Excel in Math**  
 ~ Turning curiosity into competence through play, discovery, and purposeful learning ~  
 
-Mathematics Curriculum Framework (Revised – 2021 Syllabus)
+**Mathematics Curriculum Framework (Revised – 2021 Syllabus)**
 
 
 
