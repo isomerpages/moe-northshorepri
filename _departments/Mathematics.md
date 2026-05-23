@@ -13,6 +13,8 @@ variant: markdown
 
 ![](/images/M1.jpg)
 
+**Primary Mathematics Syllabus**
+
 
 
 
