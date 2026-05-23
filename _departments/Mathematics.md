@@ -55,8 +55,8 @@ Let’s Play Math! Students engaging in interactive recess games, where explorin
 ![Math Day Out!](/images/2026_Maths_pic04.jpg)
 Math Day Out! Students participating in an interactive learning trail, working together to solve challenges and discover Mathematics in the world around them
 
-
-
+![Constructing and Flying Mathematical Kites](/images/2026_Maths_pic05.jpg)
+Constructing and Flying Mathematical Kites - Students applying geometric knowledge and measurements to design and fly their own kites, making Math comes alive
 
 
 
