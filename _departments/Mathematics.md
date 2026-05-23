@@ -37,7 +37,9 @@ Math@Play programmes are a unique feature of the Mathematics curriculum at North
 
   * Let's Play Math! &amp; Math Day Out!: Customised activities and trails where students explore, compete, and experience the joy of discovery of Mathematics while seeking out strategies to win and reinforcing their skills.
  
-**Enhanced Learning Support for Mathematics (Enhanced LSM)**
+**Enhanced Learning Support for Mathematics (Enhanced LSM)**  
+This programme is designed to provide early intervention to students who need additional support in acquiring basic numeracy skills from Primary 1 to 4. Supported by trained teachers, the goals of Enhanced LSM are to:
+
 
 
 
