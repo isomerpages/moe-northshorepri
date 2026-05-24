@@ -7,6 +7,7 @@ variant: markdown
 # **Science**
 
 **1. Revised Science Curriculum**   
+![Revised Primary Science Curriculum](/images/2026_Science_pic01.jpg)
 
 
 Old-----------------------------------------------------------------
