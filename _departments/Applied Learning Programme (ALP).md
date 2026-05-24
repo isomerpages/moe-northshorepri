@@ -23,7 +23,7 @@ A tiered approach ensures every student experiences a spark of excitement while 
 
 Table 1
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 869px"><colgroup><col style="width: 58px"><col style="width: 127px"><col style="width: 463px"><col style="width: 221px"></colgroup>
+<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 810px"><colgroup><col style="width: 58px"><col style="width: 126px"><col style="width: 461px"><col style="width: 165px"></colgroup>
 <thead>
 <tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">       <br>Tier<br>       </th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">       <br>Learning Phase   </th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">       <br>Key Objectives &amp; Missions   </th>
 <th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">      <br><span style="font-weight:bold">Curriculum Integration </span>  </th></tr>
