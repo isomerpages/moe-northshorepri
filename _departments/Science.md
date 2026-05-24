@@ -20,6 +20,9 @@ Please access the 2023 primary science syllabus [here.](https://www.moe.gov.sg/a
 
 * **Activity-based and Collaborative Learning using SPARKLE Kits**
 
+![Activity-based and Collaborative Learning using SPARKLE Kits](/images/2026_Science_pic06.jpg)
+
+* **Department Strategies for Scientific Discourse in Answering Questions**
 
 
 
