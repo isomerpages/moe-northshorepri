@@ -18,5 +18,13 @@ Our Design Process, The Game Plan, has been adapted from the Design Thinking Fra
 Through imaginative learning experiences, we aim to develop our students’ critical, adaptive and inventive thinking skills through student-centred pedagogy and STEM-related dispositions - GRIT (Graciousness, Responsibility, Innovation and Tenacity) and foster communication and collaboration skills while working in teams, to eventually raise them as confident and creative imagineers.
 ![](/images/ALP_Pic03.jpg)  
 
+**The ExFactor: A Two-Tier Approach**  
+A tiered approach ensures every student experiences a spark of excitement while providing a dedicated platform for talent to shine.
+
+Table 1
+
+
+
+
 **Video**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GvAJnc2uMUQ?wmode=transparent&amp;playlist=GvAJnc2uMUQ&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
