@@ -24,7 +24,7 @@ A tiered approach ensures every student experiences a spark of excitement while 
 Table 1
 
 **Interdisciplinary Project Work (IPW)**  
-Primary 4 students embark on a 3-term interdisciplinary journey - “Care Chat: AI-Enhanced Empathy in Game Design for Active Ageing.” This project bridges the gap between technology and compassion, challenging students to apply skills from Mathematics, Science, English, Art, Physical Education, and FTGP to solve a pressing national challenge: supporting Singapore’s aging population.
+Primary 4 students embark on a 3-term interdisciplinary journey - **“Care Chat: AI-Enhanced Empathy in Game Design for Active Ageing.”** This project bridges the gap between technology and compassion, challenging students to apply skills from **Mathematics, Science, English, Art, Physical Education, and FTGP** to solve a pressing national challenge: supporting Singapore’s aging population.
 
 Table 2
 
