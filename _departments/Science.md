@@ -13,6 +13,8 @@ variant: markdown
 ![Development of core ideas](/images/2026_Science_pic04.jpg)  
 ![Discussion on Social and Ethical Issue](/images/2026_Science_pic05.jpg)
 
+**I. Teaching and Learning in Northshore** 
+
 Old-----------------------------------------------------------------
 
 **I. Revised Science Curriculum Framework**   
