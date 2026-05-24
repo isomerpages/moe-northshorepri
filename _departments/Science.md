@@ -50,6 +50,13 @@ Our Primary 4 students embark on an exciting annual STEM experience, exploring t
 
 ![Differentiated Programmes for Northshoreans](/images/2026_Science_pic10.jpg)
 
+**Raffles Science Olympiad**  
+The Raffles Science Olympiad is one of our school’s key Science enrichment programmes, organised in collaboration with Raffles Institution, to extend selected Primary 5 students’ learning beyond the classroom. Through this programme, selected students participate in hands-on challenges and investigative tasks across life sciences, physical sciences, and scientific inquiry, allowing them to deepen their understanding while developing critical thinking, problem-solving, and collaboration skills. The Olympiad also builds confidence and resilience as students work in teams and apply their knowledge in new contexts, supporting our goal of nurturing curious, capable, and future-ready learners.
+
+**Primary 4 to Primary 6 Science Remediation Programme**  
+Our school offers a structured remedial programme to support selected students in closing learning gaps. Through small-group instruction, teachers identify specific needs using assessments and provide targeted support to strengthen key concepts. Lessons include hands-on activities, guided practice, and timely feedback to build confidence and understanding.
+
+
 Old-----------------------------------------------------------------
 
 **I. Revised Science Curriculum Framework**   
