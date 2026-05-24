@@ -34,6 +34,13 @@ Table
 ![Science Explorer Activities](/images/2026_Science_pic08.jpg)
 
 * **Primary 3 Grow A Seed Programme by NParks**  
+The “Every Child a Seed” programme is a yearly highlight for our Primary 3 students at Northshore Primary. Each student receives a plant starter kit from NParks and begins their own planting journey. Through this hands-on experience, students explore the plant life cycle, observing growth from seed to sprout. The programme nurtures responsibility and curiosity, while connecting classroom learning to real-world experiences and fostering a deeper appreciation for nature.
+
+
+
+
+
+
 
 
 Old-----------------------------------------------------------------
