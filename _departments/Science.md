@@ -23,10 +23,9 @@ Please access the 2023 primary science syllabus [here.](https://www.moe.gov.sg/a
 ![Activity-based and Collaborative Learning using SPARKLE Kits](/images/2026_Science_pic06.jpg)
 
 * **Department Strategies for Scientific Discourse in Answering Questions**
-
+![Department Strategies for Scientific Discourse in Answering Questions](/images/2026_Science_pic07.jpg)
 
 **(II) Experiential Learning for Making Connections to Real Life Application**   
-
 * **Science Explorer Activities**
 
 
