@@ -26,8 +26,8 @@ Please access the 2023 primary science syllabus [here.](https://www.moe.gov.sg/a
 ![Department Strategies for Scientific Discourse in Answering Questions](/images/2026_Science_pic07.jpg)
 
 **(II) Experiential Learning for Making Connections to Real Life Application**   
-* **Science Explorer Activities**
-
+* **Science Explorer Activities**  
+Science Explorer at Northshore Primary School  aims to provide students with the experiences to extend their learning of Science. These experiences include activities that allow them to connect the knowledge with real world applications and for them to show a deeper appreciation of science based on the contributions of scientists past and present.
 
 
 
