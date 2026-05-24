@@ -33,6 +33,7 @@ Table
 
 ![Science Explorer Activities](/images/2026_Science_pic08.jpg)
 
+* **Primary 3 Grow A Seed Programme by NParks**  
 
 
 Old-----------------------------------------------------------------
