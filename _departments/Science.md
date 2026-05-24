@@ -36,8 +36,10 @@ Table
 * **Primary 3 Grow A Seed Programme by NParks**  
 The “Every Child a Seed” programme is a yearly highlight for our Primary 3 students at Northshore Primary. Each student receives a plant starter kit from NParks and begins their own planting journey. Through this hands-on experience, students explore the plant life cycle, observing growth from seed to sprout. The programme nurtures responsibility and curiosity, while connecting classroom learning to real-world experiences and fostering a deeper appreciation for nature.
 
+* **P3 Grow a Mealworm Beetle**  
+The Grow a Mealworm Beetle program is another yearly   highlight for our Primary 3 students at Northshore Primary. Each year, students have the chance to observe the life cycle of mealworm beetles firsthand, as they nurture and monitor the beetles through each stage of development. This hands-on learning experience, closely aligned with the Life Cycles of Animals topic, sparks curiosity and deepens understanding by allowing students to see concepts from their textbooks come alive. By connecting classroom science with real-world exploration, the program encourages a love for learning and inspires students to engage actively with scientific inquiry.
 
-
+* **P3 Grow a Mealworm Beetle**
 
 
 
