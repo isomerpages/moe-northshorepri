@@ -21,8 +21,6 @@ Through imaginative learning experiences, we aim to develop our students’ crit
 **The ExFactor: A Two-Tier Approach**  
 A tiered approach ensures every student experiences a spark of excitement while providing a dedicated platform for talent to shine.
 
-Table 1.5
-
 <table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 792px"><colgroup><col style="width: 58px"><col style="width: 126px"><col style="width: 443px"><col style="width: 165px"></colgroup>
 <thead>
 <tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">       <br>Tier<br>       </th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">       <br>Learning Phase   </th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">       <br>Key Objectives &amp; Missions   </th>
@@ -36,9 +34,6 @@ Table 1.5
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br><br><br>Tier 2   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br><br><br>Explore &amp; Excel   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>   <span style="font-weight:bold">• Advanced Engineering and Coding:</span> Deep-dive into game               design and complex STEM projects   <br><br>   <span style="font-weight:bold">• Competition</span>: Representing the school in external STEM and             Media challenges<br>       </td>
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br><br><br>Media &amp; STEM CCA   </td></tr>
 </tbody></table>
-
-
-end table 1
 
 **Interdisciplinary Project Work (IPW)**  
 Primary 4 students embark on a 3-term interdisciplinary journey - **“Care Chat: AI-Enhanced Empathy in Game Design for Active Ageing.”** This project bridges the gap between technology and compassion, challenging students to apply skills from **Mathematics, Science, English, Art, Physical Education, and FTGP** to solve a pressing national challenge: supporting Singapore’s aging population.
