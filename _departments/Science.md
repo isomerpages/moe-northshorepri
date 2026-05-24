@@ -42,14 +42,13 @@ The Grow a Mealworm Beetle program is another yearly   highlight for our Primary
 * **P4 Fun with Matter**  
 Our Primary 4 students embark on an exciting annual STEM experience, exploring the states of matter through engaging, hands-on activities. Through the use of dry ice and interactive demonstrations, they investigate how solids, liquids, and gases differ in shape,   and volume. Students observe fascinating phase changes through practical experiments and have a good time making sl  ime. They even get to take their slime home!  
 
-
 * **Differentiated Programmes for Northshoreans**   
 **Primary 4 and Primary 5 Excellence in 2000 (E2K) Science**
 
   Selected P4 and P5 students are given opportunities to engage in scientific 
   investigations involving advanced science concepts. The E2K sessions enable   students to engage in scientific inquiry that helps them to develop the habits,     attitudes and dispositions scientists possess as well as to gain 21st century       competencies such as critical and inventive thinking and effective                         communication skills. The different experiments expose- them to various             science apparatus. Working in teams allows students to overcome challenges     when they encounter problems in their experiments. 
 
-
+![Differentiated Programmes for Northshoreans](/images/2026_Science_pic10.jpg)
 
 Old-----------------------------------------------------------------
 
