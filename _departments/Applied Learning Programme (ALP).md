@@ -38,8 +38,6 @@ A tiered approach ensures every student experiences a spark of excitement while 
 **Interdisciplinary Project Work (IPW)**  
 Primary 4 students embark on a 3-term interdisciplinary journey - **“Care Chat: AI-Enhanced Empathy in Game Design for Active Ageing.”** This project bridges the gap between technology and compassion, challenging students to apply skills from **Mathematics, Science, English, Art, Physical Education, and FTGP** to solve a pressing national challenge: supporting Singapore’s aging population.
 
-Table 2
-
 <table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 786px"><colgroup><col style="width: 93px"><col style="width: 186px"><col style="width: 507px"></colgroup>
 <thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Game Plan<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br> <br>   <br>Design Action   </th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br> <br>   <br>Curriculum Integration and STEM Skills   </th></tr></thead>
 <tbody>
@@ -52,8 +50,6 @@ Table 2
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br>Level Up&nbsp;&nbsp;&nbsp;</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br> <br>   <br>GaTE – Games and Toys Exhibition<br>   <br>    </td>
 <td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br> <br>   <br><span style="font-weight:bold">PE</span> (movement mechanics) to plan game functionality and presenting the <span style="font-weight:bold">Iterative</span> <span style="font-weight:bold">Design</span> journey and final prototype to an audience (peers)<br>   <br>    </td></tr>
 </tbody></table>
-
-End table2
 
 **The imaginEErs Mindset**  
 Being an imaginEEr is not just about winning; it is about the process of improvement. By testing, failing, and refining their designs, students develop an “imaginEErs Mindset", the belief that they can improve the world around them through hands-on innovation and tenacity.
