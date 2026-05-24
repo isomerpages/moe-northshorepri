@@ -14,7 +14,7 @@ variant: markdown
 ![Discussion on Social and Ethical Issue](/images/2026_Science_pic05.jpg)
 
 **I. Teaching and Learning in Northshore**   
-Our Science programmes are structured to provide opportunities for our students to explore, investigate and discover knowledge. We want our students to develop attitudes which encourage them to be curious, persevering and concerned about their surroundings. We seek to fuel this spirit of inquiry and ultimately want our students to enjoy Science and value the discipline as an important tool in helping them understand and relate to their natural and physical world
+Our Science programmes are structured to provide opportunities for our students to explore, investigate and discover knowledge. We want our students to develop attitudes which encourage them to be curious, persevering and concerned about their surroundings. We seek to fuel this spirit of inquiry and ultimately want our students to enjoy Science and value the discipline as an important tool in helping them understand and relate to their natural and physical world.
 
 Please access the 2023 primary science syllabus [here.](https://www.moe.gov.sg/api/media/ba3562d3-5b31-4459-8693-45cde7b97273/Primary-Science-Syllabus-2023.pdf)
 
