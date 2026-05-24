@@ -8,7 +8,10 @@ variant: markdown
 
 **1. Revised Science Curriculum**   
 ![Revised Primary Science Curriculum](/images/2026_Science_pic01.jpg)
-
+![Vision for Science Education in NSPS](/images/2026_Science_pic02.jpg)
+![Vision for Science Education Pic02](/images/2026_Science_pic03.jpg)
+![Development of core ideas](/images/2026_Science_pic04.jpg)
+![Discussion on Social and Ethical Issue](/images/2026_Science_pic05.jpg)
 
 Old-----------------------------------------------------------------
 
