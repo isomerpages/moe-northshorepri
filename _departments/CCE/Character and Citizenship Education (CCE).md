@@ -7,6 +7,8 @@ variant: markdown
 ---
 # **Character and Citizenship Education (CCE)**
 
+ <p style="text-align: center;">Courage to Explore</p>
+
 The CCE curriculum, guided by the CCE 2021 Curriculum Frame aims to develop good character, resilience, social-emotional well-being, future readiness, and active citizenship in our students. At Northshore, our school-based CCE programmes align with our school vision and nurture S.M.A.R.T. values in our students.  
 
  **<p style="text-align: center;">Courage to Explore</p>**
