@@ -72,7 +72,7 @@ Exploring cultures throughsthe arts
 ![Primary 3 Racial Harmony Day experience in Social Studies](/images/2026_CCE_Pic17.jpg)
 Primary 3 Racial Harmony Day experience in Social Studies
 
- **<p style="text-align: center;">Heart To Serve</p>**
+ <p style="text-align: center; font-weight: bold;">Heart To Serve</p> 
 “Be a G.E.M.” is a signature Northshore programme that nurtures a heart to serve in every student—encouraging them to Be Grateful, Show Empathy, and Make a Difference. This is brought to life through two key school-wide experiences.  
 * Students engage in customized Values-in-Action projects at each level, culminating on Children’s Day. By celebrating Children’s Day as a day of giving, students develop a strong sense of empathy.
 
