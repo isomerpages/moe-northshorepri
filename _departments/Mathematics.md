@@ -64,7 +64,7 @@ Problem solving is an essential component in the teaching and learning of Mathem
 ![](/images/Math_Pic05.jpg)
 Math UPS<sup>2</sup>  is adapted from George Polya’s Four Steps Problem-Solving Approach.
 
-**Video** 
+**Video1** 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/elNip6h9LUU?wmode=transparent&amp;playlist=elNip6h9LUU&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
