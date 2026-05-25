@@ -26,7 +26,7 @@ Learning about box breathing
 ![Lower primary classrooms have a rainbow cove for emotion regulation](/images/2026_CCE_Pic04.jpg)
 Lower primary classrooms have a rainbow cove for emotion regulation
 
- **<p style="text-align: center;">Passion to Learn</p>** 
+<p style="text-align: center; font-weight: bold;">Passion to Learn</p> 
 Passion to Learn is expressed through hands-on, experiential learning during National Education commemorative days. Cohort activities are thoughtfully designed to ensure learning is active and memorable for students to develop strong citizenship disposition.
 
 **Total Defence Day:**  
