@@ -55,7 +55,3 @@ Being an imaginEEr is not just about winning; it is about the process of improve
 
 **Video**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r7zqfUXeiz8?wmode=transparent&amp;playlist=r7zqfUXeiz8&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-
-**Video-old**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GvAJnc2uMUQ?wmode=transparent&amp;playlist=GvAJnc2uMUQ&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
