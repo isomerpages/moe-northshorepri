@@ -16,9 +16,9 @@ variant: markdown
 **Primary Mathematics Syllabus**  
 The Primary Mathematics Syllabus aims to enable all students to:  
 
-* Acquire mathematical concepts and skills for everyday use and for continuous learning in Mathematics.  
-* Develop thinking, reasoning, communication, application and meta-cognitive skills through a mathematical approach to problem-solving.  
-* Build confidence and foster interest in Mathematics.
+* **Acquire** mathematical concepts and skills for everyday use and for continuous learning in Mathematics.  
+* **Develop** thinking, reasoning, communication, application and meta-cognitive skills through a mathematical approach to problem-solving.  
+* **Build** confidence and foster interest in Mathematics.
 
 **Engaging Pedagogy – Activity-Based Learning (ABL)**  
 ABL advocates the Concrete-Pictorial-Abstract (CPA) approach in the teaching and learning of Math. It creates learning opportunities using teaching aids like manipulatives to engage students in constructing and co-constructing conceptual understanding.  
