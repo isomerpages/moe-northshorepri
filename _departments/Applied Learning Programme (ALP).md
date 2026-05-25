@@ -54,4 +54,8 @@ Primary 4 students embark on a 3-term interdisciplinary journey - **“Care Chat
 Being an imaginEEr is not just about winning; it is about the process of improvement. By testing, failing, and refining their designs, students develop an “imaginEErs Mindset", -- the belief that they can improve the world around them through hands-on innovation and tenacity.
 
 **Video**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r7zqfUXeiz8?wmode=transparent&amp;playlist=r7zqfUXeiz8&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
+**Video-old**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GvAJnc2uMUQ?wmode=transparent&amp;playlist=GvAJnc2uMUQ&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
