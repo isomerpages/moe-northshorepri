@@ -23,7 +23,7 @@ The Primary Mathematics Syllabus aims to enable all students to:
 **Engaging Pedagogy – Activity-Based Learning (ABL)**  
 ABL advocates the **Concrete-Pictorial-Abstract (CPA)** approach in the teaching and learning of Math. It creates learning opportunities using teaching aids like manipulatives to engage students in constructing and co-constructing conceptual understanding.  
 
-Students become Active Learners as they move through the different stages of learning, whilst strengthening their mastery of Math skills and concepts. ABL also leverages the use of technology to make good teaching better, creating a participatory, connected, and reflective Math classroom to nurture future-ready learners.
+Students become **Active Learners** as they move through the different stages of learning, whilst strengthening their mastery of Math skills and concepts. ABL also leverages the use of technology to make good teaching better, creating a participatory, connected, and reflective Math classroom to nurture future-ready learners.
 
 ![Moving from Concrete to Abstract: Active Learners engaged in purposeful play](/images/2026_Maths_pic01.jpg)
 Moving from Concrete to Abstract: Active Learners engaged in purposeful play
