@@ -42,3 +42,10 @@ Our student leaders at Northshore Primary School perform various duties that hel
 ![](/images/SLS_Pic02_1.jpg)
 
 As ambassadors for Northshore Primary School, student leaders are expected to model our school values. They set a positive example for others, inspiring their peers to embrace leadership opportunities and contribute to a strong, supportive school community.
+
+**ActiveX Playdate with Senior Citizens**  
+Northshore Primary School prefects recently took part in an ActiveX Playdate, where they had the opportunity to interact with participants as seniors from Allkin Active Ageing Centre in a meaningful and engaging setting. In collaboration with ActiveSG, the prefects organised a series of fun and inclusive games that encouraged bonding across generations.
+
+The students also worked together with the seniors on a pennant drawing activity, fostering creativity and shared experiences. Through laughter, conversations, and teamwork, the session created a warm and vibrant atmosphere for all participants.
+
+The ActiveX Playdate provided a valuable platform for our prefects to demonstrate empathy, leadership, and respect, while building connections with the community beyond the school.
