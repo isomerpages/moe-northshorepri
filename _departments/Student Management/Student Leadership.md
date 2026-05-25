@@ -48,4 +48,6 @@ Northshore Primary School prefects recently took part in an ActiveX Playdate, wh
 
 The students also worked together with the seniors on a pennant drawing activity, fostering creativity and shared experiences. Through laughter, conversations, and teamwork, the session created a warm and vibrant atmosphere for all participants.
 
-The ActiveX Playdate provided a valuable platform for our prefects to demonstrate empathy, leadership, and respect, while building connections with the community beyond the school.
+The ActiveX Playdate provided a valuable platform for our prefects to demonstrate empathy, leadership, and respect, while building connections with the community beyond the school.  
+
+![ActiveX Playdate with Senior Citizens](/images/2026_SLS_Pic05.jpg)
