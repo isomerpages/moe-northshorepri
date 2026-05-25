@@ -7,7 +7,6 @@ variant: markdown
 ---
 # **Character and Citizenship Education (CCE)**
 
- <p style="text-align: center;">Courage to Explore</p>
  
  <p style="text-align: center; font-weight: bold;">Courage to Explore</p>
 
