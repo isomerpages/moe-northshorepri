@@ -23,8 +23,13 @@ In the music department, EdTech integration is driven by the EdTech Masterplan 2
 
 ![Edtech Music Integration](/images/2026_Music_pic02.jpg)
 
+### Key Programme
 
+**&nbsp;1)**  
 
+<img style="width:40%" align="left" src="/images/music_pic00.jpg">  
+
+<br clear="left">  
 
 
 
