@@ -46,7 +46,9 @@ In ‘I am SAM’ week (Music), students get a chance to express themselves free
 ![Expressing creativity through during ‘I Am SAM’ Week](/images/2026_Music_pic04.jpg)
 
 **3) &nbsp;Music Assembly**   
-Students are exposed to different music forms and music instruments from various cultures once per semester. Through music, songs, instruments, costumes and props, students can get a better understanding of the music style and culture.
+Students are exposed to different music forms and music instruments from various cultures once per semester. Through music, songs, instruments, costumes and props, students can get a better understanding of the music styles and cultures.
+
+
 
 
 
