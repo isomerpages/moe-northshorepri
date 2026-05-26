@@ -15,7 +15,7 @@ a) Develop awareness and appreciation of music in local and global cultures
 b) Develop ability for creative expression and communication through music  
 c) Provide the basis to develop an informed and life-long involvement in music
 
-
+![Develop ability for creative expression and communication through music](/images/2026_Music_pic01.jpg)
 
 
 old---------------------------------------------------
