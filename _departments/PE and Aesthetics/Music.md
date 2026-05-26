@@ -34,6 +34,9 @@ In the music department, EdTech integration is driven by the EdTech Masterplan 2
 In Semester 2, students engage in the study of the world’s art and musical cultures. Bringing world arts into the classroom is a way to foster interest in both world musical and art cultures in children. Students will learn Music and Visual Arts from 6 different countries in the 6 years of Primary School education.
 For Music, students will experience and learn songs, movements and instruments from the different parts of the world. This programme establishes a comprehensive musical understanding for students living in the global era.
 
+<img style="width:70%" align="left" src="/images/music_pic01.jpg">     
+
+<br clear="left">
 
 
 
