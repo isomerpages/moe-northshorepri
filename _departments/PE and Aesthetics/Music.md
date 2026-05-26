@@ -56,7 +56,8 @@ Music and movement during celebratory events such as  National Day, Teacher’s 
 A platform for students to showcase their unique talents and skills,it is an opportunity for students to express themselves creatively and gain recognition for their abilities. This event also helps build confidence, improve public speaking skills, and foster a sense of community among students.
 ![Talents@Northshore](/images/2026_Music_pic07.jpg)
 
-
+**6) &nbsp;Our Musical Performances**  
+Students engage in a progressive learning journey where mastering fundamental musical concepts and skills serves as the foundation for their own original creations. These technical milestones culminate in diverse performance opportunities, ranging from informal classroom showcases to large-scale level presentations. This process empowers students to translate their classroom learning into tangible musical artifacts, celebrating their growth through both digital and live expressions.
 
 
 old---------------------------------------------------
