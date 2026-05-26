@@ -58,7 +58,7 @@ A platform for students to showcase their unique talents and skills,it is an opp
 
 **6) &nbsp;Our Musical Performances**  
 Students engage in a progressive learning journey where mastering fundamental musical concepts and skills serves as the foundation for their own original creations. These technical milestones culminate in diverse performance opportunities, ranging from informal classroom showcases to large-scale level presentations. This process empowers students to translate their classroom learning into tangible musical artifacts, celebrating their growth through both digital and live expressions.
-
+![Our Music Performances](/images/2026_Music_pic08.jpg)
 
 old---------------------------------------------------
 
