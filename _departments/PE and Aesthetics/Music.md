@@ -52,7 +52,7 @@ Students are exposed to different music forms and music instruments from various
 Music and movement during celebratory events such as  National Day, Teacher’s Day, Children’s Day encourage active participation, community integration and expression of feelings.
 ![Mass Music and Movement](/images/2026_Music_pic06.jpg)
 
-
+**5) &nbsp;Talents@Northshore**   
 
 
 old---------------------------------------------------
