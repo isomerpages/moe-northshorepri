@@ -38,6 +38,7 @@ For Music, students will experience and learn songs, movements and instruments f
 
 <br clear="left">
 
+![-Discovering global cultures through authentic cultural instruments](/images/2026_Music_pic03.jpg)
 
 
 old---------------------------------------------------
