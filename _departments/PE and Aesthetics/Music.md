@@ -49,7 +49,12 @@ Students are exposed to different music forms and music instruments from various
 ![Music Assembly](/images/2026_Music_pic05.jpg)
 
 **4) &nbsp;Mass Music and Movement**   
-Music and movement during celebratory events like National Day, Teacher’s Day, Children’s Day encourage active participation, community integration and expression of feelings.
+Music and movement during celebratory events such as  National Day, Teacher’s Day, Children’s Day encourage active participation, community integration and expression of feelings.
+
+
+
+
+
 
 old---------------------------------------------------
 
