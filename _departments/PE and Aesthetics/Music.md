@@ -17,6 +17,10 @@ c) Provide the basis to develop an informed and life-long involvement in music
 
 ![Develop ability for creative expression and communication through music](/images/2026_Music_pic01.jpg)
 
+**Edtech Integration**
+
+In the music department, EdTech integration is driven by the EdTech Masterplan 2030, focusing on developing future-ready, digitally literate learners. This manifests through a student-centreed approach that blends traditional performance with digital exploration. This digital scaffolding in music lessons not only deepens students’ understanding of musical concepts but also empowers them to take ownership of their learning journeys through personalised, tech-enabled feedback loops.
+
 
 old---------------------------------------------------
 
