@@ -67,7 +67,7 @@ Experiencing traditional games that bond
 Reimagining the future of public housing for social mixing
 
 ![Exploring cultures throughsthe arts](/images/2026_CCE_Pic16.jpg)
-Exploring cultures throughsthe arts
+Exploring cultures through the arts
 
 ![Primary 3 Racial Harmony Day experience in Social Studies](/images/2026_CCE_Pic17.jpg)
 Primary 3 Racial Harmony Day experience in Social Studies
