@@ -54,8 +54,7 @@ Music and movement during celebratory events such as  National Day, Teacher’s 
 
 **5) &nbsp;Talents@Northshore**   
 A platform for students to showcase their unique talents and skills,it is an opportunity for students to express themselves creatively and gain recognition for their abilities. This event also helps build confidence, improve public speaking skills, and foster a sense of community among students.
-
-
+![Talents@Northshore](/images/2026_Music_pic07.jpg)
 
 
 
