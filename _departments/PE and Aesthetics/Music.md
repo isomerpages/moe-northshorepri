@@ -43,7 +43,7 @@ For Music, students will experience and learn songs, movements and instruments f
 **2) &nbsp;‘I am SAM’ week (Sportsman, Artist, Musician)**  
 In ‘I am SAM’ week (Music), students get a chance to express themselves freely beyond the curriculum through exploration of musical concepts using of percussion instruments. Students get to practise and reinforce what they have learnt in the classroom and also extend their creativity with their friends during exploration.
 
-
+![Expressing creativity through during ‘I Am SAM’ Week](/images/2026_Music_pic04.jpg)
 
 
 
