@@ -19,7 +19,7 @@ Through imaginative learning experiences, we aim to develop our students’ crit
 ![](/images/ALP_Pic03.jpg)  
 
 **The ExFactor: A Two-Tier Approach**  
-A tiered approach ensures every student experiences a spark of excitement while providing a dedicated platform for talent to shine.
+A **tiered approach** ensures every student experiences a spark of excitement while providing a dedicated platform for talent to shine.
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 792px"><colgroup><col style="width: 58px"><col style="width: 126px"><col style="width: 443px"><col style="width: 165px"></colgroup>
 <thead>
