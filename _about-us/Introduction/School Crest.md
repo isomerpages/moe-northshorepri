@@ -1,12 +1,13 @@
 ---
 title: School Crest
-permalink: /about-us/introduction/school-crest
+permalink: /about-us/introduction/school-crest/
 description: ""
 third_nav_title: Introduction
+variant: markdown
 ---
 # **School Crest**
 
-![](/images/nsps.jpg)
+![school crest](/images/nsps.jpg)
 
 Our school colours are Blue and Orange. Blue signifies stability, wisdom and confidence while Orange signifies creativity, optimism and energy.   
 
