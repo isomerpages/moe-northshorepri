@@ -11,6 +11,7 @@ variant: markdown
 | Mrs Christine Lam 	| Principal 	| [christine_lee@schools.gov.sg](mailto:christine_lee@schools.gov.sg) 	|
 | Mdm Catherine Ong 	| Vice Principal (Admin) 	| [ong_yin_peng@schools.gov.sg](mailto:ong_yin_peng@schools.gov.sg) 	|
 | Mdm Gan Ser Min 	| Vice Principal (Academic) 	| [gan_ser_min@schools.gov.sg](mailto:gan_ser_min@schools.gov.sg) 	|
+| Ms Tan Siew Khim 	| Vice Principal (Academic) 	| [tan_siew_khim@schools.gov.sg](mailto:tan_siew_khim@schools.gov.sg) 	|
 | Mdm Syahira 	| Special Educational Needs Officer 	| [nurul_syahira_suhaimi@schools.gov.sg](mailto:nurul_syahira_suhaimi@schools.gov.sg) 	|
 | Ms Faiqah 	| Special Educational Needs Officer 	| [faiqah_irwan_shah_abdullah@schools.gov.sg](mailto:Faiqah_Irwan_Shah_Abdullah@schools.gov.sg) 	|
 | Ms Yvonne Chua 	| School Counsellor 	| [chua_shih_teng_yvonne@schools.gov.sg](mailto:chua_shih_teng_yvonne@schools.gov.sg) 	|
