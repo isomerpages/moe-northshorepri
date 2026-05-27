@@ -21,5 +21,5 @@ variant: markdown
 | Mr Derrick Ng 	| ICT Manager 	| [ng_choon_hong@schools.gov.sg](mailto:ng_choon_hong@schools.gov.sg) 	|
 | Mrs Kanaesan Yasothai 	| Corporate Support Officer 	| [kanaesan_yasothai@schools.gov.sg](mailto:kanaesan_yasothai@schools.gov.sg) 	|
 | Mdm Irene Wong 	| Corporate Support Officer 	| [wong_siew_hong@schools.gov.sg](mailto:wong_siew_hong_subaat@schools.gov.sg) 	|
-| Mdm Siti Suhaila 	| Corporate Support Officer 	| [Siti_Suhaila_Senin@schools.gov.sg](mailto:Siti_Suhaila_Senin@schools.gov.sg) 	|
+| Mdm Amiza 	| Receptionist 	| [amiza_aman@moe.edu.sg](mailto:amiza_aman@moe.edu.sg) 	|
 | Mdm Nuur Audadi 	| Receptionist | [nuur_audadi_yusof@moe.edu.sg](mailto:nuur_audadi_yusof@moe.edu.sg) 	|
