@@ -23,4 +23,4 @@ We had a virtual lesson on the ‘Elephant Clock’ from Kulangsu Gallery of For
 
 <br clear="left">
 	
-![](/images/3%20May%202022%203M%20STEM%20workshop.jpg)
+![3M STEM workshop](/images/3%20May%202022%203M%20STEM%20workshop.jpg)
