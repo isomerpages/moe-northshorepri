@@ -6,7 +6,7 @@ variant: markdown
 ---
 # **Science**
 
-**1. Revised Science Curriculum**   
+**1. Revised Primary Science Curriculum**   
 ![Revised Primary Science Curriculum](/images/2026_Science_pic01.jpg)  
 ![Vision for Science Education in NSPS](/images/2026_Science_pic02.jpg)  
 ![Vision for Science Education Pic02](/images/2026_Science_pic03.jpg)  
