@@ -11,7 +11,7 @@ variant: markdown
 
 **Mathematics Curriculum Framework (Revised – 2021 Syllabus)**
 
-![](/images/M1.jpg)
+![Mathematics Curriculum Framework](/images/M1.jpg)
 
 **Primary Mathematics Syllabus**  
 The Primary Mathematics Syllabus aims to enable all students to:  
