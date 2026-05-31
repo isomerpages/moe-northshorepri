@@ -12,7 +12,7 @@ The Northshore Primary Learning for Life Programme (LLP) is titled OCE@N (Outdoo
 
 **The 3 "I" Tiered Approach**  
 
-![](/images/The_3_I_Tierred_Approach.jpg)
+![The 3 "I" Tiered Approach](/images/The_3_I_Tierred_Approach.jpg)
 
 LLP Focus 
 
