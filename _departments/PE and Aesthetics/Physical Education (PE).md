@@ -53,5 +53,5 @@ Students participated enthusiastically in both competitive and carnival-style ga
 
 The Inter-Class Games and Games Carnival provided a meaningful platform for students to strengthen friendships, build teamwork, and embody values such as respect and perseverance.
 
-![](/images/2026_PE_Pic06.jpg)
-![](/images/2026_PE_Pic07.jpg)
+![Inter-Class Games & Games Carnival (P3–P6) Part-1](/images/2026_PE_Pic06.jpg)
+![Inter-Class Games & Games Carnival (P3–P6) Part-2](/images/2026_PE_Pic07.jpg)
