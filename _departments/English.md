@@ -15,10 +15,9 @@ STELLAR is an interactive literacy programme that fosters confidence in learning
 
 **(i) Stellar Hands-on Activities**  
 To promote the joy of learning, hands-on activities such as making noodles, flipping roti pratas, replicating Van Gogh’s artwork, making ice-cream, constructing 3D dinosaurs are conducted in-class. Students get to activate their creativity and thinking skills as they put what they have read into practice.  
-
-![](/images/EL_Pic01.jpg)
-![](/images/EL_Pic01a.jpg)
-![](/images/EL_Pic01b.jpg)
+![Stellar Hands-on Activity 1](/images/EL_Pic01.jpg)
+![Stellar Hands-on Activity 2](/images/EL_Pic01a.jpg)
+![Stellar Hands-on Activity 3](/images/EL_Pic01b.jpg)
 
 **(ii) Read On Board**  
 For Silent Reading, students are required to read an English storybook, every odd week, from the time they arrive at their classrooms to 7.30am. He/She can read any book of his/her choice during this time. Students can also read a variety of stories from a range of class library books available. We hope to cultivate a routine of self-directed and independent reading, as well as inculcate a love for reading.
