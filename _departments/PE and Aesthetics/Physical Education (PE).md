@@ -44,7 +44,7 @@ The school partners Sport Singapore (SportsSG) in introducing unique sports prog
 
 Our Primary 3 students participate in 5 lessons of Handball to understand the skills and to pit their skills against their friends of other classes at the end of the programme. Primary 4 students learned to play the game of Tchoukball. 
 
-![](/images/PE_Pic04.jpg)
+![SEP](/images/PE_Pic04.jpg)
 
 **Inter-Class Games & Games Carnival (P3–P6) at Northshore Primary School**  
 Alongside our Lower Primary Games Day, Northshore Primary School also organised an exciting Inter-Class Games and Games Carnival for our Primary 3 to Primary 6 students. The event brought together energy, teamwork, and sportsmanship as students represented their classes and participated in a variety of engaging activities.
