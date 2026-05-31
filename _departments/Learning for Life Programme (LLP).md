@@ -31,7 +31,7 @@ LLP Focus 
 
 **Recycle Right Campaign**  
 The school’s environmental efforts are brought to life through our Eco-Explorers, a dedicated group of classroom leaders who support the Recycle Right Campaign in their daily routines. They monitor recycling practices, empty class recycling bags into the Bloobin, and guide their peers to recycle correctly. Through these actions, they promote proper recycling habits and model environmental responsibility for the school community.  
-![](/images/2026_LLP_Pic07.jpg)
+![Recycle Right Campaign](/images/2026_LLP_Pic07.jpg)
 
 **Commemorative Events (World Water Day and Earth Day)**  
 ![](/images/2026_LLP_Pic08.jpg)
