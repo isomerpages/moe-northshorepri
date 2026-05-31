@@ -23,11 +23,11 @@ LLP Focus 
 		 
 **Key Programmes**  
 
-![The 3 "I" Tiered Approach](/images/LLP_Pic03.jpg)
+![Recycling Eforts](/images/LLP_Pic03.jpg)
 
-![Recycling Efforts](/images/LLP_Pic05.jpg)
+![Understanding Food Security](/images/LLP_Pic05.jpg)
 
-![Understanding Food Security](/images/LLP_Pic006.jpg)
+![Learning Journey to Gardens By The Bay](/images/LLP_Pic06.jpg)
 
 **Recycle Right Campaign**  
 The school’s environmental efforts are brought to life through our Eco-Explorers, a dedicated group of classroom leaders who support the Recycle Right Campaign in their daily routines. They monitor recycling practices, empty class recycling bags into the Bloobin, and guide their peers to recycle correctly. Through these actions, they promote proper recycling habits and model environmental responsibility for the school community.  
