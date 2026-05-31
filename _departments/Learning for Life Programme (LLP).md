@@ -23,6 +23,10 @@ LLP Focus 
 		 
 **Key Programmes**  
 
+![The 3 "I" Tiered Approach](/images/LLP_Pic03.jpg)
+
+![Recycling Efforts](/images/LLP_Pic05.jpg)
+
 ![](/images/LLP_Pic003.jpg)
 
 ![](/images/LLP_Pic005.jpg)
