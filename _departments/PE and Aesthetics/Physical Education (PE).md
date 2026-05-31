@@ -25,7 +25,7 @@ Our Primary 3 students will be embarking on their Swimsafer Programme in Term 2.
 **Primary 1 and 2 Lower Primary Games Day**  
 The school organises the Lower Primary Games Day as a whole school in August. On this fun-filled day, our students displayed some of the skills learnt during PE lessons as they competed with friends from other classes.
 
-![](/images/2026_PE_Pic03_02.jpg)
+![Primary 1 and 2 Lower Primary Games Day](/images/2026_PE_Pic03_02.jpg)
 
 **Primary 1 to 5 “I am SAM (Sportsman, Artist, Musician) Week”**  
 
