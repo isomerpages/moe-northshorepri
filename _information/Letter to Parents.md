@@ -26,6 +26,6 @@ d.&nbsp;&nbsp; &nbsp;Enable ‘Allow Notifications’ to receive push notificati
   
 **Note**: Supported OS Versions -&nbsp;**Android 5.0 or later &amp; iOS 9.1 or later**
 
-![](/images/Parent%20letter%20-%20image_3.jpg)
+![Parent Gateway image3](/images/Parent%20letter%20-%20image_3.jpg)
 
-![](/images/Parent%20letter%20-%20image_4.jpg)
+![Parent Gateway image4](/images/Parent%20letter%20-%20image_4.jpg)
