@@ -37,7 +37,7 @@ Past sports activities have included skating circuits inspired by Formula 1 raci
 
 “I am SAM Week” continues to be a highlight of the school calendar, nurturing students to become active sportsmen, creative artists and confident musicians while fostering school spirit, friendship and a love for learning.
 
-![](/images/2026_PE_Pic08.jpg)
+![Primary 1 to 5 “I am SAM (Sportsman, Artist, Musician) Week](/images/2026_PE_Pic08.jpg)
 
 **SEP (Sports Education Programme)**  
 The school partners Sport Singapore (SportsSG) in introducing unique sports programmes to our students to encourage sports participation and increase sporting opportunities. SEP programmes caters for development of skills and sports knowledge of students and help promote active participation of sports. It also promotes team spirit and character building, and to arouse interest in continual sports participation amongst students. 
