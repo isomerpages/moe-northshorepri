@@ -34,7 +34,7 @@ The school’s environmental efforts are brought to life through our Eco-Explore
 ![Recycle Right Campaign](/images/2026_LLP_Pic07.jpg)
 
 **Commemorative Events (World Water Day and Earth Day)**  
-![](/images/2026_LLP_Pic08.jpg)
+![Commemorative Events](/images/2026_LLP_Pic08.jpg)
 Students learn positive environmental habits through play during assembly programmes, cultivating self-discipline and adaptability in their actions. As they engage with others in various level activities, they demonstrate empathy and respect for the environment, while building the tenacity to adopt and sustain responsible habits.  
 
 **Outdoor Education Day Camps (Primary 3 and Primary 4)**   
