@@ -61,7 +61,7 @@ Constructing and Flying Mathematical Kites - Students applying geometric knowled
 **Math  UPS<sup>2</sup> Approach to Problem Solving**  
 Problem solving is an essential component in the teaching and learning of Mathematics. Students will be encouraged to use varied strategies to solve problems, to seek alternative solutions to problems and to create, formulate or extend problems.  Students will learn different heuristics skills for problem solving, with an emphasis in model drawing. 
 
-![](/images/Math_Pic05.jpg)
+![Math UPS 2](/images/Math_Pic05.jpg)
 Math UPS<sup>2</sup>  is adapted from George Polya’s Four Steps Problem-Solving Approach.
 
 **Video** 
