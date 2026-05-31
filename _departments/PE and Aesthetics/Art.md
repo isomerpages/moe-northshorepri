@@ -25,7 +25,7 @@ Students investigate what inspires them, what they are curious about and what th
 **Investigate / Play**  
 Students explore different materials, techniques, and processes to discover new possibilities and push creative boundaries. Students are encouraged to approach the creative process with a sense of curiosity and playfulness as well as to embrace a willingness to take risks and explore new possibilities.
 
-![](/images/art_pic02.jpg)
+![Exploring using pencils](/images/art_pic02.jpg)
 
 **Make**    
 By exploring different techniques and experimenting with different materials to create art, students can discover new ways of expressing their ideas and bring their creative vision to life. Students are encouraged to take ownership of their artistic learning and develop a sense of confidence in their ability to create meaningful artwork.
