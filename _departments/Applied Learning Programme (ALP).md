@@ -6,8 +6,7 @@ description: ""
 ---
 # **Applied Learning Programme (ALP)**
 
-
-![](/images/ALP_Pic00.jpg)
+![ALP](/images/ALP_Pic00.jpg)
 
 Our ALP “imaginEErs - Creativity unlocked: Excite. Explore. Excel” seeks to provide opportunities for our students to be involved in exciting STEM hands-on activities and encourage them to explore ideas, try out new skills such as basic coding, and be creative, placing great emphasis on cultivating the joy of learning in them.
 
