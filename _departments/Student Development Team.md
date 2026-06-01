@@ -23,9 +23,9 @@ The orientation program aims to:
 2.	Introduce students to the school culture, familiarizing them with its values and aligning expectations.  
 3.	Foster positive relationships between teachers and students, as well as among peers.  
 
-![](/images/SDT_pic02.jpg)
-![](/images/SDT_pic03.jpg)
-![](/images/SDT_pic04.jpg)
+![Learn and Grow Programme- Activity 1](/images/SDT_pic02.jpg)
+![Learn and Grow Programme- Activity 2](/images/SDT_pic03.jpg)
+![Learn and Grow Programme- Activity 3](/images/SDT_pic04.jpg)
 
 **Formation @ Northshore**  
 At the end of every year, as part of our ENJOY programme, Northshore Primary School unites to create a human formation. Together with school staff and students, our partners in education – our SAC and PSG members – are invited to be part of the formation.  
