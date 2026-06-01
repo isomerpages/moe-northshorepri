@@ -33,8 +33,8 @@ A highlight of the program is the opportunity for students to compete in the Jun
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gmPLMK__jhE?wmode=transparent&amp;playlist=gmPLMK__jhE&amp;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Photos**  
-![](/images/Basketball_boy_pic01_2025.jpg)
-![](/images/Basketball_boy_pic02_2025.jpg)
+![Basketball Boys photos 1](/images/Basketball_boy_pic01_2025.jpg)
+![Basketball Boys photos 2](/images/Basketball_boy_pic02_2025.jpg)
 
 **Teachers-In-Charge**  
 
