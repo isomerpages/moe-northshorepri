@@ -11,7 +11,7 @@ In line with the EdTech Masterplan 2030 vision to “prepare students for a tech
 
 Our students develop essential digital competencies through the **“Find, Think, Apply, Create”** framework, which is embedded into a progressive ICT curriculum. This curriculum integrates Baseline ICT Standards and New Media Literacies to ensure a strong foundation in digital learning.
 
-![](/images/ICT001.jpg)
+![Find, Think, Apply, Create Framework](/images/ICT001.jpg)
 
 **EdTech Programme Overview**  
 At Northshore Primary School, our EdTech curriculum is designed to progressively equip students with essential digital skills and competencies aligned with the MOE's Baseline ICT Standards. With a strong focus on foundational ICT skills, responsible digital citizenship, and exposure to emerging technologies, Northshoreans are empowered to become confident, collaborative, and future-ready digital learners.  
@@ -22,7 +22,7 @@ At Northshore Primary School, our EdTech curriculum is designed to progressively
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>Primary 4&nbsp;&nbsp;&nbsp;</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>Primary 5&nbsp;&nbsp;&nbsp;</td><td rowspan="2" style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>• Use of Applications and Software (Email Communication Skills)<br>   <br>• Advanced Use of Collaborative Platforms<br>   <br>• Cyber Wellness Education<br>   <br>• Code For Fun Programme (for Primary 6 students only)   </td></tr>
 <tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br>Primary 6 (*From 2026)&nbsp;&nbsp;&nbsp;</td></tr></tbody></table>
 
-![](/images/ICT002.jpg)
+![EdTech Programme Photos](/images/ICT002.jpg)
 
 **Signature Programmes**  
 
