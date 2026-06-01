@@ -12,7 +12,7 @@ Our ALP “imaginEErs - Creativity unlocked: Excite. Explore. Excel” seeks to 
 
 Our Design Process, The Game Plan, has been adapted from the Design Thinking Framework to tie in with the contextual theme of Game Design and Making.  At the Story stage, students will be presented with a  narrative where they will have to empathise and define the problem.  At the Strategise stage, our students are involved in the ideation process to solve the problem that was identified.  At the Challenge stage, students create and test their prototypes, gameplay  and suitability in solving the problem.  At the Level Up stage, students are introduced to an ideation strategy, SCAMPER, to make the necessary changes and improvements to their prototypes.
 
-![](/images/ALP_Pic02.jpg)
+![ALP Start](/images/ALP_Pic02.jpg)
 
 Through imaginative learning experiences, we aim to develop our students’ critical, adaptive and inventive thinking skills through student-centred pedagogy and STEM-related dispositions - GRIT (Graciousness, Responsibility, Innovation and Tenacity) and foster communication and collaboration skills while working in teams, to eventually nurture confident and creative imagineers.
 ![](/images/ALP_Pic03.jpg)  
