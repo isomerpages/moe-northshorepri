@@ -21,13 +21,13 @@ Tuesdays, 2pm to 3:30pm
 Level of Students: P3 to P6.
 
 **Photos**
-![](/images/Scouts_pic01_1.jpg)
+![Scouts - Doing grand howl](/images/Scouts_pic01_1.jpg)
 
-![](/images/Scouts_pic02.jpg)
+![Scouts - Reciting Scout's Promise and Scout's Law on Founder's Day during assembly](/images/Scouts_pic02.jpg)
 
-![](/images/Scouts_pic03.jpg)
+![Scouts - Scout's Promise and Scout's Law during weekly meetings](/images/Scouts_pic03.jpg)
 
-![](/images/Scouts_pic04_1.jpg)
+![Scouts - Outdoor cooking session](/images/Scouts_pic04_1.jpg)
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br>Akelas (Teachers-in-charge)  </th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br>Email address </th></tr></thead>
 <tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br>Mr Mark Lim (Teacher in Charge) </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br><a rel="noopener noreferrer" target="_blank" href="mailto:mark_lim_xian_jin@schools.gov.sg">mark_lim_xian_jin@schools.gov.sg</a> </td></tr>
