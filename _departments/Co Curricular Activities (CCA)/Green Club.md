@@ -25,10 +25,9 @@ The club strives to nurture and inspire environmentally conscious students who a
 </tbody></table>
 
 **Photos**
-![](/images/Green_Club_pic01.jpg)
+![Green Club - Junkbot making](/images/Green_Club_pic01.jpg)
 
-![](/images/Green_Club_pic02.jpg)
-
+![Green Club - Design of Green Corner](/images/Green_Club_pic02.jpg)
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br><span style="color:#303030">Teachers-in-charge</span> </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br><span style="color:#303030">Email address</span> </th></tr></thead>
 <tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">   <br>Mdm Nur Huda (Teacher in Charge)   </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><a href="mailto:nur_huda_mohammad_sidek@schools.gov.sg">nur_huda_mohammad_sidek@schools.gov.sg</a>&nbsp;&nbsp;&nbsp;</td></tr>
