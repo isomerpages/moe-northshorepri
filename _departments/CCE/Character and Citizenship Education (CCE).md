@@ -76,7 +76,7 @@ Primary 3 Racial Harmony Day experience in Social Studies
 “Be a G.E.M.” is a signature Northshore programme that nurtures a heart to serve in every student—encouraging them to Be Grateful, Show Empathy, and Make a Difference. This is brought to life through two key school-wide experiences.  
 * Students engage in customized Values-in-Action projects at each level, culminating on Children’s Day. By celebrating Children’s Day as a day of giving, students develop a strong sense of empathy.
 
-* The year also concludes with a time of reflection, where Northshoreans express appreciation to peers, teachers, and family members for gratitude is key to developing a tenacious mindset
+* The year also concludes with a time of reflection, where Northshoreans express appreciation to peers, teachers, and family members for gratitude is key to developing a tenacious mindset.
 
 
 ![Checking expiry dates from the Food from the Heart donation drive](/images/2026_CCE_Pic18.jpg)
