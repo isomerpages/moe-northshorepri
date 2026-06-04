@@ -89,7 +89,7 @@ Inter-class games to raise awareness about Food from the Heart
 Cleaning the school
 
 ![Decorating children’s day goodie gags for Suncare SG](/images/2026_CCE_Pic21.jpg)
-Decorating children’s day goodie gags for Suncare SG
+Decorating Children’s Day goodie bags for Suncare SG
 
 ![Representing the primary 4 cohort to give out children’s day goodie bags](/images/2026_CCE_Pic22.jpg)
 Representing the primary 4 cohort to give out children’s day goodie bags
