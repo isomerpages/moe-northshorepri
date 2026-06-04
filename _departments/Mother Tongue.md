@@ -27,7 +27,6 @@ The development of language skills has to work closely with the development of c
 Click the link in each letter below to explore more:  
 [A](https://www.thinglink.com/card/1601590443823333379) - Level 1, [B](https://www.thinglink.com/card/1601590550530621443) - Level 2,  [C](https://www.thinglink.com/card/1601590664309506051) - Level 4, [D](https://www.thinglink.com/card/1603704273437196291) - Level 5, [E](https://www.thinglink.com/card/1601590849827766275) - Level 7
 
-
 **I am a little Tour Guide (P4)**
 ![I am a little Tour Guide (P4)](/images/2026_MT_Pic07a.jpg)
 Click this [link](https://www.thinglink.com/scene/2052573889766097764) to explore more.
@@ -37,5 +36,4 @@ Yiwu Socks Factory:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mjbrUE0avjI?wmode=transparent&amp;playlist=mjbrUE0avjI;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>  
 
 Hangzhou West Lake:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GuvQl_H7V0g?wmode=transparent&amp;playlist=GuvQl_H7V0g;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>  
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GuvQl_H7V0g?wmode=transparent&amp;playlist=GuvQl_H7V0g;loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
