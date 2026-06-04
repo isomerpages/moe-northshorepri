@@ -92,7 +92,7 @@ Cleaning the school
 Decorating Children’s Day goodie bags for Suncare SG
 
 ![Representing the primary 4 cohort to give out children’s day goodie bags](/images/2026_CCE_Pic22.jpg)
-Representing the primary 4 cohort to give out children’s day goodie bags
+Representing the Primary 4 cohort to give out Children’s Day goodie bags
 
 ![P5 students preparing to teach the P2 juniors about sign language](/images/2026_CCE_Pic23.jpg)
 P5 students preparing to teach the P2 juniors about sign language
