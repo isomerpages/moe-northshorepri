@@ -46,7 +46,7 @@ This programme is designed to provide early intervention to students who need ad
 ![P1 and P2 students demonstrating their creativity through the activities in Project H.E.L.M. ](/images/math%202.jpg)
 Primary 1 and Primary 2 students demonstrating their creativity by creating and playing games through the activities in Project H.E.L.M.
 
-![Students engaging in a hands-on activity](/images/2026_Maths_pic02.jpg)
+![Students engaging in a hands-on activity](/images/2026_Maths_pic02a.jpg)
 Students engaging in a hands-on activity as part of the Project H.E.L.M. initiative to reinforce mathematical concepts at home.
 
 ![Let’s Play Math!](/images/2026_Maths_pic03.jpg)
