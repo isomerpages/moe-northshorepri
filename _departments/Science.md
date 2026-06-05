@@ -46,7 +46,7 @@ The “Every Child a Seed” programme is a yearly highlight for our Primary 3 s
 The Grow a Mealworm Beetle program is another yearly   highlight for our Primary 3 students at Northshore Primary. Each year, students have the chance to observe the life cycle of mealworm beetles firsthand, as they nurture and monitor the beetles through each stage of development. This hands-on learning experience, closely aligned with the Life Cycles of Animals topic, sparks curiosity and deepens understanding by allowing students to see concepts from their textbooks come alive. By connecting classroom science with real-world exploration, the program encourages a love for learning and inspires students to engage actively with scientific inquiry.
 
 * **P4 Fun with Matter**  
-Our Primary 4 students embark on an exciting annual STEM experience, exploring the states of matter through engaging, hands-on activities. Through the use of dry ice and interactive demonstrations, they investigate how solids, liquids, and gases differ in shape,   and volume. Students observe fascinating phase changes through practical experiments and have a good time making sl  ime. They even get to take their slime home!  
+Our Primary 4 students embark on an exciting annual STEM experience, exploring the states of matter through engaging, hands-on activities. Through the use of dry ice and interactive demonstrations, they investigate how solids, liquids, and gases differ in shape,  and volume. Students observe fascinating phase changes through practical experiments and have a good time making slime. They even get to take their slime home!  
 
 ![P4 Fun with Matter](/images/2026_Science_pic09.jpg)
 
