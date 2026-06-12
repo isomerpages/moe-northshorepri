@@ -53,7 +53,7 @@ Let’s Play Math! Students engaging in interactive recess games, where explorin
 Math Day Out! Students participating in an interactive learning trail, working together to solve challenges and discover Mathematics in the world around them.
 
 ![Constructing and Flying Mathematical Kites](/images/2026_Maths_pic05.jpg)
-Constructing and Flying Mathematical Kites - Students applying geometric knowledge and measurements to design and fly their own kites, making Math comes alive.
+Constructing and Flying Mathematical Kites - Students applying geometric knowledge and measurements to design and fly their own kites, making Math come alive.
 
 **Math  UPS<sup>2</sup> Approach to Problem Solving**  
 Problem solving is an essential component in the teaching and learning of Mathematics. Students will be encouraged to use varied strategies to solve problems, to seek alternative solutions to problems and to create, formulate or extend problems.  Students will learn different heuristics skills for problem solving, with an emphasis in model drawing. 
