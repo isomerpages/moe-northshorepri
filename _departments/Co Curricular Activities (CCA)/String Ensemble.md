@@ -26,9 +26,8 @@ In the process, students learn the importance of respect, teamwork and tenacity 
 </tbody></table>
 
 **Photos**
-![](/images/CCA_String_Ensemble_Pic01.jpg)
-![](/images/CCA_String_Ensemble_Pic02.jpg)
-
+![String Ensemble - Strings in Harmony and Cello](/images/CCA_String_Ensemble_Pic01.jpg)
+![String Ensemble - Pizzicato, Arco and learning from basics](/images/CCA_String_Ensemble_Pic02.jpg)
 
 **Teachers-In-Charge**
 

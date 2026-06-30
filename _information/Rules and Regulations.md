@@ -60,8 +60,8 @@ socks with the Northshore label are to be worn. Socks must be above ankle.</p>
 be required to dye their hair back to its original colour.
 <br>• Fingernails should be trimmed and kept short. Nail polish is not allowed.</p>
 
-![](/images/Rule_Pic02.jpg)
-![](/images/Rule_Pic03.jpg)
+![Boys Girls Appearance rule1](/images/Rule_Pic02.jpg)
+![Boys Girls Appearance rule2](/images/Rule_Pic03.jpg)
 
 <p><strong>Behaviour</strong>
 <br>All Northshoreans are expected to demonstrate exemplary behaviour by observing

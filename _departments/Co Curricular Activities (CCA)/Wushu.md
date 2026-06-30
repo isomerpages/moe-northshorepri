@@ -22,9 +22,9 @@ Students also learn the importance of teamwork, social awareness and mutual supp
 
 
 **Photos**
-![](/images/Wushu_pic01.jpg)
-![](/images/Wushu_pic02.jpg)
-![](/images/Wushu_pic03.jpg)
+![Wushu - Stretching and Gong Bu](/images/Wushu_pic01.jpg)
+![Wushu - Pu Bu and Xu Bu](/images/Wushu_pic02.jpg)
+![Wushu - Zuo Pan](/images/Wushu_pic03.jpg)
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><span style="color:#0D0D0D">Teachers</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><span style="color:#0D0D0D">Emails</span></th></tr></thead>
 <tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><span style="color:#0D0D0D;background-color:white">Mdm Christina Lee (Teacher in Charge)</span>&nbsp;&nbsp;&nbsp;</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">&nbsp;&nbsp;&nbsp;<br><a href="mailto:lee_hwee_boon_christina@schools.gov.sg"><span style="text-decoration:none">lee_hwee_boon_christina@schools.gov.sg</span></a>&nbsp;&nbsp;&nbsp;</td></tr>

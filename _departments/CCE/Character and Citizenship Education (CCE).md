@@ -7,43 +7,98 @@ variant: markdown
 ---
 # **Character and Citizenship Education (CCE)**
 
-CCE aims to develop good character, resilience, social-emotional well-being, future readiness and active citizenship in our students.  CCE lessons include CCE Form Teacher Guidance Period (CCE FTGP), CCE Mother Tongue Languages (CCE MTL) and Programme for Active Learning (PAL).  Key student development experiences provide an authentic learning platform that contribute to the holistic development of Northshoreans.  
+The CCE curriculum, guided by the CCE 2021 Curriculum Frame aims to develop good character, resilience, social-emotional well-being, future readiness, and active citizenship in our students. At Northshore, our school-based CCE programmes align with our school vision and nurture S.M.A.R.T. values in our students.
 
-**CCE at Northshore**  
+ <p style="text-align: center; font-weight: bold;">Courage to Explore</p> 
+Through our **Education and Career Guidance (ECG)** efforts, students are equipped with the knowledge and skills to explore their secondary school options and future career pathways. Visit Northshore Primary School ECG page for more details and updates.   
 
-Northshore, CCE is guided by the School Vision and S.M.A.R.T¹ values. (¹S.M.A.R.T acronym: Self-discipline, eMpathy. Adaptability, Respect and Tenacity). The school uses a two-tier “2E” developmental and progressive approach to develop Northshoreans.
+**Zones of Regulation in-house curriculum** helps students build emotional awareness and self-management skills. This provides the foundation for emotional resilience and adaptability, enabling them to take the courage to explore new opportunities and be tenacious through challenges.
 
-The “2E” approach is as follows: 
+![Exchanging for an encouragement sticker that puts us in the green zone](/images/2026_CCE_Pic01.jpg)
+Exchanging for an encouragement sticker that puts us in the green zone
 
-*   Engage (Tier 1): Engage and develop all students holistically through intentional teaching of knowledge, social-emotional skills, values and attitudes.
-*   Empower (Tier 2): Empower students who exhibit greater aptitude and interest to drive ground-up initiatives, lead actively in school programmes and be a positive peer influence.
+![Voting for my favourite fidget tool](/images/2026_CCE_Pic02.jpg)
+Voting for my favourite fidget tool
+
+![Learning about box breathing](/images/2026_CCE_Pic03.jpg)
+Learning about box breathing
+
+![Lower primary classrooms have a rainbow cove for emotion regulation](/images/2026_CCE_Pic04.jpg)
+Lower primary classrooms have a rainbow cove for emotion regulation
+
+<p style="text-align: center; font-weight: bold;">Passion to Learn</p>
+Passion to Learn is expressed through hands-on, experiential learning during National Education commemorative days. Cohort activities are thoughtfully designed to ensure learning is active and memorable for students to develop strong citizenship disposition.
+
+**Total Defence Day:**  
+![Getting up close with police officers](/images/2026_CCE_Pic05.jpg)
+Getting up close with police officers
+
+![Civil Defence: Learning to pack a ready bag](/images/2026_CCE_Pic06.jpg)
+Civil Defence: Learning to pack a ready bag
+
+![Economic Defence: Learning to spend wisely](/images/2026_CCE_Pic07.jpg)
+Economic Defence: Learning to spend wisely
+
+![Social Defence: Learning about hawker culture](/images/2026_CCE_Pic08.jpg)
+Social Defence: Learning about hawker culture
+
+**International Friendship Day:**  
+![Knowing ASEAN cultures](/images/2026_CCE_Pic09.jpg)
+Knowing ASEAN cultures
+
+![Mekong River simulation](/images/2026_CCE_Pic10.jpg)
+Mekong River simulation
+
+![ASEAN sights and sounds in a rubiks cube](/images/2026_CCE_Pic11.jpg)
+ASEAN sights and sounds in a rubiks cube
+
+![About Wayang Kulit](/images/2026_CCE_Pic12.jpg)
+About Wayang Kulit
+
+![About Tinikling: Traditional Philippine folk dance](/images/2026_CCE_Pic13.jpg)
+About Tinikling: Traditional Philippine folk dance
+
+**Racial Harmony Day:**  
+
+![Experiencing traditional games that bond](/images/2026_CCE_Pic14.jpg)
+Experiencing traditional games that bond
+
+![Reimagining the future of public housing for social mixing](/images/2026_CCE_Pic15.jpg)
+Reimagining the future of public housing for social mixing
+
+![Exploring cultures throughsthe arts](/images/2026_CCE_Pic16.jpg)
+Exploring cultures through the arts
+
+![Primary 3 Racial Harmony Day experience in Social Studies](/images/2026_CCE_Pic17.jpg)
+Primary 3 Racial Harmony Day experience in Social Studies
+
+ <p style="text-align: center; font-weight: bold;">Heart To Serve</p> 
+“Be a G.E.M.” is a signature Northshore programme that nurtures a heart to serve in every student—encouraging them to Be Grateful, Show Empathy, and Make a Difference. This is brought to life through two key school-wide experiences.  
+* Students engage in customized Values-in-Action projects at each level, culminating on Children’s Day. By celebrating Children’s Day as a day of giving, students develop a strong sense of empathy.
+
+* The year also concludes with a time of reflection, where Northshoreans express appreciation to peers, teachers, and family members for gratitude is key to developing a tenacious mindset.
 
 
-### Key School-based Initiatives
+![Checking expiry dates from the Food from the Heart donation drive](/images/2026_CCE_Pic18.jpg)
+Checking expiry dates from the Food from the Heart donation drive
 
-**EnJoy - Ending the Year with JOY**  
-An appreciation day with the following objectives:  
+![Inter-class games to raise awareness about Food from the Heart](/images/2026_CCE_Pic19.jpg)
+Inter-class games to raise awareness about Food from the Heart
 
-1.    To strengthen teacher-student relationships, peer support and relationships.  
-2.    To consolidate the learning experiences and milestones of Northshoreans.
+![Cleaning the school](/images/2026_CCE_Pic20.jpg)
+Cleaning the school
 
-![](/images/2022-Cce_Pic06.jpg)
-Appreciating our grandparents
+![Decorating children’s day goodie gags for Suncare SG](/images/2026_CCE_Pic21.jpg)
+Decorating Children’s Day goodie bags for Suncare SG
 
-![](/images/2022-Cce_Pic07.jpg)
-Celebrating National Day with gratefulness
+![Representing the primary 4 cohort to give out children’s day goodie bags](/images/2026_CCE_Pic22.jpg)
+Representing the Primary 4 cohort to give out Children’s Day goodie bags
 
-![](/images/2022-Cce_Pic08.jpg)
-Celebrating Total Defence Day
+![P5 students preparing to teach the P2 juniors about sign language](/images/2026_CCE_Pic23.jpg)
+P5 students preparing to teach the P2 juniors about sign language
 
-![](/images/2022-Cce_Pic09.jpg)
-Never too young to put values into action
+![Our P5 students in action, teaching their juniors](/images/2026_CCE_Pic24.jpg)
+Our P5 students in action, teaching their juniors
 
-![](/images/2022-Cce_Pic10.jpg)
-Partnering Food From The Heart
-
-![](/images/2022-Cce_Pic11.jpeg)
-Students participating in International Friendship Day activities.
-
-![](/images/2022-Cce_Pic12.jpg)
-Weaving our hearts together for Racial Harmony Day
+![P5 students teaching the P2 students about braille](/images/2026_CCE_Pic25.jpg)
+P5 students teaching the P2 students about braille

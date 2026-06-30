@@ -12,7 +12,7 @@ At Northshore, we develop student leadership in each and every Northshorean.  We
 
 Our leadership framework provides opportunities for students to grow in responsibility and leadership skills, with each tier designed to challenge and support their personal growth. The framework is structured across three distinct tiers, allowing students to progressively take on more significant roles.
 
-![](/images/SLS_Pic01.jpg)
+![Students Leaders Framework](/images/SLS_Pic01.jpg)
 
 **Tier 1: Class Committee Roles – Introduction to Leadership**  
 In Tier 1, every student has the opportunity to participate in class committee roles. These positions offer a first step toward leadership, providing students with hands-on experience in organising and working with others. It is a great introduction to the responsibilities and teamwork needed to succeed as a leader, setting the foundation for future leadership opportunities.
@@ -20,8 +20,8 @@ In Tier 1, every student has the opportunity to participate in class committee r
 **Tier 2: Specialist Leaders – Developing Leadership Skills**  
 In Tier 2, students from Primary 3 and Primary 4 are selected as specialist leaders, responsible for leading teams of Junior Prefects, Peer Support Leaders (PSLs), and CCA Leaders. These leaders play a more focused role in school life, guiding their teams and contributing to the smooth running of various activities. Specialist leaders refine their leadership skills and take on greater responsibility, creating a bridge between the foundational roles of Tier 1 and the executive positions in Tier 3.
 
-![](/images/SLS_Pic03.jpg)
-![](/images/SLS_Pic04.jpg)
+![Students Leaders Investiture](/images/SLS_Pic03.jpg)
+![Students Leaders reciting student leader pledge and Trainee Prefect training](/images/SLS_Pic04.jpg)
 
 **Tier 3: Executive Leadership – Excellence and Mentorship**  
 Tier 3 is reserved for students who demonstrate excellence in leadership. This tier includes our Head Prefect, Vice Head Prefect, Executive Committee Members, Senior Prefects, PSLs, and CCA Leaders. These students take on the highest level of responsibility, not only leading by example but also mentoring and guiding students from lower tiers. Their leadership extends throughout the school, serving as role models in character, academic achievement, and community involvement.
@@ -39,6 +39,15 @@ Our student leaders at Northshore Primary School perform various duties that hel
 
 •	**Voices of Northshoreans**: At Northshore Primary School, every student has a voice in shaping the school’s future. Through Voices of Northshoreans, students are encouraged to share their ideas on how to improve the school environment. Their suggestions are carefully reviewed by a dedicated team of teachers and Prefects before being submitted to the Principal for final consideration. Successful ideas that enhance the school experience are implemented, and students who contribute meaningful changes are recognized for their efforts. As a token of appreciation, specially made bookmarks are given to students who have suggested meaningful and feasible ideas. This initiative empowers students to take an active role in making Northshore Primary a better place for everyone. Every idea counts, and every voice matters!  
 
-![](/images/SLS_Pic02_1.jpg)
+![Voices of Northshoreans](/images/SLS_Pic02_1.jpg)
 
 As ambassadors for Northshore Primary School, student leaders are expected to model our school values. They set a positive example for others, inspiring their peers to embrace leadership opportunities and contribute to a strong, supportive school community.
+
+**ActiveX Playdate with Senior Citizens**  
+Northshore Primary School prefects recently took part in an ActiveX Playdate, where they had the opportunity to interact with seniors from Allkin Active Ageing Centre in a meaningful and engaging setting. In collaboration with ActiveSG, the prefects organised a series of fun and inclusive games that encouraged bonding across generations.
+
+The students also worked together with the seniors on a pennant drawing activity, fostering creativity and shared experiences. Through laughter, conversations, and teamwork, the session created a warm and vibrant atmosphere for all participants.
+
+The ActiveX Playdate provided a valuable platform for our prefects to demonstrate empathy, leadership, and respect, while building connections with the community beyond the school.  
+
+![ActiveX Playdate with Senior Citizens](/images/2026_SLS_Pic05.jpg)

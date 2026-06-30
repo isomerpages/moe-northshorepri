@@ -2,37 +2,64 @@
 title: Science
 permalink: /departments/science/
 description: ""
+variant: markdown
 ---
 # **Science**
 
-**I. Revised Science Curriculum Framework**   
-The revised Science Curriculum Framework summarises the aim of Science education in Singapore to provide our students with strong fundamentals in Science for life, learning, citizenry and work.  
+**1. Revised Primary Science Curriculum**   
+![Revised Primary Science Curriculum](/images/2026_Science_pic01.jpg)  
+![Vision for Science Education in NSPS](/images/2026_Science_pic02.jpg)  
+![Vision for Science Education Pic02](/images/2026_Science_pic03.jpg)  
+![Development of core ideas](/images/2026_Science_pic04.jpg)  
+![Discussion on Social and Ethical Issue](/images/2026_Science_pic05.jpg)
 
-<img style="width:40%" src="/images/sci_pic00.jpg"> 
+**(I) Teaching and Learning in Northshore**   
+Our Science programmes are structured to provide opportunities for our students to explore, investigate and discover knowledge. We want our students to develop attitudes which encourage them to be curious, persevering and concerned about their surroundings. We seek to fuel this spirit of inquiry and ultimately want our students to enjoy Science and value the discipline as an important tool in helping them understand and relate to their natural and physical world.  
 
-**II. Primary Science Syllabus**  
-The Primary Science Syllabus aims to provide students with experiences/opportunities to:  
-* Build on their interest and stimulate their curiosity about themselves and their environment.
-* Acquire basic scientific concepts to help them understand themselves and the world around them.
-* Develop skills, dispositions, and attitudes for scientific inquiry.
-* Apply scientific concepts and skills in making responsible decisions.
-* Appreciate how Science influences people and the environment.
+Please access the 2023 primary science syllabus [here.](https://www.moe.gov.sg/api/media/ba3562d3-5b31-4459-8693-45cde7b97273/Primary-Science-Syllabus-2023.pdf)
 
-Please access the 2023 primary science syllabus [here](https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-primary-science.ashx).
+* **Activity-based and Collaborative Learning using SPARKLE Kits**
 
-**III. Pedagogy**  
-Our pedagogy is rooted in the belief that all students are curious and want to explore and learn about things around them.  
-As such, we aim to nurture our students as inquirers through opportunities for them to explore and to appreciate the role of Science for Life and Society. These opportunities allow them to build on the core ideas, practices, values, ethics and attitudes of science as they learn with others, learn using resources and learn in different environments.  
+![Activity-based and Collaborative Learning using SPARKLE Kits](/images/2026_Science_pic06.jpg)
 
-![](/images/sci_pic01.jpg)
+* **Department Strategies for Scientific Discourse in Answering Questions**
+![Department Strategies for Scientific Discourse in Answering Questions](/images/2026_Science_pic07.jpg)
 
-![](/images/sci_pic02.jpg)
+**(II) Experiential Learning for Making Connections to Real Life Application**   
+* **Science Explorer Activities**  
+Science Explorer at Northshore Primary School  aims to provide students with the experiences to extend their learning of Science. These experiences include activities that allow them to connect the knowledge with real world applications and for them to show a deeper appreciation of science based on the contributions of scientists past and present.
 
-**IV. Programme**  
+<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 766px"><colgroup><col style="width: 83px"><col style="width: 207px"><col style="width: 476px"></colgroup>
+<thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Level  </th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Name of Science Explorer Activity </th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Description of the Activity </th></tr></thead>
+<tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Primary 3   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Project SAIL    </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Students apply the concepts learnt in the topic of Diversity of Materials to make a boat using recycled materials from home to solve a problem-based scenario of evacuating shipwrecked passengers from an   island. They would need to test their boat to fulfil certain pre-determined requirements. <br>   <br>    </td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Primary 4   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Project Human Digestive System   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Students apply the concepts learnt in the topic of Human Digestive System to make a model using recycled materials from home to demonstrate the functions of the different parts of the digestive system.<br>   <br>    </td></tr>
+<tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Primary 5   </td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Project SEED   </td>
+<td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   <br>Students apply the concepts learnt in the topic of Reproduction in Animals and Plants to make a fruit/seed casing using recycled materials from home to solve a problem-based scenario of dispersing seeds on   an unknown planet as part of preparation to inhabit the planet with plants prior to arrival of the first human colony. <br>   <br>    </td></tr>
+</tbody></table>
 
-**Science Explorers**  
-Science Explorer at Northshore Primary aims to provide students with the experiences to extend their learning of Science. These experiences include activities that allow them to connect the knowledge with real world applications and for them to show a deeper appreciation of science based on the contributions of scientists past and present.  
+![Science Explorer Activities](/images/2026_Science_pic08.jpg)
 
-The Science Explorer activities has been designed to allow our Northshoreans to see the world through the lens of scientists by experiencing the practices of Science and understanding the nature of Science as a reliable, durable and evidence-based subject of knowledge.
+* **Primary 3 Grow A Seed Programme by NParks**  
+The “Every Child a Seed” programme is a yearly highlight for our Primary 3 students at Northshore Primary. Each student receives a plant starter kit from NParks and begins their own planting journey. Through this hands-on experience, students explore the plant life cycle, observing growth from seed to sprout. The programme nurtures responsibility and curiosity, while connecting classroom learning to real-world experiences and fostering a deeper appreciation for nature.
 
-![](/images/sci_pic03.jpg)
+* **P3 Grow a Mealworm Beetle**  
+The Grow a Mealworm Beetle programme is another yearly   highlight for our Primary 3 students at Northshore Primary. Each year, students have the chance to observe the life cycle of mealworm beetles firsthand, as they nurture and monitor the beetles through each stage of development. This hands-on learning experience, closely aligned with the Life Cycles of Animals topic, sparks curiosity and deepens understanding by allowing students to see concepts from their textbooks come alive. By connecting classroom science with real-world exploration, the program encourages a love for learning and inspires students to engage actively with scientific inquiry.
+
+* **P4 Fun with Matter**  
+Our Primary 4 students embark on an exciting annual STEM experience, exploring the states of matter through engaging, hands-on activities. Through the use of dry ice and interactive demonstrations, they investigate how solids, liquids, and gases differ in shape,  and volume. Students observe fascinating phase changes through practical experiments and have a good time making slime. They even get to take their slime home!  
+
+![P4 Fun with Matter](/images/2026_Science_pic09.jpg)
+
+* **Differentiated Programmes for Northshoreans**   
+**Primary 4 and Primary 5 Excellence in 2000 (E2K) Science**
+
+  Selected P4 and P5 students are given opportunities to engage in scientific 
+  investigations involving advanced science concepts. The E2K sessions enable   students to engage in scientific inquiry that helps them to develop the habits,     attitudes and dispositions scientists possess as well as to gain 21st century       competencies such as critical and inventive thinking and effective                         communication skills. The different experiments expose- them to various             science apparatus. Working in teams allows students to overcome challenges     when they encounter problems in their experiments. 
+
+![Differentiated Programmes for Northshoreans](/images/2026_Science_pic10.jpg)
+
+**Raffles Science Olympiad**  
+The Raffles Science Olympiad is one of our school’s key Science enrichment programmes, organised in collaboration with Raffles Institution, to extend selected Primary 5 students’ learning beyond the classroom. Through this programme, selected students participate in hands-on challenges and investigative tasks across life sciences, physical sciences, and scientific inquiry, allowing them to deepen their understanding while developing critical thinking, problem-solving, and collaboration skills. The Olympiad also builds confidence and resilience as students work in teams and apply their knowledge in new contexts, supporting our goal of nurturing curious, capable, and future-ready learners.
+
+**Primary 4 to Primary 6 Science Remediation Programme**  
+Our school offers a structured remedial programme to support selected students in closing learning gaps. Through small-group instruction, teachers identify specific needs using assessments and provide targeted support to strengthen key concepts. Lessons include hands-on activities, guided practice, and timely feedback to build confidence and understanding.
